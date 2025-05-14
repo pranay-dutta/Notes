@@ -14,4 +14,5 @@
 - [[Loose assertion and tight assertion]]
 - [[Positive testing and negative testing]]
 - [[Boundary Testing]]
+- [[Parameterized Tests]]
 
