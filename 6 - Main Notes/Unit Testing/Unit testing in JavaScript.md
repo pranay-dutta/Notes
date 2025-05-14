@@ -15,4 +15,5 @@
 - [[Positive testing and negative testing]]
 - [[Boundary Testing]]
 - [[Parameterized or Data Driven Tests]]
+- [[Setup and Teardown]]
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Unit Testing/Some matchers of vi-test.md",
+                "file": "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some matchers of vi-test"
+              "title": "Unit testing in JavaScript"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -181,7 +182,18 @@
   },
   "active": "84ca2fefc102a0d4",
   "lastOpenFiles": [
+    "6 - Main Notes/Unit Testing/Setup and Teardown.md",
+    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+    "6 - Main Notes/Unit Testing/What is unit testing.md",
+    "6 - Main Notes/Unit Testing/What is testing framework.md",
+    "6 - Main Notes/Unit Testing/What is a Matcher.md",
+    "6 - Main Notes/Unit Testing/What are the Benefits automated testing.md",
+    "6 - Main Notes/Unit Testing/Ways to write tests.md",
+    "6 - Main Notes/Unit Testing/Vi-test installation.md",
+    "6 - Main Notes/Unit Testing/Types of tests.md",
+    "6 - Main Notes/Unit Testing/Test-driven Development(TDD).md",
     "6 - Main Notes/Unit Testing/Positive testing and negative testing.md",
+    "6 - Main Notes/Unit Testing/Some matchers of vi-test.md",
     "6 - Main Notes/Unit Testing/Popular Testing Frameworks.md",
     "6 - Main Notes/Unit Testing/Parameterized or Data Driven Tests.md",
     "6 - Main Notes/Unit Testing/Loose assertion and tight assertion.md",
@@ -190,28 +202,17 @@
     "6 - Main Notes/Unit Testing/Code coverage tool of vi-test.md",
     "6 - Main Notes/Unit Testing/Characteristics of Good Unit Tests.md",
     "6 - Main Notes/Unit Testing/Boundary Testing.md",
-    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
-    "6 - Main Notes/Unit Testing/What is unit testing.md",
     "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
     "6 - Main Notes/Pivot.md",
     "2025-05-14.md",
-    "6 - Main Notes/Unit Testing/Types of tests.md",
     "README.md",
     "Notes/This is a test file.md",
     "Notes",
-    "6 - Main Notes/Unit Testing/What is a Matcher.md",
-    "6 - Main Notes/Unit Testing/Some matchers of vi-test.md",
-    "6 - Main Notes/Unit Testing/Vi-test installation.md",
     "5 - Templates/Template, Back to.md",
-    "6 - Main Notes/Unit Testing/Test-driven Development(TDD).md",
-    "6 - Main Notes/Unit Testing/Ways to write tests.md",
-    "6 - Main Notes/Unit Testing/What is testing framework.md",
-    "6 - Main Notes/Unit Testing/What are the Benefits automated testing.md",
     "Pasted image 20250514024616.png",
     "Pasted image 20250514025124.png",
     "2  - Source Materials/Images/unit-test-pyramid.png",
     "6 - Main Notes/Unit Testing",
-    "3 - Tags/Hash Table.md",
     "Element that appears n",
     "Element that appears more than n",
     "6 - Main Notes/Politics",
