@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97a69614679aafed",
+        "id": "121ed704ad6ebe15",
         "type": "tabs",
         "children": [
           {
-            "id": "c10ef9c2c7c92e2c",
+            "id": "84ca2fefc102a0d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SSC CHSL - Combined Higher Secondary Level"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 350.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -179,10 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c10ef9c2c7c92e2c",
+  "active": "84ca2fefc102a0d4",
   "lastOpenFiles": [
-    "6 - Main Notes/Pivot.md",
     "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
+    "6 - Main Notes/Pivot.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/Unit Testing/Parameterized or Data Driven Tests.md",
     "6 - Main Notes/Unit Testing/Boundary Testing.md",
