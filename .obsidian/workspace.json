@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "757b4a64fc7af9c4",
+    "id": "209a1044084fbb23",
     "type": "split",
     "children": [
       {
-        "id": "ede3541e55486ce0",
+        "id": "42ab7b9422e2774f",
         "type": "tabs",
         "children": [
           {
-            "id": "34f93a1cdafbc113",
+            "id": "1a8abd49216264b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "610b762ced09ea4a",
+    "id": "9a4fb038ea72ec50",
     "type": "split",
     "children": [
       {
-        "id": "9d2424eb5f4069a7",
+        "id": "bc21ab5df9a6aef5",
         "type": "tabs",
         "children": [
           {
-            "id": "39f8c5925f495837",
+            "id": "a4df01eb4e0dcdcc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "2930a13c968bc782",
+            "id": "1ca124ff606f34a8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "b25075acece99aa6",
+            "id": "9caa335bcb87edc7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
-    "id": "dad11d95f0f4a817",
+    "id": "cbe5a317a0a9020b",
     "type": "split",
     "children": [
       {
-        "id": "09fb3d86d6c2af60",
+        "id": "0672138abc942fcc",
         "type": "tabs",
         "children": [
           {
-            "id": "4f9b712d97eccb2e",
+            "id": "0dfccbd3d543155f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "7 - Problems/9. Palindrome Number/Creating a reverse number and comparing with actual number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Creating a reverse number and comparing with actual number"
             }
           },
           {
-            "id": "82bf455f8555e00c",
+            "id": "daad0b58f5b1ecdc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "7 - Problems/9. Palindrome Number/Creating a reverse number and comparing with actual number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Creating a reverse number and comparing with actual number"
             }
           },
           {
-            "id": "9b204666d2348b68",
+            "id": "a93e2f202075edcb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,28 +137,27 @@
             }
           },
           {
-            "id": "48beaf2e23d91a7a",
+            "id": "1a3c834e245224ff",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
-            "id": "7b56df0d9a1b5623",
+            "id": "d19e88243fea826d",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -166,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 475.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,14 +174,59 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34f93a1cdafbc113",
+  "active": "1a8abd49216264b4",
   "lastOpenFiles": [
-    "This is a test file.md",
-    "README.md"
+    "Notes/This is a test file.md",
+    "Notes",
+    "6 - Main Notes/Unit Testing/What is a Matcher.md",
+    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+    "6 - Main Notes/Unit Testing/Loose assertion and tight assertion.md",
+    "6 - Main Notes/Unit Testing/Positive testing and negative testing.md",
+    "6 - Main Notes/Unit Testing/Comparing Objects.md",
+    "6 - Main Notes/Unit Testing/Some matchers of vi-test.md",
+    "6 - Main Notes/Unit Testing/Characteristics of Good Unit Tests.md",
+    "6 - Main Notes/Unit Testing/Vi-test installation.md",
+    "5 - Templates/Template, Back to.md",
+    "6 - Main Notes/Unit Testing/Code coverage tool of vi-test.md",
+    "6 - Main Notes/Unit Testing/Test-driven Development(TDD).md",
+    "6 - Main Notes/Unit Testing/Ways to write tests.md",
+    "6 - Main Notes/Unit Testing/False positive and false negative.md",
+    "6 - Main Notes/Unit Testing/Popular Testing Frameworks.md",
+    "6 - Main Notes/Unit Testing/Types of tests.md",
+    "6 - Main Notes/Unit Testing/What is testing framework.md",
+    "6 - Main Notes/Unit Testing/What are the Benefits automated testing.md",
+    "6 - Main Notes/Unit Testing/What is unit testing.md",
+    "Pasted image 20250514024616.png",
+    "Pasted image 20250514025124.png",
+    "2  - Source Materials/Images/unit-test-pyramid.png",
+    "6 - Main Notes/Unit Testing",
+    "3 - Tags/Hash Table.md",
+    "6 - Main Notes/Problems/Best Time to Buy and Sell Stocks.md",
+    "6 - Main Notes/Problems/Best Time to Buy and Sell Stock II.md",
+    "6 - Main Notes/Problems/Count Number of Teams.md",
+    "6 - Main Notes/Problems/Fibonacci Number.md",
+    "6 - Main Notes/Problems/Find Pivot Index.md",
+    "6 - Main Notes/Problems/Linked List Cycle.md",
+    "Element that appears n",
+    "Element that appears more than n",
+    "6 - Main Notes/Politics",
+    "Pasted image 20250512204753.png",
+    "Untitled.canvas",
+    "6 - Main Notes/Science",
+    "Pasted image 20250512154551.png",
+    "React",
+    "2  - Source Materials/Images",
+    "6 - Main Notes/Solutions",
+    "6 - Main Notes/Problems",
+    "a.png",
+    "2  - Source Materials/Images/1.png",
+    "Pasted image 20240731161708.png",
+    "Pasted image 20240731163859.png",
+    "Hello.canvas"
   ]
 }

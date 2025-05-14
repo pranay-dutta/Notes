@@ -1,1 +1,10 @@
-{}
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "inlineAdmonitionsPluginReadOnly"
+  ]
+}

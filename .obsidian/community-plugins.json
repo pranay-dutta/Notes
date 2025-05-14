@@ -1,3 +1,6 @@
 [
+  "templater-obsidian",
+  "vim-yank-highlight",
+  "inline-admonitions",
   "obsidian-git"
 ]
