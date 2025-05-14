@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Unit Testing/Boundary Testing.md",
+                "file": "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boundary Testing"
+              "title": "Unit testing in JavaScript"
             }
           },
           {
@@ -211,8 +211,9 @@
   },
   "active": "c264f7738359ed3b",
   "lastOpenFiles": [
-    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/Unit Testing/Boundary Testing.md",
+    "2025-05-14.md",
+    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/Unit Testing/Code coverage tool of vi-test.md",
     "6 - Main Notes/Unit Testing/Comparing Objects.md",
     "6 - Main Notes/Unit Testing/Characteristics of Good Unit Tests.md",
@@ -241,7 +242,6 @@
     "3 - Tags/Hash Table.md",
     "6 - Main Notes/Problems/Best Time to Buy and Sell Stocks.md",
     "6 - Main Notes/Problems/Best Time to Buy and Sell Stock II.md",
-    "6 - Main Notes/Problems/Count Number of Teams.md",
     "Element that appears n",
     "Element that appears more than n",
     "6 - Main Notes/Politics",
