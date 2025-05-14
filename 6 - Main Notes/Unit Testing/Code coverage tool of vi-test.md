@@ -5,7 +5,7 @@
 //package.json 
 "scripts": {
  "coverage": "vitest run --coverage"
-}"
+}
 ```
 
 2. Go to the **coverage/** folder
