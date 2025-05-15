@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Unit Testing/What is Mock Function.md",
+                "file": "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Mock Function"
+              "title": "Unit testing in JavaScript"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "84ca2fefc102a0d4",
   "lastOpenFiles": [
-    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/Unit Testing/What is Mock Function.md",
+    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "5 - Templates/Template, Back to.md",
     "README.md",
     "6 - Main Notes/Unit Testing/Comparing Objects.md",
