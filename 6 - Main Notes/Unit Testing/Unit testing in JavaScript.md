@@ -22,3 +22,5 @@
 
 >  📌Section 3
 
+- [[What is Mock Function]] ?
+

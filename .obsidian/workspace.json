@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -182,8 +181,9 @@
   },
   "active": "84ca2fefc102a0d4",
   "lastOpenFiles": [
-    "6 - Main Notes/Unit Testing/Setup and Teardown.md",
+    "6 - Main Notes/Unit Testing/What is Mock Function.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+    "6 - Main Notes/Unit Testing/Setup and Teardown.md",
     "6 - Main Notes/Unit Testing/What is unit testing.md",
     "6 - Main Notes/Unit Testing/What is testing framework.md",
     "6 - Main Notes/Unit Testing/What is a Matcher.md",
@@ -208,7 +208,6 @@
     "README.md",
     "Notes/This is a test file.md",
     "Notes",
-    "5 - Templates/Template, Back to.md",
     "Pasted image 20250514024616.png",
     "Pasted image 20250514025124.png",
     "2  - Source Materials/Images/unit-test-pyramid.png",
