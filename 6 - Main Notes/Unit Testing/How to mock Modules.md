@@ -2,14 +2,16 @@
 ```js 
 //jest for 'jest'
 import {vi, ...} from 'vitest'
-import {functions} from '../currency'
+import {foo} from '../currency'
 
-vi.mock('../currency') //path of js or ts file
+vi.mock('../currency') //path of js or ts file | also this line gets Hoisted
+
 describe('test suite', ()=> {
 	test('test case',()=> {
-		vi.mocked(functions)
+	//as whole module is mocked we can use it's functions as mock functions
+		vi.mocked(foo).mockReturnValue(2) 
 	})
 })
-
-
 ```
+
+→ [[Unit testing in JavaScript]]
