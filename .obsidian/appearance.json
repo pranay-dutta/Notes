@@ -6,5 +6,8 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "inlineAdmonitionsPluginReadOnly"
-  ]
+  ],
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false
 }
