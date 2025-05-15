@@ -5,8 +5,11 @@
     "fontSize": 16,
     "emojiStyle": "twemoji",
     "iconColor": null,
-    "recentlyUsedIcons": [],
-    "recentlyUsedIconsSize": 12,
+    "recentlyUsedIcons": [
+      "📁",
+      "FarFolder"
+    ],
+    "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -14,18 +17,29 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": true,
-    "iconInTitleEnabled": true,
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
-    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "iconsBackgroundCheckEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "6 - Main Notes/Unit Testing": "📁",
+  "6 - Main Notes": "📁",
+  "5 - Templates": "📁",
+  "4 - Index": "📁",
+  "3 - Tags": "📁",
+  "2  - Source Materials": "📁",
+  "1 - Rough Ideas": "📁",
+  "6 - Main Notes/Solutions": "📁",
+  "6 - Main Notes/Science": "📁",
+  "6 - Main Notes/Problems": "📁",
+  "6 - Main Notes/Politics": "📁"
 }
