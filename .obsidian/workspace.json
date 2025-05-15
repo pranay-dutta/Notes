@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Unit testing in JavaScript"
             }
+          },
+          {
+            "id": "55dd99822b68748d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit testing in JavaScript"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,11 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84ca2fefc102a0d4",
+  "active": "55dd99822b68748d",
   "lastOpenFiles": [
-    "6 - Main Notes/Unit Testing/How to mock Modules.md",
+    "6 - Main Notes/Unit Testing/Two use cases of Mock Functions.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/Unit Testing/What is Mock Function.md",
+    "6 - Main Notes/Unit Testing/How to mock Modules.md",
     "5 - Templates/Template, Back to.md",
     "README.md",
     "6 - Main Notes/Unit Testing/Comparing Objects.md",
@@ -207,7 +223,6 @@
     "6 - Main Notes/Unit Testing/Characteristics of Good Unit Tests.md",
     "6 - Main Notes/Unit Testing/Boundary Testing.md",
     "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
-    "6 - Main Notes/Pivot.md",
     "Notes",
     "Pasted image 20250514024616.png",
     "Pasted image 20250514025124.png",
