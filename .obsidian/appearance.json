@@ -1,11 +1,12 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "inlineAdmonitionsPluginReadOnly"
+    "inlineAdmonitionsPluginReadOnly",
+    "hide-folder-arrows"
   ],
   "showViewHeader": true,
   "showRibbon": true,

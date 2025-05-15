@@ -1,0 +1,5 @@
+.nav-folder-children-toggle,
+.nav-folder-collapse-indicator,
+.nav-folder-toggle {
+  display: none !important;
+}
