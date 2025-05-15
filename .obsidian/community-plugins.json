@@ -2,7 +2,5 @@
   "templater-obsidian",
   "vim-yank-highlight",
   "inline-admonitions",
-  "obsidian-git",
-  "obsidian-style-settings",
-  "obsidian-icon-folder"
+  "obsidian-git"
 ]
