@@ -1,4 +1,6 @@
-> 📌Section 1
+
+>🌏 Section 1
+
 - [[What is unit testing]] ?
 - [[What are the Benefits automated testing]] ? 
 - [[Types of tests]]  
@@ -10,7 +12,8 @@
 - [[Test-driven Development(TDD)]]
 - [[Code coverage tool of vi-test]]
 
-> 📌Section 2
+>🌏 Section 2
+
 - [[Characteristics of Good Unit Tests]]
 - [[What is a Matcher]] ?
 - [[Comparing Objects]]
@@ -20,7 +23,9 @@
 - [[Parameterized or Data Driven Tests]]
 - [[Setup and Teardown]]
 
->  📌Section 3
+> 🌍 Section 3
 
 - [[What is Mock Function]] ?
+
+
 
