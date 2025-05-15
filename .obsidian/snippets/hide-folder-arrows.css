@@ -1,5 +1,6 @@
-.nav-folder-children-toggle,
-.nav-folder-collapse-indicator,
-.nav-folder-toggle {
+.tree-item-icon {
   display: none !important;
+}
+.tree-item-self {
+  padding-inline-start: 10px !important;
 }
