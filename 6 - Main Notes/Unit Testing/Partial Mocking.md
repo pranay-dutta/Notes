@@ -1,5 +1,5 @@
+🔴 When we use `vi.mock(path_of_module)` **vitest** replaces every **exported**  function of the **module** as  **Mock** function 
 
-🔴 When we use `vi.mock(path_of_module)` **vitest** replace every **exported** function as **mock** function
-🟢 But sometimes we want to keep **some** function. For **those** moments we use **Partial Mocking**
+🟢 But sometimes we want to keep **some** function.  For **those** moments we use **Partial Mocking**
 
-
+→ [[Unit testing in JavaScript]]
