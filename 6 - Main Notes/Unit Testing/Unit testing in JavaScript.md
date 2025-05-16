@@ -28,3 +28,5 @@
 - [[What is Mock Function]] ?
 - [[How to Mock Modules]] ?
 - [[Two use cases of Mock Functions]]
+- [[Partial Mocking]]
+
