@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+                "file": "6 - Main Notes/Unit Testing/Spying on Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit testing in JavaScript"
+              "title": "Spying on Functions"
             }
           }
         ],
@@ -197,8 +197,9 @@
   },
   "active": "55dd99822b68748d",
   "lastOpenFiles": [
-    "6 - Main Notes/Unit Testing/Partial Mocking.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+    "6 - Main Notes/Unit Testing/Spying on Functions.md",
+    "6 - Main Notes/Unit Testing/Partial Mocking.md",
     "6 - Main Notes/Unit Testing/Two use cases of Mock Functions.md",
     "6 - Main Notes/Unit Testing/What is Mock Function.md",
     "6 - Main Notes/Unit Testing/How to mock Modules.md",
@@ -222,7 +223,6 @@
     "6 - Main Notes/Unit Testing/False positive and false negative.md",
     "6 - Main Notes/Unit Testing/Code coverage tool of vi-test.md",
     "6 - Main Notes/Unit Testing/Characteristics of Good Unit Tests.md",
-    "6 - Main Notes/Unit Testing/Boundary Testing.md",
     "Notes",
     "Pasted image 20250514024616.png",
     "Pasted image 20250514025124.png",
