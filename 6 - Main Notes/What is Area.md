@@ -2,4 +2,4 @@
 - It represents the amount of space enclosed within the boundaries of the shape. 
 - Area is usually measured in square units, like square meters ****(m²)** or square centimeters ****(cm²)**.
 
-
+<img src="area-images.png"  width=40px style:"border-radius"10px""/> 

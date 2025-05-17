@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -195,10 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d77653dd2566b31c",
+  "active": "a4df01eb4e0dcdcc",
   "lastOpenFiles": [
-    "6 - Main Notes/Area vs Perimeter.md",
+    "2  - Source Materials/Images/area-images.png",
+    "Phase_1_18.avif",
     "6 - Main Notes/What is Area.md",
+    "Pasted image 20250518033323.png",
+    "6 - Main Notes/Area vs Perimeter.md",
     "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
     "6 - Main Notes/Pivot.md",
     "6 - Main Notes/Josephus Problem.md",
@@ -222,7 +224,6 @@
     "6 - Main Notes/Unit Testing/What is a Matcher.md",
     "6 - Main Notes/Unit Testing/What are the Benefits automated testing.md",
     "6 - Main Notes/Unit Testing/Ways to write tests.md",
-    "6 - Main Notes/Unit Testing/Vi-test installation.md",
     "Notes",
     "Pasted image 20250514024616.png",
     "Pasted image 20250514025124.png",
@@ -242,7 +243,6 @@
     "a.png",
     "2  - Source Materials/Images/1.png",
     "Pasted image 20240731161708.png",
-    "Pasted image 20240731163859.png",
     "Hello.canvas"
   ]
 }
