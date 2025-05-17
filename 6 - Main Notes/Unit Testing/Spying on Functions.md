@@ -15,3 +15,15 @@ it('should email the one-time login code', ()=> {
 
 ```
 
+🔴 **Mock object** is **Global** so it **accumulates** information between **different test cases**
+🟢 So it's **best** to **clear** mock functions **before** or **after each test case**
+
+```js
+mockClear()
+mockReset() //resets implementation
+mockRestore() //restore original implemetation
+
+vi.mock(foo).mockClear();
+vi.clearAllMocks()
+//vitest config
+```
