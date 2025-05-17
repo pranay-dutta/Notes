@@ -30,4 +30,5 @@
 - [[Two use cases of Mock Functions]]
 - [[Partial Mocking]]
 - [[Spying on Functions]]
+- [[To Mock or Not to Mock]]
 - [[Trustworthy Tests]]
