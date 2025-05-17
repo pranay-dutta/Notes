@@ -54,7 +54,7 @@
 | **DEO**           | Data Entry Operator                                 |
 | **DEO (Grade A)** | Only for specific departments like CAG, etc.        |
 
-- These are **Group C, Non-Gazetted, Clerical** level posts in **Central Government**.
+- These are **Group C, Non-Gazette, Clerical** level posts in **Central Government**.
 - Departments: Income Tax, Customs, CAG, CGA, Post Offices, Ministries, etc.
 
 ---
