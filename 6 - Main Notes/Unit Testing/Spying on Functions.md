@@ -38,5 +38,6 @@ export default defineConfig {
 		clearMocks: true
 	}
 }
-
 ```
+
+→ [[Unit testing in JavaScript]]
