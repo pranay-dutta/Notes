@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "121ed704ad6ebe15",
+        "id": "d40b963ad09b4f80",
         "type": "tabs",
         "children": [
           {
-            "id": "7b1d5a572fc69dd3",
+            "id": "cf3414e3ac2ee6b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
+                "file": "6 - Main Notes/Area vs Perimeter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSC CHSL - Combined Higher Secondary Level"
+              "title": "Area vs Perimeter"
             }
           },
           {
-            "id": "d77653dd2566b31c",
+            "id": "861640fb48bb0da9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "What is Area"
+            }
+          },
+          {
+            "id": "1afd24f6b4b38464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/What is Perimeter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is Perimeter"
             }
           }
         ],
@@ -194,14 +208,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4df01eb4e0dcdcc",
+  "active": "861640fb48bb0da9",
   "lastOpenFiles": [
+    "Pasted image 20250518034725.png",
+    "6 - Main Notes/Area vs Perimeter.md",
+    "6 - Main Notes/What is Perimeter.md",
+    "6 - Main Notes/Unit Testing/What are the Benefits automated testing.md",
+    "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
+    "5 - Templates/Template, Image.md",
+    "6 - Main Notes/What is Area.md",
+    "2  - Source Materials/Images/unit-test-pyramid.png",
+    "6 - Main Notes/Unit Testing/Types of tests.md",
     "2  - Source Materials/Images/area-images.png",
     "Phase_1_18.avif",
-    "6 - Main Notes/What is Area.md",
     "Pasted image 20250518033323.png",
-    "6 - Main Notes/Area vs Perimeter.md",
-    "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
     "6 - Main Notes/Pivot.md",
     "6 - Main Notes/Josephus Problem.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
@@ -220,14 +240,9 @@
     "6 - Main Notes/Unit Testing/What is testing framework.md",
     "6 - Main Notes/Unit Testing/Positive testing and negative testing.md",
     "6 - Main Notes/Unit Testing/Setup and Teardown.md",
-    "6 - Main Notes/Unit Testing/What is unit testing.md",
-    "6 - Main Notes/Unit Testing/What is a Matcher.md",
-    "6 - Main Notes/Unit Testing/What are the Benefits automated testing.md",
-    "6 - Main Notes/Unit Testing/Ways to write tests.md",
     "Notes",
     "Pasted image 20250514024616.png",
     "Pasted image 20250514025124.png",
-    "2  - Source Materials/Images/unit-test-pyramid.png",
     "6 - Main Notes/Unit Testing",
     "Element that appears n",
     "Element that appears more than n",
@@ -242,7 +257,6 @@
     "6 - Main Notes/Problems",
     "a.png",
     "2  - Source Materials/Images/1.png",
-    "Pasted image 20240731161708.png",
     "Hello.canvas"
   ]
 }
