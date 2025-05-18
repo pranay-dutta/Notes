@@ -1,6 +1,4 @@
 
-
-
 ### Problems : ---
 
 1. [[Palindrome Number]]

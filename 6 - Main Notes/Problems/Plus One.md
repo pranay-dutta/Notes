@@ -1,4 +1,4 @@
-**Topic:**  [[Leetcode Math]]
+**Topic:**  [[Math]]
 **Last Modified**:  `2025-05-12 01:10`
 
 `Problem: given an arr of num [2,2,3] return [2,2,4]`

@@ -11,10 +11,14 @@
             "id": "17a50d051f3c0339",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Unit Testing/Static Analysis Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Static Analysis Tools"
             }
           }
         ]
@@ -178,13 +182,17 @@
   },
   "active": "17a50d051f3c0339",
   "lastOpenFiles": [
-    "3 - Tags/Leetcode Math.md",
+    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+    "6 - Main Notes/Unit Testing/Static Analysis Tools.md",
+    "6 - Main Notes/Unit Testing/Boundary Testing.md",
+    "6 - Main Notes/Math/Area vs Perimeter.md",
+    "6 - Main Notes/Math/What is Perimeter.md",
+    "6 - Main Notes/Math/What is Area.md",
+    "3 - Tags/Math.md",
+    "5 - Templates/Template, Add Topic.md",
     "6 - Main Notes/Problems/Plus One.md",
     "6 - Main Notes/Problems/Palindrome Number.md",
     "6 - Main Notes/Solutions/Creating a reverse number and comparing with actual number.md",
-    "6 - Main Notes/Math/What is Perimeter.md",
-    "6 - Main Notes/Math/What is Area.md",
-    "6 - Main Notes/Math/Area vs Perimeter.md",
     "6 - Main Notes/Math",
     "2  - Source Materials/Images/area-vs-perimeter.png",
     "2  - Source Materials/Images/perimeter-image-1.png",
@@ -192,7 +200,6 @@
     "6 - Main Notes/Solutions/Form every possible team and check condition.md",
     "2  - Source Materials/Images/area-images-2.png",
     "6 - Main Notes/Unit Testing/Types of tests.md",
-    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/Unit Testing/Setup and Teardown.md",
     "2  - Source Materials/Images/unit-test-pyramid.png",
     "2  - Source Materials/Images/area-images.png",
@@ -210,9 +217,6 @@
     "6 - Main Notes/Unit Testing/Partial Mocking.md",
     "6 - Main Notes/Unit Testing/Two use cases of Mock Functions.md",
     "6 - Main Notes/Unit Testing/What is Mock Function.md",
-    "6 - Main Notes/Unit Testing/How to mock Modules.md",
-    "5 - Templates/Template, Back to.md",
-    "README.md",
     "Notes",
     "Pasted image 20250514024616.png",
     "Pasted image 20250514025124.png",

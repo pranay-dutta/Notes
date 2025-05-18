@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "Math",
+  "search": "math",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "Array",
@@ -19,13 +19,6 @@
       "color": {
         "a": 1,
         "rgb": 11657298
-      }
-    },
-    {
-      "query": "Leetcode ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
       }
     },
     {
@@ -64,6 +57,13 @@
       }
     },
     {
+      "query": "Math",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
       "query": "",
       "color": {
         "a": 1,
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 1.113052914290729,
+  "scale": 0.6548317783769351,
   "close": false
 }

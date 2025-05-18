@@ -32,3 +32,8 @@
 - [[Spying on Functions]]
 - [[To Mock or Not to Mock]]
 - [[Trustworthy Tests]]
+
+> 🌍 Section 4
+
+-  [[Static Analysis Tools]]
+- 
