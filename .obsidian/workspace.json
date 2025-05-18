@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Unit Testing/Static Analysis Tools.md",
+                "file": "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Static Analysis Tools"
+              "title": "Unit testing in JavaScript"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "17a50d051f3c0339",
   "lastOpenFiles": [
+    "6 - Main Notes/Unit Testing/Prettier code formatting tool.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/Unit Testing/Static Analysis Tools.md",
     "6 - Main Notes/Unit Testing/Boundary Testing.md",
@@ -216,7 +217,6 @@
     "6 - Main Notes/Unit Testing/Code coverage tool of vi-test.md",
     "6 - Main Notes/Unit Testing/Partial Mocking.md",
     "6 - Main Notes/Unit Testing/Two use cases of Mock Functions.md",
-    "6 - Main Notes/Unit Testing/What is Mock Function.md",
     "Notes",
     "Pasted image 20250514024616.png",
     "Pasted image 20250514025124.png",

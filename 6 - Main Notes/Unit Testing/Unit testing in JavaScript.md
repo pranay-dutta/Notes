@@ -36,4 +36,4 @@
 > 🌍 Section 4
 
 -  [[Static Analysis Tools]]
-- 
+- [[Prettier code formatting tool]]
