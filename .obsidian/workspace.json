@@ -11,14 +11,17 @@
             "id": "17a50d051f3c0339",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -35,
+                  "y": -950,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Unit testing in JavaScript"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -78,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -182,8 +184,9 @@
   },
   "active": "17a50d051f3c0339",
   "lastOpenFiles": [
-    "6 - Main Notes/Unit Testing/Prettier code formatting tool.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+    "Untitled.canvas",
+    "6 - Main Notes/Unit Testing/Prettier code formatting tool.md",
     "6 - Main Notes/Unit Testing/Static Analysis Tools.md",
     "6 - Main Notes/Unit Testing/Boundary Testing.md",
     "6 - Main Notes/Math/Area vs Perimeter.md",
@@ -216,7 +219,6 @@
     "6 - Main Notes/Unit Testing/Spying on Functions.md",
     "6 - Main Notes/Unit Testing/Code coverage tool of vi-test.md",
     "6 - Main Notes/Unit Testing/Partial Mocking.md",
-    "6 - Main Notes/Unit Testing/Two use cases of Mock Functions.md",
     "Notes",
     "Pasted image 20250514024616.png",
     "Pasted image 20250514025124.png",
@@ -224,7 +226,6 @@
     "Element that appears n",
     "Element that appears more than n",
     "6 - Main Notes/Politics",
-    "Untitled.canvas",
     "6 - Main Notes/Science",
     "React",
     "2  - Source Materials/Images",

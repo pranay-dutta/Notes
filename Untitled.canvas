@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"50a4ebe1fb627605","x":160,"y":-840,"width":250,"height":60,"color":"3","type":"text","text":"how are the things we "},
+		{"id":"e47377cf19c74758","x":-220,"y":-1020,"width":250,"height":50,"type":"text","text":"What are we thinking"},
+		{"id":"8d9465e8f8192218","x":120,"y":-1180,"width":250,"height":60,"type":"text","text":"What is happing here ?"}
+	],
+	"edges":[
+		{"id":"cecf857e2f715ee9","fromNode":"50a4ebe1fb627605","fromSide":"top","toNode":"e47377cf19c74758","toSide":"bottom"},
+		{"id":"4ce00212062208f0","fromNode":"e47377cf19c74758","fromSide":"top","toNode":"8d9465e8f8192218","toSide":"left"},
+		{"id":"03b94766124b53d9","fromNode":"50a4ebe1fb627605","fromSide":"top","toNode":"8d9465e8f8192218","toSide":"right"}
+	]
+}
