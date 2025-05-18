@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/What is Area.md",
+                "file": "6 - Main Notes/Solutions/Form every possible team and check condition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Area"
+              "title": "Form every possible team and check condition"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/What is Perimeter.md",
+                "file": "6 - Main Notes/What is Area.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Perimeter"
+              "title": "What is Area"
             }
           }
         ],
@@ -209,9 +209,10 @@
   },
   "active": "1afd24f6b4b38464",
   "lastOpenFiles": [
-    "6 - Main Notes/What is Area.md",
     "6 - Main Notes/What is Perimeter.md",
     "6 - Main Notes/Area vs Perimeter.md",
+    "6 - Main Notes/Solutions/Form every possible team and check condition.md",
+    "6 - Main Notes/What is Area.md",
     "2  - Source Materials/Images/area-images-2.png",
     "6 - Main Notes/Unit Testing/Types of tests.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
