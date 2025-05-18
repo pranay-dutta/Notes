@@ -15,3 +15,5 @@
 <img src="area-images-2.png" width=400 style="border-radius: 10px" />
 
 <img src="area-image-3.png" width=350 style="border-radius: 10px" />
+
+→ [[Area vs Perimeter]]

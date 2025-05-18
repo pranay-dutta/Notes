@@ -1,4 +1,4 @@
-**Perimeter** is the total distance around the outer edge of a two-dimensional shape. 
+**Perimeter** `@পরিসীমা` or boundary is the ==total distance around the outer edge of a two-dimensional shape. ==
 It is the sum of the lengths of all the sides of the shape.
 
 | **Shape**     | **Formula for Perimeter**             |
@@ -11,4 +11,5 @@ It is the sum of the lengths of all the sides of the shape.
 | Trapezoid     | P = a + b + c + d                     |
 
 <img src="perimeter-image-1.png" width=500 style="border-radius: 10px" />
-[[Area vs Perimeter]]
+
+→ [[Area vs Perimeter]]

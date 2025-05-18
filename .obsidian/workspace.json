@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d40b963ad09b4f80",
+        "id": "f3e80561b87fa8dd",
         "type": "tabs",
         "children": [
           {
-            "id": "cf3414e3ac2ee6b0",
+            "id": "17a50d051f3c0339",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/What is Perimeter.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "What is Perimeter"
-            }
-          },
-          {
-            "id": "30d226d3af79e6b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Area vs Perimeter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Area vs Perimeter"
-            }
-          },
-          {
-            "id": "2eab2b4c17f59f0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/What is Perimeter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is Perimeter"
-            }
-          },
-          {
-            "id": "26be721986e0c317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Area vs Perimeter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Area vs Perimeter"
-            }
-          },
-          {
-            "id": "93549063a49b2cc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/What is Area.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is Area"
-            }
-          },
-          {
-            "id": "390093c98450d470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Solutions/Form every possible team and check condition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Form every possible team and check condition"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 475.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,12 +175,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26be721986e0c317",
+  "active": "17a50d051f3c0339",
   "lastOpenFiles": [
     "6 - Main Notes/What is Perimeter.md",
-    "2  - Source Materials/Images/perimeter-image-1.png",
     "6 - Main Notes/Area vs Perimeter.md",
     "6 - Main Notes/What is Area.md",
+    "2  - Source Materials/Images/area-vs-perimeter.png",
+    "2  - Source Materials/Images/perimeter-image-1.png",
     "2  - Source Materials/Images/area-image-3.png",
     "6 - Main Notes/Solutions/Form every possible team and check condition.md",
     "2  - Source Materials/Images/area-images-2.png",
@@ -290,7 +217,6 @@
     "Element that appears n",
     "Element that appears more than n",
     "6 - Main Notes/Politics",
-    "Pasted image 20250512204753.png",
     "Untitled.canvas",
     "6 - Main Notes/Science",
     "React",
