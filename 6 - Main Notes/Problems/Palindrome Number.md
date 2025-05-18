@@ -1,4 +1,4 @@
-**Topics:** [[Math]]
+**Topics:** [[Leetcode Math]]
 **Last Modified**:  `2025-05-11 22:06`
 
 `Problem: Given int x is palindrome or not. -x will not be a palindrome`

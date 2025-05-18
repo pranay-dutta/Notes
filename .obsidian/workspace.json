@@ -11,10 +11,10 @@
             "id": "17a50d051f3c0339",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -177,9 +178,14 @@
   },
   "active": "17a50d051f3c0339",
   "lastOpenFiles": [
-    "6 - Main Notes/What is Perimeter.md",
-    "6 - Main Notes/Area vs Perimeter.md",
-    "6 - Main Notes/What is Area.md",
+    "3 - Tags/Leetcode Math.md",
+    "6 - Main Notes/Problems/Plus One.md",
+    "6 - Main Notes/Problems/Palindrome Number.md",
+    "6 - Main Notes/Solutions/Creating a reverse number and comparing with actual number.md",
+    "6 - Main Notes/Math/What is Perimeter.md",
+    "6 - Main Notes/Math/What is Area.md",
+    "6 - Main Notes/Math/Area vs Perimeter.md",
+    "6 - Main Notes/Math",
     "2  - Source Materials/Images/area-vs-perimeter.png",
     "2  - Source Materials/Images/perimeter-image-1.png",
     "2  - Source Materials/Images/area-image-3.png",
@@ -207,9 +213,6 @@
     "6 - Main Notes/Unit Testing/How to mock Modules.md",
     "5 - Templates/Template, Back to.md",
     "README.md",
-    "6 - Main Notes/Unit Testing/Comparing Objects.md",
-    "6 - Main Notes/Unit Testing/Test-driven Development(TDD).md",
-    "6 - Main Notes/Unit Testing/What is testing framework.md",
     "Notes",
     "Pasted image 20250514024616.png",
     "Pasted image 20250514025124.png",
@@ -222,7 +225,6 @@
     "React",
     "2  - Source Materials/Images",
     "6 - Main Notes/Solutions",
-    "6 - Main Notes/Problems",
     "Hello.canvas"
   ]
 }
