@@ -37,3 +37,4 @@
 
 -  [[Static Analysis Tools]]
 - [[Prettier code formatting tool]]
+- [[ESLint code quality checker]]

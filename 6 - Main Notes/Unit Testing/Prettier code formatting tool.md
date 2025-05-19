@@ -7,7 +7,7 @@
 {__configurations of prettier__}
 
 //package.json
-{"script": { "format": npx prettier . --write}}
+{"script": { "format": prettier . --write}}
 
 //else use prettier extension 
 //setting.json of vs_code
