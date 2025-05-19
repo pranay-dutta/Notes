@@ -7,9 +7,8 @@ typeicode.github.io/husky //documentation
  
 
 npm i -D lint-staged  //only lint staged files
-
-//configuration file for lint-staged
-//lintstagedrc.json 
-{ "*.+(js|ts)": ["prettier --write", "eslint"] }
-
+//lintstagedrc.json  
+{ "*.+(js|ts)": ["prettier --write", "eslint"] } 🤯
 ```
+
+→ [[Unit testing in JavaScript]]
