@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -181,9 +182,9 @@
   },
   "active": "17a50d051f3c0339",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/Unit Testing/Prettier code formatting tool.md",
+    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+    "Untitled.canvas",
     "6 - Main Notes/Unit Testing/Static Analysis Tools.md",
     "6 - Main Notes/Unit Testing/Boundary Testing.md",
     "6 - Main Notes/Math/Area vs Perimeter.md",
