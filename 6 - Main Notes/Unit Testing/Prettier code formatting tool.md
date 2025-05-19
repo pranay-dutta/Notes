@@ -8,6 +8,10 @@
 
 //package.json
 {"script": { "format": npx prettier . --write}}
+
+//else use prettier extension 
+//setting.json of vs_code
+format on save: true
 ```
 
 → [[Unit testing in JavaScript]]
