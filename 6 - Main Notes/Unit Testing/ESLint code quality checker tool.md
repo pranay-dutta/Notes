@@ -4,6 +4,7 @@
 🟢 **Facilitate** collaboration within **teams**
 
 ```js
+npm init @eslint/config@latest
 //eslint.config.js or ts ===> watch documentaton
 npx eslint . //to check linting errors
 npx eslint --fix //to fix 'fixable errors'

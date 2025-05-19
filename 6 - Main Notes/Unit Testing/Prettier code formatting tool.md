@@ -3,6 +3,8 @@
 🟢 **Reduced** code review **discussion** about **formatting**
 
 ```js
+npm i -D prettier //install
+
 //prettierrc.json
 {__configurations of prettier__}
 
