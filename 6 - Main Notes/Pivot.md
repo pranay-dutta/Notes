@@ -1,4 +1,3 @@
-
 ### 📌 Pivot - Quick Note
 
 - A **pivot** is a central element used as a reference to divide or reorganize data.
