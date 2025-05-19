@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+                "file": "6 - Main Notes/Unit Testing/Husky Git hooks automation tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit testing in JavaScript"
+              "title": "Husky Git hooks automation tool"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "c2b14cd78a5872af",
   "lastOpenFiles": [
-    "6 - Main Notes/Unit Testing/Husky Git hooks automation tool.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+    "6 - Main Notes/Unit Testing/Husky Git hooks automation tool.md",
     "6 - Main Notes/Unit Testing/Use ESLint and Prettier in TypeScript.md",
     "6 - Main Notes/Unit Testing/How to mock Modules.md",
     "README.md",
