@@ -6,7 +6,15 @@
 npm i -D typescript //install as dev dependency 
 npx tsc --init //type scipt compiler ==> configuration
 
+//tsconfig.json
+{
+ "outDir": './dist'
+__other configurations__
+}
 
+//package.json
+{ "scripts": { "type-check": "tsc" } }
+//tsc stands for type script compiler
 
 
 ```
