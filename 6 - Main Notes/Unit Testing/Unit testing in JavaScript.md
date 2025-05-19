@@ -40,3 +40,5 @@
 - [[ESLint code quality checker tool]]
 - [[TypeScript a statically-typed superset of JavaScript ]]
 -  [[Use ESLint and Prettier in TypeScript]]
+- [[Husky Git hooks automation tool]]
+
