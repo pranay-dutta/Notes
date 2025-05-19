@@ -11,14 +11,12 @@
             "id": "17a50d051f3c0339",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
-                "mode": "source",
-                "source": false
+                "file": "2  - Source Materials/Images/types-of-triangle.png"
               },
-              "icon": "lucide-file",
-              "title": "Unit testing in JavaScript"
+              "icon": "lucide-image",
+              "title": "types-of-triangle"
             }
           },
           {
@@ -27,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Unit Testing/TypeScript a statically-typed superset of JavaScript.md",
+                "file": "6 - Main Notes/Math/Triangle Property.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TypeScript a statically-typed superset of JavaScript"
+              "title": "Triangle Property"
             }
           }
         ],
@@ -93,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -197,7 +194,12 @@
   },
   "active": "56f61e3f38fd39e3",
   "lastOpenFiles": [
+    "6 - Main Notes/Math/What is Area.md",
+    "6 - Main Notes/Math/Triangle Property.md",
+    "6 - Main Notes/Math/What is Perimeter.md",
     "6 - Main Notes/Unit Testing/TypeScript a statically-typed superset of JavaScript.md",
+    "2  - Source Materials/Images/types-of-triangle.png",
+    "2  - Source Materials/Images/unit-test-pyramid.png",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/Unit Testing/ESLint code quality checker tool.md",
     "6 - Main Notes/Unit Testing/Prettier code formatting tool.md",
@@ -205,8 +207,6 @@
     "6 - Main Notes/Unit Testing/Static Analysis Tools.md",
     "6 - Main Notes/Unit Testing/Boundary Testing.md",
     "6 - Main Notes/Math/Area vs Perimeter.md",
-    "6 - Main Notes/Math/What is Perimeter.md",
-    "6 - Main Notes/Math/What is Area.md",
     "3 - Tags/Math.md",
     "5 - Templates/Template, Add Topic.md",
     "6 - Main Notes/Problems/Plus One.md",
@@ -220,7 +220,6 @@
     "2  - Source Materials/Images/area-images-2.png",
     "6 - Main Notes/Unit Testing/Types of tests.md",
     "6 - Main Notes/Unit Testing/Setup and Teardown.md",
-    "2  - Source Materials/Images/unit-test-pyramid.png",
     "2  - Source Materials/Images/area-images.png",
     "6 - Main Notes/Unit Testing/What are the Benefits automated testing.md",
     "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
@@ -231,11 +230,8 @@
     "6 - Main Notes/Josephus Problem.md",
     "6 - Main Notes/Unit Testing/Trustworthy Tests.md",
     "6 - Main Notes/Unit Testing/To Mock or Not to Mock.md",
-    "6 - Main Notes/Unit Testing/Spying on Functions.md",
-    "6 - Main Notes/Unit Testing/Code coverage tool of vi-test.md",
     "Notes",
     "Pasted image 20250514024616.png",
-    "Pasted image 20250514025124.png",
     "6 - Main Notes/Unit Testing",
     "Element that appears n",
     "Element that appears more than n",
