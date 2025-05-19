@@ -3,6 +3,8 @@
 🟢 **Improve** code **consistency** and **readability**
 🟢 **Facilitate** collaboration within **teams**
 
+⚠️ By **default** ESLint **does not** lint **typescript codes**
+
 ```js
 npm init @eslint/config@latest
 //eslint.config.js or ts ===> watch documentaton

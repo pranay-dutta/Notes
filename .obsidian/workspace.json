@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Unit Testing/TypeScript a statically-typed superset of JavaScript.md",
+                "file": "6 - Main Notes/Unit Testing/Use ESLint and Prettier in TypeScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TypeScript a statically-typed superset of JavaScript"
+              "title": "Use ESLint and Prettier in TypeScript"
+            }
+          },
+          {
+            "id": "4a1aaf78b23e2b4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Unit Testing/ESLint code quality checker tool.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ESLint code quality checker tool"
             }
           }
         ]
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -181,9 +196,10 @@
   },
   "active": "668386511bcee223",
   "lastOpenFiles": [
+    "6 - Main Notes/Unit Testing/ESLint code quality checker tool.md",
+    "6 - Main Notes/Unit Testing/Use ESLint and Prettier in TypeScript.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/Unit Testing/TypeScript a statically-typed superset of JavaScript.md",
-    "6 - Main Notes/Unit Testing/ESLint code quality checker tool.md",
     "6 - Main Notes/Unit Testing/What is a Matcher.md",
     "6 - Main Notes/Math/What is Area.md",
     "6 - Main Notes/Math/Area vs Perimeter.md",
@@ -217,7 +233,6 @@
     "Phase_1_18.avif",
     "Pasted image 20250518033323.png",
     "6 - Main Notes/Unit Testing/Trustworthy Tests.md",
-    "6 - Main Notes/Unit Testing/To Mock or Not to Mock.md",
     "Notes",
     "Pasted image 20250514024616.png",
     "6 - Main Notes/Unit Testing",
