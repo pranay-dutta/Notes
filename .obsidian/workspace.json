@@ -11,17 +11,14 @@
             "id": "17a50d051f3c0339",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -35,
-                  "y": -950,
-                  "zoom": 0
-                }
+                "file": "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Unit testing in JavaScript"
             }
           }
         ]
@@ -184,8 +181,8 @@
   },
   "active": "17a50d051f3c0339",
   "lastOpenFiles": [
-    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "Untitled.canvas",
+    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/Unit Testing/Prettier code formatting tool.md",
     "6 - Main Notes/Unit Testing/Static Analysis Tools.md",
     "6 - Main Notes/Unit Testing/Boundary Testing.md",
