@@ -11,4 +11,15 @@ npm i -D lint-staged  //only lint staged files
 { "*.+(js|ts)": ["prettier --write", "eslint"] } 🤯
 ```
 
+📌 **There** are **hooks** like **pre-commit** or **pre-push** 
+
+```⚠️Important to note!
+
+.husky/pre-push //pre push script or hook
+npx vitest run //to run vitest only once
+
+.husky/pre-commit //pre comit hook 
+npx lint-staged //
+```
+
 → [[Unit testing in JavaScript]]
