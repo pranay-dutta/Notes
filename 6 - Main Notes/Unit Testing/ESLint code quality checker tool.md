@@ -10,5 +10,6 @@ npx eslint --fix //to fix 'fixable errors'
 
 //package.json
 { "scripts": { "lint": "eslint ." } }
-
 ```
+
+→ [[Unit testing in JavaScript]]

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bef778716852384a",
+        "id": "e95eea1847f9b5a0",
         "type": "tabs",
         "children": [
           {
-            "id": "bc1e1f039aeff326",
+            "id": "668386511bcee223",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Josephus Problem.md",
+                "file": "6 - Main Notes/Unit Testing/TypeScript a statically-typed superset of JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Josephus Problem"
+              "title": "TypeScript a statically-typed superset of JavaScript"
             }
           }
         ]
@@ -179,18 +179,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc1e1f039aeff326",
+  "active": "668386511bcee223",
   "lastOpenFiles": [
-    "6 - Main Notes/Pivot.md",
-    "6 - Main Notes/Math/Triangle Property.md",
-    "2  - Source Materials/Images/types-of-triangle.png",
+    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+    "6 - Main Notes/Unit Testing/TypeScript a statically-typed superset of JavaScript.md",
+    "6 - Main Notes/Unit Testing/ESLint code quality checker tool.md",
+    "6 - Main Notes/Unit Testing/What is a Matcher.md",
     "6 - Main Notes/Math/What is Area.md",
     "6 - Main Notes/Math/Area vs Perimeter.md",
+    "6 - Main Notes/Math/Triangle Property.md",
     "6 - Main Notes/Math/What is Perimeter.md",
-    "6 - Main Notes/Unit Testing/TypeScript a statically-typed superset of JavaScript.md",
+    "6 - Main Notes/Josephus Problem.md",
+    "6 - Main Notes/Pivot.md",
+    "2  - Source Materials/Images/types-of-triangle.png",
     "2  - Source Materials/Images/unit-test-pyramid.png",
-    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
-    "6 - Main Notes/Unit Testing/ESLint code quality checker tool.md",
     "6 - Main Notes/Unit Testing/Prettier code formatting tool.md",
     "Untitled.canvas",
     "6 - Main Notes/Unit Testing/Static Analysis Tools.md",
@@ -214,7 +216,6 @@
     "5 - Templates/Template, Image.md",
     "Phase_1_18.avif",
     "Pasted image 20250518033323.png",
-    "6 - Main Notes/Josephus Problem.md",
     "6 - Main Notes/Unit Testing/Trustworthy Tests.md",
     "6 - Main Notes/Unit Testing/To Mock or Not to Mock.md",
     "Notes",

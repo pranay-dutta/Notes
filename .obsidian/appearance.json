@@ -1,9 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal",
+  "cssTheme": "Things",
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "theme": "obsidian",
+  "theme": "system",
   "enabledCssSnippets": [
     "inlineAdmonitionsPluginReadOnly",
     "hide-folder-arrows"
