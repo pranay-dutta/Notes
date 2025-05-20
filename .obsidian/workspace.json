@@ -11,10 +11,10 @@
             "id": "3be43ed1100e382b",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -175,13 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4df01eb4e0dcdcc",
+  "active": "3be43ed1100e382b",
   "lastOpenFiles": [
-    "6 - Main Notes/Unit Testing/Husky Git hooks automation tool.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+    "6 - Main Notes/Unit Testing/Code coverage tool of vi-test.md",
+    "README.md",
+    "6 - Main Notes/Unit Testing/Husky Git hooks automation tool.md",
     "6 - Main Notes/Unit Testing/Use ESLint and Prettier in TypeScript.md",
     "6 - Main Notes/Unit Testing/How to mock Modules.md",
-    "README.md",
     "6 - Main Notes/Unit Testing/ESLint code quality checker tool.md",
     "6 - Main Notes/Unit Testing/TypeScript a statically-typed superset of JavaScript.md",
     "6 - Main Notes/Unit Testing/What is a Matcher.md",
@@ -211,7 +213,6 @@
     "6 - Main Notes/Unit Testing/Types of tests.md",
     "6 - Main Notes/Unit Testing/Setup and Teardown.md",
     "2  - Source Materials/Images/area-images.png",
-    "6 - Main Notes/Unit Testing/What are the Benefits automated testing.md",
     "Phase_1_18.avif",
     "Pasted image 20250518033323.png",
     "Notes",
