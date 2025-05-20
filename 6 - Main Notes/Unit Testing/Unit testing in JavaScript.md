@@ -42,3 +42,4 @@
 -  [[Use ESLint and Prettier in TypeScript]]
 - [[Husky Git hooks automation tool]]
 
+>🌍 Next Chapter  [[Unit testing in React]] ➜ 
