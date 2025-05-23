@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "React Tools and Libraries"
             }
+          },
+          {
+            "id": "94034ed06b3739ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,10 +218,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6220eddb815c3d3b",
+  "active": "94034ed06b3739ba",
   "lastOpenFiles": [
-    "6 - Main Notes/Who Compiles React Code.md",
+    "3 - Tags/React.md",
     "6 - Main Notes/React Tools and Libraries.md",
+    "6 - Main Notes/Who Compiles React Code.md",
+    "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
     "6 - Main Notes/Josephus Problem.md",
     "6 - Main Notes/Unit Testing/Unit testing in React.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
@@ -237,8 +249,6 @@
     "6 - Main Notes/Unit Testing/Boundary Testing.md",
     "3 - Tags/Math.md",
     "5 - Templates/Template, Add Topic.md",
-    "6 - Main Notes/Problems/Plus One.md",
-    "6 - Main Notes/Problems/Palindrome Number.md",
     "6 - Main Notes/Math",
     "2  - Source Materials/Images/area-vs-perimeter.png",
     "2  - Source Materials/Images/perimeter-image-1.png",
