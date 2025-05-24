@@ -1,38 +1,97 @@
->**Re-render** → **Diff** → **Calculate** → **Update**
+🧠 **Remember this with:** `R-D-C-U` ➟ `!React Doesn’t Change Unnecessarily`
+
+When a component’s **state or props** change, React: 
+
+| 🔑 Mnemonic | Step      | Description                                          |
+| ----------- | --------- | ---------------------------------------------------- |
+| **R**       | Re-render | React re-renders the **Virtual DOM**.                |
+| **D**       | Diff      | Compares new Virtual DOM with the old one.           |
+| **C**       | Calculate | Figures out the **minimal set of changes**.          |
+| **U**       | Update    | Applies the changes efficiently to the **Real DOM**. |
+## 🎯 Why is Reconciliation Important?
+
+| Reason            | Description                                  |
+| ----------------- | -------------------------------------------- |
+| DOM is slow       | Direct DOM manipulation is expensive.        |
+| Virtual DOM helps | React avoids full DOM updates using diffing. |
+## 🧩 Key Concepts
+
+| Concept                 | Description                                                  |
+| ----------------------- | ------------------------------------------------------------ |
+| **Keys** in lists       | Helps React track items → avoids wrong deletions or updates. |
+| **Same component type** | React reuses the existing component instance.                |
+| **Different type**      | React replaces it entirely with a new component.             |
+
+### 🌟 Key Optimizations in Reconciliation
+
+| Optimization             | Description                                                                  |
+| ------------------------ | ---------------------------------------------------------------------------- |
+| **Keys**                 | React uses `key` props in lists to track changes, additions, and removals.   |
+| **Component Type Check** | If component type changes (`<A />` → `<B />`), React replaces it completely. |
+| **Same Component**       | If type is the same, React updates in place with new props/state.            |
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="display: flex; align-items: flex-start; gap: 30px;">
+
+<!-- Left section: All your tables and content -->
+<div style="flex: 1;">
+
+### 🧠 Remember this with: `R-D-C-U` ➟ `!React Doesn’t Change Unnecessarily`
+
+When a component’s **state or props** change, React: 
+
+| 🔑 Mnemonic | Step      | Description                                          |
+| ----------- | --------- | ---------------------------------------------------- |
+| **R**       | Re-render | React re-renders the **Virtual DOM**.                |
+| **D**       | Diff      | Compares new Virtual DOM with the old one.           |
+| **C**       | Calculate | Figures out the **minimal set of changes**.          |
+| **U**       | Update    | Applies the changes efficiently to the **Real DOM**. |
+
 ---
-<img src="placeholder" width=500 style="border-radius: 10px" />
 
-### 🔁 What is it?
+### 🎯 Why is Reconciliation Important?
 
-When state/props change, React:
-
-1. **Re-renders** the Virtual DOM.
-2. **Diffs** it with the old Virtual DOM.
-3. **Calculates** the minimal changes.
-4. **Updates** the Real DOM efficiently.
+| Reason            | Description                                  |
+| ----------------- | -------------------------------------------- |
+| DOM is slow       | Direct DOM manipulation is expensive.        |
+| Virtual DOM helps | React avoids full DOM updates using diffing. |
 
 ---
-### 🎯 Why?
 
-- Direct DOM changes are **slow**.
-- Virtual DOM + diffing = **fast updates**.
+### 🧩 Key Concepts
 
----
-### 🧩 Key Concepts to Lock In:
-
-- **Keys** help track list items → Avoid wrong deletions.
-- **Same component type** → React reuses it.
-- **Different component type** → React replaces it.
+| Concept                 | Description                                                  |
+| ----------------------- | ------------------------------------------------------------ |
+| **Keys** in lists       | Helps React track items → avoids wrong deletions or updates. |
+| **Same component type** | React reuses the existing component instance.                |
+| **Different type**      | React replaces it entirely with a new component.             |
 
 ---
-### 📝 Quick Trigger Word:
 
-**"React Really Doesn’t Change Unnecessarily"**
-> Think of it like: "React is smart — it avoids extra work!"
+### 🌟 Key Optimizations in Reconciliation
 
----
-### 🌟Key Optimizations in Reconciliation:
+| Optimization             | Description                                                                  |
+| ------------------------ | ---------------------------------------------------------------------------- |
+| **Keys**                 | React uses `key` props in lists to track changes, additions, and removals.   |
+| **Component Type Check** | If component type changes (`<A />` → `<B />`), React replaces it completely. |
+| **Same Component**       | If type is the same, React updates in place with new props/state.            |
 
-- **Keys**: When rendering lists, React uses `key` props to identify which items changed, were added, or removed.
-- **Component Type Check**: If a component’s type changes (`<A />` to `<B />`), React destroys the old one and creates a new one.
-- **Same Component**: If it’s the same component with different props/state, React tries to update it in place (instead of re-creating).
+</div>
+
+<!-- Right section: The image -->
+<div style="flex: 0.8;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Reconciliation" width="300">
+</div>
+
+</div>
+
