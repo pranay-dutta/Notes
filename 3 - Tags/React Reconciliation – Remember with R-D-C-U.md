@@ -1,3 +1,5 @@
+**Topic**: [[React]]
+
 🧠 **Remember this with:** `R-D-C-U` ➟ `!React Doesn’t Change Unnecessarily`
 When a component’s **state or props** change, React: 
 
