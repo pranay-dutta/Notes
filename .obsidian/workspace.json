@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/React.md",
+                "file": "3 - Tags/Important things to know about React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "Important things to know about React"
             }
           }
         ]
@@ -181,13 +181,14 @@
   },
   "active": "b5ae210c7e9e74cb",
   "lastOpenFiles": [
-    "Pasted image 20250524141718.png",
+    "3 - Tags/React.md",
+    "3 - Tags/Important things to know about React.md",
+    "3 - Tags/What is React.md",
+    "2  - Source Materials/Images/react.png",
     "6 - Main Notes/How React Works.md",
     "2  - Source Materials/Images/area-images.png",
-    "3 - Tags/React.md",
     "3 - Tags/Library vs Framework.md",
     "3 - Tags/React Reconciliation – Remember with R-D-C-U.md",
-    "3 - Tags/What is React.md",
     "6 - Main Notes/React Tools and Libraries.md",
     "2  - Source Materials/Images/react-reconciliation.png",
     "6 - Main Notes/Math/What is Perimeter.md",
@@ -217,8 +218,6 @@
     "6 - Main Notes/Math",
     "2  - Source Materials/Images/area-vs-perimeter.png",
     "2  - Source Materials/Images/perimeter-image-1.png",
-    "2  - Source Materials/Images/area-image-3.png",
-    "2  - Source Materials/Images/area-images-2.png",
     "Notes",
     "6 - Main Notes/Unit Testing",
     "Element that appears n",
