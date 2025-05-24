@@ -8,7 +8,7 @@
 ---
 ##### **Intuition**: A <--- B  B moves to C  C moves to D in 
 
-<img src="1.png" style="border-radius: 10px" alt="Landscape Image" width="400" height="auto"/>
+<img src="three-pointers-linked-list.png" style="border-radius: 10px" alt="Landscape Image" width="400" height="auto"/>
  
 ```cpp
 current = prev = nextNode = head;

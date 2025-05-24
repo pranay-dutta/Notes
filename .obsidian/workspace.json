@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "React Tools and Libraries"
             }
-          },
-          {
-            "id": "4f3ac1db944d24f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/How React Works.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How React Works"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,14 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f3ac1db944d24f4",
+  "active": "94034ed06b3739ba",
   "lastOpenFiles": [
+    "2  - Source Materials/Images/react-reconcialiation.png",
+    "6 - Main Notes/Math/What is Perimeter.md",
+    "6 - Main Notes/Solutions/Three pointer A👈B B = C C =D.md",
+    "2  - Source Materials/Images/three-pointers-linked-list.png",
+    "6 - Main Notes/How React Works.md",
     "3 - Tags/React.md",
     "6 - Main Notes/React Tools and Libraries.md",
     "3 - Tags/What is React.md",
     "3 - Tags/React Reconciliation – Remember with R-D-C-U.md",
-    "react-reconcialiation.png",
-    "6 - Main Notes/How React Works.md",
     "2  - Source Materials/Images/react-tree-server-client-component.png",
     "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
     "6 - Main Notes/Josephus Problem.md",
@@ -219,20 +207,17 @@
     "6 - Main Notes/Math/What is Area.md",
     "6 - Main Notes/Math/Area vs Perimeter.md",
     "6 - Main Notes/Math/Triangle Property.md",
-    "6 - Main Notes/Math/What is Perimeter.md",
     "6 - Main Notes/Pivot.md",
     "2  - Source Materials/Images/types-of-triangle.png",
     "2  - Source Materials/Images/unit-test-pyramid.png",
     "6 - Main Notes/Unit Testing/Prettier code formatting tool.md",
     "Untitled.canvas",
-    "6 - Main Notes/Unit Testing/Static Analysis Tools.md",
     "6 - Main Notes/Math",
     "2  - Source Materials/Images/area-vs-perimeter.png",
     "2  - Source Materials/Images/perimeter-image-1.png",
     "2  - Source Materials/Images/area-image-3.png",
     "2  - Source Materials/Images/area-images-2.png",
     "2  - Source Materials/Images/area-images.png",
-    "Phase_1_18.avif",
     "Notes",
     "6 - Main Notes/Unit Testing",
     "Element that appears n",
