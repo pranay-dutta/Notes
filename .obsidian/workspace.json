@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/What is React Reconciliation.md",
+                "file": "3 - Tags/React Reconciliation – Remember with R-D-C-U.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is React Reconciliation"
+              "title": "React Reconciliation – Remember with R-D-C-U"
             }
           }
         ],
@@ -225,7 +225,7 @@
   "active": "94034ed06b3739ba",
   "lastOpenFiles": [
     "3 - Tags/React.md",
-    "3 - Tags/What is React Reconciliation.md",
+    "3 - Tags/React Reconciliation – Remember with R-D-C-U.md",
     "3 - Tags/What is React.md",
     "6 - Main Notes/How React Works.md",
     "2  - Source Materials/Images/react-tree-server-client-component.png",

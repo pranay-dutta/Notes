@@ -1,5 +1,5 @@
 - [[What is React]]
-- [[What is React Reconciliation]]
+- [[React Reconciliation – Remember with R-D-C-U]]
 - [[How React Works]]
 - [[React Tools and Libraries]]
 - [[Unit testing in React]]
