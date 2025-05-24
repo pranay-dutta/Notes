@@ -1,5 +1,4 @@
 **Topic**: [[React]]
-### Quick Summary
 
 | Step                 | Tool / Role                       | Emoji |
 | -------------------- | --------------------------------- | ----- |
@@ -37,4 +36,3 @@
 - Examples: **Create React App (CRA), Next.js, Vite, Parcel**
 - 🎯 Provide **pre-configured environments** combining Babel + bundlers.
 - 💻 Run commands like `npm start` or `npm run build` to compile and bundle automatically.
-
