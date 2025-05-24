@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/React Tools and Libraries.md",
+                "file": "3 - Tags/Library vs Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Tools and Libraries"
+              "title": "Library vs Framework"
             }
           }
         ]
@@ -181,15 +181,16 @@
   },
   "active": "94034ed06b3739ba",
   "lastOpenFiles": [
-    "2  - Source Materials/Images/react-reconcialiation.png",
+    "3 - Tags/React.md",
+    "3 - Tags/Library vs Framework.md",
+    "3 - Tags/React Reconciliation – Remember with R-D-C-U.md",
+    "3 - Tags/What is React.md",
+    "6 - Main Notes/React Tools and Libraries.md",
+    "2  - Source Materials/Images/react-reconciliation.png",
     "6 - Main Notes/Math/What is Perimeter.md",
     "6 - Main Notes/Solutions/Three pointer A👈B B = C C =D.md",
     "2  - Source Materials/Images/three-pointers-linked-list.png",
     "6 - Main Notes/How React Works.md",
-    "3 - Tags/React.md",
-    "6 - Main Notes/React Tools and Libraries.md",
-    "3 - Tags/What is React.md",
-    "3 - Tags/React Reconciliation – Remember with R-D-C-U.md",
     "2  - Source Materials/Images/react-tree-server-client-component.png",
     "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
     "6 - Main Notes/Josephus Problem.md",

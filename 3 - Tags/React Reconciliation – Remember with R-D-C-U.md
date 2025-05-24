@@ -1,7 +1,7 @@
 🧠 **Remember this with:** `R-D-C-U` ➟ `!React Doesn’t Change Unnecessarily`
 When a component’s **state or props** change, React: 
 
-<img src="Pasted image 20250524123238.png" width=500 style="border-radius: 10px" />
+<img src="react-reconciliation.png" width=500 style="border-radius: 10px" />
 
 | 🔑 Mnemonic | Step      | Description                                          |
 | ----------- | --------- | ---------------------------------------------------- |

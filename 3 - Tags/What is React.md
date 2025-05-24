@@ -11,6 +11,6 @@
 	**/src** -                          source code
 	**/package.json** -         scripts, dev dependencies, prod dependencies  
 	
-🔴**dev dependencies**  are for development environment only
+🔴**dev dependencies** are for development environment only
 
 🤔 Know more about  [[How React Works]]
