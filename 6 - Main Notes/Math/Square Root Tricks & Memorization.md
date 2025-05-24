@@ -32,3 +32,19 @@
 
 > [!tip]+ ⏫ You can do the reverse too:
 > $$ (n - 1)^2 = n^2 - 2n + 1 $$
+
+> [!info] 📐 Generalized Formula for Squaring
+>
+>
+>$$ (n + a)^2 = n^2 + 2an + a^2$$
+>
+>
+> ---
+>
+> $$ (n - a)^2 = n^2 - 2an + a^2 $$
+>
+> ---
+>
+> **Where:**
+> - \(n\) = base number  
+> - \(a\) = number added or subtracted from \(n\)
