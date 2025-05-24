@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/Props vs State.md",
+                "file": "6 - Main Notes/Pivot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Props vs State"
+              "title": "Pivot"
+            }
+          },
+          {
+            "id": "632048a051fc990c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Math/Square Root Tricks & Memorization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Square Root Tricks & Memorization"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5ae210c7e9e74cb",
+  "active": "632048a051fc990c",
   "lastOpenFiles": [
-    "3 - Tags/React.md",
+    "6 - Main Notes/Math/Area vs Perimeter.md",
+    "6 - Main Notes/Math/Square Root Tricks & Memorization.md",
+    "6 - Main Notes/Pivot.md",
     "3 - Tags/Props vs State.md",
+    "3 - Tags/React.md",
     "3 - Tags/Important things to know about React.md",
     "6 - Main Notes/How React Works.md",
     "3 - Tags/Library vs Framework.md",
@@ -209,9 +227,6 @@
     "6 - Main Notes/Unit Testing/ESLint code quality checker tool.md",
     "6 - Main Notes/Unit Testing/TypeScript a statically-typed superset of JavaScript.md",
     "6 - Main Notes/Unit Testing/What is a Matcher.md",
-    "6 - Main Notes/Math/What is Area.md",
-    "6 - Main Notes/Math/Area vs Perimeter.md",
-    "6 - Main Notes/Math/Triangle Property.md",
     "2  - Source Materials/Images/types-of-triangle.png",
     "2  - Source Materials/Images/unit-test-pyramid.png",
     "Untitled.canvas",
