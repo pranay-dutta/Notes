@@ -1,3 +1,4 @@
-- [[Who Compiles React Code]]
+- [[What is React]]
+- [[How React Works]]
 - [[React Tools and Libraries]]
 - [[Unit testing in React]]

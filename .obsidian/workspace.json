@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/React Tools and Libraries.md",
+                "file": "3 - Tags/What is React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Tools and Libraries"
+              "title": "What is React"
             }
           }
         ],
@@ -225,7 +225,9 @@
   "active": "94034ed06b3739ba",
   "lastOpenFiles": [
     "3 - Tags/React.md",
-    "6 - Main Notes/Who Compiles React Code.md",
+    "6 - Main Notes/How React Works.md",
+    "3 - Tags/What is React.md",
+    "2  - Source Materials/Images/react-tree-server-client-component.png",
     "6 - Main Notes/React Tools and Libraries.md",
     "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
     "6 - Main Notes/Josephus Problem.md",
@@ -251,8 +253,6 @@
     "Untitled.canvas",
     "6 - Main Notes/Unit Testing/Static Analysis Tools.md",
     "6 - Main Notes/Unit Testing/Boundary Testing.md",
-    "3 - Tags/Math.md",
-    "5 - Templates/Template, Add Topic.md",
     "6 - Main Notes/Math",
     "2  - Source Materials/Images/area-vs-perimeter.png",
     "2  - Source Materials/Images/perimeter-image-1.png",
@@ -262,7 +262,6 @@
     "Phase_1_18.avif",
     "Pasted image 20250518033323.png",
     "Notes",
-    "Pasted image 20250514024616.png",
     "6 - Main Notes/Unit Testing",
     "Element that appears n",
     "Element that appears more than n",
