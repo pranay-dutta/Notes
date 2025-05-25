@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/React Hook Form.md",
+                "file": "6 - Main Notes/Data Validation Libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Hook Form"
+              "title": "Data Validation Libraries"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "148f2e2cfcc30e5f",
   "lastOpenFiles": [
-    "6 - Main Notes/Validation Libraries.md",
     "6 - Main Notes/React Hook Form.md",
+    "6 - Main Notes/Data Validation Libraries.md",
+    "6 - Main Notes/Validation Libraries.md",
     "6 - Main Notes/Canary vs Beta vs Stable.md",
     "6 - Main Notes/React Tools and Libraries.md",
     "3 - Tags/React.md",
@@ -211,7 +212,6 @@
     "6 - Main Notes/Solutions/Three pointer A👈B B = C C =D.md",
     "2  - Source Materials/Images/three-pointers-linked-list.png",
     "2  - Source Materials/Images/react-tree-server-client-component.png",
-    "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
     "2  - Source Materials/Images/types-of-triangle.png",
     "2  - Source Materials/Images/unit-test-pyramid.png",
     "Untitled.canvas",
