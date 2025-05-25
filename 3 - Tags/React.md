@@ -4,6 +4,8 @@
 - [[Important things to know about React]]
 - [[What is Cohesion]]
 - [[Props vs State]]
+- [[React Hooks]]
+- [[Pure vs Impure functions]]
 - [[Types of styling options]]
 - [[How React Works]]
 - [[React Tools and Libraries]]

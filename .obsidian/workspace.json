@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/Important things to know about React.md",
+                "file": "3 - Tags/Pure vs Impure functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Important things to know about React"
+              "title": "Pure vs Impure functions"
             }
           }
         ]
@@ -182,6 +182,9 @@
   "active": "148f2e2cfcc30e5f",
   "lastOpenFiles": [
     "3 - Tags/React.md",
+    "3 - Tags/Pure vs Impure functions.md",
+    "3 - Tags/React Hooks.md",
+    "3 - Tags/useState.md",
     "3 - Tags/Important things to know about React.md",
     "6 - Main Notes/React Tools and Libraries.md",
     "6 - Main Notes/How React Works.md",
@@ -209,9 +212,6 @@
     "6 - Main Notes/Unit Testing/Code coverage tool of vi-test.md",
     "README.md",
     "6 - Main Notes/Unit Testing/Husky Git hooks automation tool.md",
-    "6 - Main Notes/Unit Testing/Use ESLint and Prettier in TypeScript.md",
-    "6 - Main Notes/Unit Testing/How to mock Modules.md",
-    "6 - Main Notes/Unit Testing/ESLint code quality checker tool.md",
     "2  - Source Materials/Images/types-of-triangle.png",
     "2  - Source Materials/Images/unit-test-pyramid.png",
     "Untitled.canvas",
