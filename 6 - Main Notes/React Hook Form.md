@@ -8,7 +8,7 @@ const schema = z.object({
 	name: "validation rules"
 	age: "validation rules"
 })
-type FormData = z.infer<type of schema>
+type FormData = z.infer<typeof schema>
 
 const {register, handleSubmit, formState}=useForm<FormData>(); //FormData is an interface
 <intput {...register('name', options?)} />
