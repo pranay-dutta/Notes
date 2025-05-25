@@ -1,7 +1,7 @@
 **Topic**: [[React]]
 
 📌Performant, flexible and extensible forms with easy-to-use validation.
-Learn about react hook form <a href="https://react-hook-form.com/">in </a>
+Learn about **React Hook Form** <a href="https://react-hook-form.com/">in their website</a>
 
 ```tsx
 import useForm from 'react-hook-form' 
