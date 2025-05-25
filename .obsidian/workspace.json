@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/React.md",
+                "file": "3 - Tags/useState.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "useState"
             }
           }
         ]
@@ -181,10 +181,11 @@
   },
   "active": "148f2e2cfcc30e5f",
   "lastOpenFiles": [
-    "3 - Tags/Important things to know about React.md",
-    "3 - Tags/React.md",
-    "3 - Tags/Pure vs Impure functions.md",
     "3 - Tags/React Hooks.md",
+    "3 - Tags/React.md",
+    "3 - Tags/Props vs State.md",
+    "3 - Tags/Important things to know about React.md",
+    "3 - Tags/Pure vs Impure functions.md",
     "3 - Tags/useState.md",
     "6 - Main Notes/React Tools and Libraries.md",
     "6 - Main Notes/How React Works.md",
@@ -192,7 +193,6 @@
     "3 - Tags/React Reconciliation – Remember with R-D-C-U.md",
     "3 - Tags/Library vs Framework.md",
     "3 - Tags/Types of styling options.md",
-    "3 - Tags/Props vs State.md",
     "3 - Tags/What is Cohesion.md",
     "3 - Tags/What is React.md",
     "6 - Main Notes/Pivot.md",
