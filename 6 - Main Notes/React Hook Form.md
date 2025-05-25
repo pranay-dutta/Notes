@@ -14,4 +14,4 @@ const {register, handleSubmit, formState}=useForm<FormData>(); //FormData is an 
 <intput {...register('name', options?)} />
 ```
 
-[[Validation ]]
+🤔Know brief about [[Validation Libraries]]
