@@ -9,7 +9,8 @@
 - Axios - Axios is an open-source JavaScript library
 - React Query - react query dev tools
 - React Router
-- [[React Hook Form]]
+- [[React Hook Form]]  
+- @hookform/resolvers [[hookform resolvers (react-hook-form)]]
 - Immer  - state management tool 
 - Zustand - simple zustand dev tools
 

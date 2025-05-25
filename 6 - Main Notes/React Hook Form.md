@@ -17,4 +17,6 @@ const {register, handleSubmit, formState}=useForm<FormData>(); //FormData is an 
 <intput {...register('name', options?)} />
 ```
 
-🤔Know brief about [[Data Validation Libraries]]
+Know brief about [[Data Validation Libraries]]
+
+
