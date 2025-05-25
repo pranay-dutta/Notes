@@ -1,7 +1,6 @@
+**Topic**: [[React]] [[React Hooks]]
 # ⚛️ React State Update Batching
-
 React batches state updates inside event handlers to avoid unnecessary re-renders and improve performance.
-
 
 ## ✅ Correct Behavior
 When calling `setState` multiple times inside an event handler, React combines (batches) the updates and performs **a single re-render** after the handler finishes.

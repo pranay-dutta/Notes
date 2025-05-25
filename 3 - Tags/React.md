@@ -3,6 +3,7 @@
 - [[React Reconciliation – Remember with R-D-C-U]]
 - [[Important things to know about React]]
 - [[Strict Mode in React]]
+- [[React Lifecycle Methods]]
 - [[What is Cohesion]]
 - [[Props vs State]]
 - [[React Hooks]]
