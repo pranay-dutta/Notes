@@ -16,6 +16,9 @@
 🟣 **Styling** packages or **component** libraries
 - Chakra UI
 - Radix UI
+- Daisy UI
+- Aceternity UI
+- MUI
 - React Icons
 - Bootstrap
 - Tailwind
