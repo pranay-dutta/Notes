@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/React Hook Form.md",
+                "file": "6 - Main Notes/React Tools and Libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Hook Form"
+              "title": "React Tools and Libraries"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,12 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16570b6d5e887965",
+  "active": "148f2e2cfcc30e5f",
   "lastOpenFiles": [
     "6 - Main Notes/React Tools and Libraries.md",
     "6 - Main Notes/React Hook Form.md",
-    "3 - Tags/React.md",
     "6 - Main Notes/Data Validation Libraries.md",
+    "3 - Tags/React.md",
     "6 - Main Notes/Validation Libraries.md",
     "6 - Main Notes/Canary vs Beta vs Stable.md",
     "3 - Tags/What is React.md",
