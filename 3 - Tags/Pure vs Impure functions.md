@@ -1,4 +1,7 @@
-## ✅ Pure Function
+**Topic**: [[React]]
+
+---
+✅ **Pure Function**
 
 - Always returns the **same output** for the same input.
 - **No side effects** (doesn’t modify external state, I/O, etc.).
@@ -6,49 +9,46 @@
 ```cpp
 int add(int a, int b) return a + b;
 ```
+---
+❌ **Impure Function**
 
-❌ Impure Function
-- May return different outputs for same inputs.
-- Has side effects (e.g., modifies global variables, logs output).
+- May return **different outputs** for **same inputs**. (returns different output if given same input).
+- Has **side effects**.
 
-cpp
-Copy
-Edit
+```cpp
 int x = 0;
-int addAndLog(int a, int b) {
-    std::cout << a + b;
-    x++;
-    return a + b;
-}
-✅ Pure Component (React)
-Renders same UI for the same props/state.
+int addWithX(int a, int b) return a + b + x++;
+```
+---
+✅ **Pure Component (React)**
 
-No side effects during render.
+- **Renders** same UI for the **same props/state**.
+- **No side effects** during render.
 
-tsx
-Copy
-Edit
+``` tsx
 function Greeting({ name }) {
   return <h1>Hello, {name}</h1>;
 }
-❌ Impure Component (React)
-Depends on or mutates external state.
+```
+---
+❌ **Impure Component (React)**
 
-May cause side effects.
+- Depends on or **mutates** external state.
+- May cause **side effects**.
 
-tsx
-Copy
-Edit
+```jsx
 let count = 0;
 function Greeting({ name }) {
   count++;
   return <h1>Hello, {name}</h1>;
 }
-🧠 Summary
-Type	Pure	Impure
-Function	Deterministic, no side effects	Varies output, has side effects
-Component	Predictable render, isolated	Affected by external state
+```
+---
+🧠 **Summary**
 
-vbnet
-Copy
-Edit
+| Aspect                 | Pure                     | Impure                       |
+| ---------------------- | ------------------------ | ---------------------------- |
+| **Functions**          | Same input → same output | May vary output              |
+|                        | No side effects          | Has side effects             |
+| **Components (React)** | Deterministic render     | May depend on external state |
+|                        | No mutations in render   | May cause side effects       |
