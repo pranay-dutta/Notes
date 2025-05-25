@@ -1,3 +1,5 @@
+**Topic**: [[React]]
+
 | Props                                                  | State                                                     |
 | ------------------------------------------------------ | --------------------------------------------------------- |
 | Input passed **to** a component (from parent)          | Data managed **within** the component itself              |
