@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/React Tools and Libraries.md",
+                "file": "6 - Main Notes/React Hook Form.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Tools and Libraries"
+              "title": "React Hook Form"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "148f2e2cfcc30e5f",
   "lastOpenFiles": [
-    "3 - Tags/React.md",
     "6 - Main Notes/React Tools and Libraries.md",
+    "3 - Tags/React.md",
     "6 - Main Notes/React Hook Form.md",
     "3 - Tags/What is React.md",
     "3 - Tags/React Hooks.md",
