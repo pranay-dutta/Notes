@@ -12,4 +12,5 @@
 - [[How React Works]]
 - [[React Tools and Libraries]]
 - [[Library vs Framework]]
+- [[Data Validation Libraries]]
 - [[Unit testing in React]]
