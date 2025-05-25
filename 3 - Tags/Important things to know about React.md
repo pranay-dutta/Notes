@@ -7,4 +7,4 @@
 🟢React uses **Synthetic Base Event** for cross browser **compatibility**. Because some **browsers** have different **implementation** of **event object**
 
 🟡[[Strict Mode in React]]
-
+🟡 [[React Strict Mode Double Invoking vs Canceling First Render]] 

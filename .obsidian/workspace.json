@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/Strict Mode in React.md",
+                "file": "3 - Tags/React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strict Mode in React"
+              "title": "React"
             }
           }
         ]
@@ -182,8 +182,9 @@
   "active": "148f2e2cfcc30e5f",
   "lastOpenFiles": [
     "3 - Tags/Important things to know about React.md",
-    "3 - Tags/React.md",
     "3 - Tags/Strict Mode in React.md",
+    "3 - Tags/React Strict Mode Double Invoking vs Canceling First Render.md",
+    "3 - Tags/React.md",
     "3 - Tags/React Hooks.md",
     "3 - Tags/useState.md",
     "3 - Tags/Props vs State.md",
@@ -211,7 +212,6 @@
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/Unit Testing/Popular Testing Frameworks.md",
     "6 - Main Notes/Unit Testing/Code coverage tool of vi-test.md",
-    "README.md",
     "2  - Source Materials/Images/types-of-triangle.png",
     "2  - Source Materials/Images/unit-test-pyramid.png",
     "Untitled.canvas",
