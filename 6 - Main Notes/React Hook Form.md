@@ -1,7 +1,10 @@
 **Topic**: [[React]]
 
+📌Performant, flexible and extensible forms with easy-to-use validation.
+Learn about react hook form <a href="https://react-hook-form.com/">in </a>
+
 ```tsx
-import useFrom from 'react-hook-form'
+import useForm from 'react-hook-form' 
 import z from 'zod' //zod is validation library
 
 const schema = z.object({
