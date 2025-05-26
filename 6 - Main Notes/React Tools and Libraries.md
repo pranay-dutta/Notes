@@ -6,7 +6,7 @@
 - React Native  - For mobile
 
 🔴 **Important** Libraries 
-- Axios - Axios is an open-source JavaScript library
+- [[Axios]] - JavaScript library for making HTTP request
 - React Query - react query dev tools
 - React Router
 - [[React Hook Form]]  
