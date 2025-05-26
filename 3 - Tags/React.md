@@ -5,6 +5,7 @@
 - [[Strict Mode in React]]
 - [[React Lifecycle Methods]]
 - [[What is Cohesion]]
+- [[Arrow Function & this]]
 - [[Props vs State]]
 - [[React Hooks]] and [[Custom Hooks]]
 - [[Pure vs Impure functions]]

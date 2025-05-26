@@ -20,13 +20,13 @@ It helps you manage **server state** easily—fetching, caching, updating, and s
 
 ## ⚒️ Key Hooks: `useQuery` vs `useMutation`
 
-| Feature        | `useQuery`                             | `useMutation`                             |
-|----------------|------------------------------------------|--------------------------------------------|
-| Purpose        | **Fetch (GET)** data                    | **Send/modify (POST/PUT/DELETE)** data     |
-| Trigger        | Auto on mount or key change             | Manual (e.g., button click, form submit)   |
-| Caching        | ✅ Yes (auto)                            | ❌ No (but can invalidate queries manually) |
-| State Handling | ✅ Built-in (loading, error, etc.)      | ✅ Built-in                                 |
-| Example        | Fetching user list                      | Adding a new user                          |
+| Feature        | `useQuery`                        | `useMutation`                              |
+| -------------- | --------------------------------- | ------------------------------------------ |
+| Purpose        | **Fetch (GET)** data              | **Send/modify (POST/PUT/DELETE)** data     |
+| Trigger        | Auto on mount or key change       | Manual (e.g., button click, form submit)   |
+| Caching        | ✅ Yes (auto)                      | ❌ No (but can invalidate queries manually) |
+| State Handling | ✅ Built-in (loading, error, etc.) | ✅ Built-in                                 |
+| Example        | Fetching user list                | Adding a new user                          |
 ### `useQuery` Example
 
 ```tsx
@@ -44,6 +44,20 @@ const mutation = useMutation({
       method: 'POST',
       body: JSON.stringify(newUser),
     }),
+})
+```
+### `useInfiniteQuery` Example
+
+```tsx
+const fetchPage = ({ pageParam = 1 }) =>
+  fetch(`/api/posts?page=${pageParam}`).then(res => res.json())
+
+const { data, fetchNextPage, hasNextPage, isFetchingNextPage } = useInfiniteQuery({
+  queryKey: ['posts'],
+  queryFn: fetchPage,
+  getNextPageParam: (lastPage, allPages) => {
+    return lastPage.hasMore ? allPages.length + 1 : undefined
+  },
 })
 ```
 
