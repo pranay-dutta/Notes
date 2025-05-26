@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/React Query.md",
+                "file": "3 - Tags/React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Query"
+              "title": "React"
             }
           }
         ]
@@ -179,11 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4df01eb4e0dcdcc",
+  "active": "148f2e2cfcc30e5f",
   "lastOpenFiles": [
-    "2  - Source Materials/Images/react-query.png",
     "6 - Main Notes/React Tools and Libraries.md",
     "6 - Main Notes/React Query.md",
+    "2  - Source Materials/Images/react-query.png",
     "3 - Tags/React.md",
     "3 - Tags/Prop Drilling vs React Context API.md",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-meme.png",
@@ -217,7 +217,6 @@
     "2  - Source Materials/Images/react-reconciliation.png",
     "2  - Source Materials/Images/three-pointers-linked-list.png",
     "2  - Source Materials/Images/react-tree-server-client-component.png",
-    "2  - Source Materials/Images/types-of-triangle.png",
     "Untitled.canvas",
     "6 - Main Notes/Math",
     "Notes",
