@@ -1,5 +1,7 @@
 **Topic**: [[React]]
 
+🤔 [[Prop Drilling vs React Context API]]
+
 👎**Prop Drilling** is the process where you **pass data** from a **parent** component to a **deeply nested child** component 
 through **intermediate components** that do not need the data themselves.
 
@@ -25,5 +27,4 @@ function GrandChild({ user }) {
 
 Here, `user` is passed from `Parent` → `Child` → `GrandChild`, even though only `GrandChild` needs it.
 ```
-
 
