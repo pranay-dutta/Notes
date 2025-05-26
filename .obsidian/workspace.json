@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/Prop Drilling vs React Context API.md",
+                "file": "3 - Tags/React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prop Drilling vs React Context API"
+              "title": "React"
             }
           }
         ]
@@ -181,9 +181,9 @@
   },
   "active": "148f2e2cfcc30e5f",
   "lastOpenFiles": [
+    "3 - Tags/Prop Drilling vs React Context API.md",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-meme.png",
     "3 - Tags/React.md",
-    "3 - Tags/Prop Drilling vs React Context API.md",
     "3 - Tags/Optimistic vs Pessimistic UI update.md",
     "3 - Tags/React Prop Drilling.md",
     "3 - Tags/React Reconciliation – Remember with R-D-C-U.md",
@@ -217,7 +217,6 @@
     "2  - Source Materials/Images/three-pointers-linked-list.png",
     "2  - Source Materials/Images/react-tree-server-client-component.png",
     "2  - Source Materials/Images/types-of-triangle.png",
-    "2  - Source Materials/Images/unit-test-pyramid.png",
     "Untitled.canvas",
     "6 - Main Notes/Math",
     "Notes",

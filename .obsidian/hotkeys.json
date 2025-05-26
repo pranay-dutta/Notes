@@ -72,5 +72,13 @@
       ],
       "key": "A"
     }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }

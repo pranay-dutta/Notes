@@ -11,7 +11,9 @@
 | **Scalability**        | More scalable for large apps                           | Hard to maintain in large apps                              |
 | **Setup Complexity**   | Requires creating context and provider components      | No extra setup; basic props usage                           |
 | **Use Case**           | Theming, authentication, user settings, language, etc. | Simple, one-off data passing through shallow component tree |
+👎**Tight Coupling (Prop Drilling)**: Components depend heavily on each other for data transfer.
+👍**Loose Coupling (Context API)**: Components are independent, reducing maintenance headaches.
 
-🥴 **MEME**
+Meme 😆
 
 <img src="prop-drilling-vs-react-context-meme.png" width=400 height=250 style="border-radius: 10px" />
