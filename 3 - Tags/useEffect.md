@@ -13,7 +13,7 @@ useEffect(() => {
 	// cleanup function (optional) 
 	
 	//ex: cancel the http request
-		const controller = new AbortController();
+		const controller = new AbortController(); //can cancel any async operation https://developer.mozilla.org/en-US/docs/Web/API/AbortController
 		controller.abort();
 	}; 
 	
