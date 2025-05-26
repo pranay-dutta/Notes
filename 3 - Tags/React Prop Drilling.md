@@ -7,7 +7,7 @@ through **intermediate components** that do not need the data themselves.
 
 This often leads to **cluttered code** and makes it **harder to maintain**, especially in large applications.
 
-```ts
+```jsx
 function App() {
   return <Parent />;
 }
@@ -17,7 +17,7 @@ function Parent() {
   return <Child user={user} />;
 }
 
-function Child({ user }) {
+function Child({ user }) { //child doesn't even need the user
   return <GrandChild user={user} />;
 }
 
