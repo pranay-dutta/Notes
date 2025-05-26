@@ -6,7 +6,7 @@
 - [[React Lifecycle Methods]]
 - [[What is Cohesion]]
 - [[Props vs State]]
-- [[React Hooks]]
+- [[React Hooks]] and [[Custom Hooks]]
 - [[Pure vs Impure functions]]
 - [[Types of styling options]]
 - [[How React Works]]

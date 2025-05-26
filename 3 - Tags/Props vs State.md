@@ -22,3 +22,5 @@ function Child(props) {
   onClick: set age + 1     // update state
 }
 ```
+
+[[Know about Prop ]]
