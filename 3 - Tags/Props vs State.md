@@ -23,4 +23,4 @@ function Child(props) {
 }
 ```
 
-[[Know about Prop ]]
+🤔Know about [[React Prop Drilling]]
