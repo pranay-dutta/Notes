@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Axios.md",
+                "file": "3 - Tags/Optimistic vs Pessimistic UI update.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Axios"
+              "title": "Optimistic vs Pessimistic UI update"
             }
           }
         ]
@@ -181,9 +181,10 @@
   },
   "active": "148f2e2cfcc30e5f",
   "lastOpenFiles": [
+    "3 - Tags/React.md",
+    "3 - Tags/Optimistic vs Pessimistic UI update.md",
     "6 - Main Notes/React Tools and Libraries.md",
     "6 - Main Notes/Axios.md",
-    "3 - Tags/React.md",
     "3 - Tags/useEffect.md",
     "3 - Tags/useState.md",
     "3 - Tags/What is Promise.md",
@@ -209,7 +210,6 @@
     "3 - Tags/React Reconciliation – Remember with R-D-C-U.md",
     "3 - Tags/Library vs Framework.md",
     "3 - Tags/Types of styling options.md",
-    "3 - Tags/What is Cohesion.md",
     "2  - Source Materials/Images/react.png",
     "2  - Source Materials/Images/area-images.png",
     "2  - Source Materials/Images/react-reconciliation.png",

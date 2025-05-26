@@ -13,6 +13,7 @@
 - [[React Tools and Libraries]]
 - [[Library vs Framework]]
 - [[Data Validation Libraries]]
+- [[Optimistic vs Pessimistic UI update]]
 - [[Unit testing in React]]
 
 --- 
