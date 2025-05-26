@@ -63,4 +63,4 @@ const timer = {
 | --------------- | ------------------------------------------- |
 | `this` in arrow | Inherited from the enclosing function scope |
 | Best for        | Callbacks, event handlers, React components |
-| Avoid when      | You need dynamic \`this\` (e.g. in methods) |
+| Avoid when      | You need dynamic `this` (e.g. in methods)   |
