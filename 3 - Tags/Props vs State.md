@@ -24,3 +24,4 @@ function Child(props) {
 ```
 
 🤔Know about [[React Prop Drilling]]
+🤔Know about [[Prop Drilling vs React Context API]]
