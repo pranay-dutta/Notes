@@ -7,7 +7,7 @@
 
 🔴 **Important** Libraries 
 - [[Axios]] - JavaScript library for making HTTP request
-- React Query - react query dev tools
+- [[React Query]] - react query dev tools
 - React Router
 - [[React Hook Form]]  
 - @hookform/resolvers [[hookform resolvers (react-hook-form)]]
