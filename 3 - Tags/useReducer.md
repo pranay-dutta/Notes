@@ -1,3 +1,5 @@
+**Topic**: [[React]] [[React Hooks]]
+
 `useReducer` is a React Hook used for managing complex state logic in functional components.
 
 It is an alternative to `useState` and is often preferable when:
