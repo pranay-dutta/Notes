@@ -181,8 +181,9 @@
   },
   "active": "148f2e2cfcc30e5f",
   "lastOpenFiles": [
-    "3 - Tags/Arrow Function & this.md",
+    "3 - Tags/React Hooks.md",
     "3 - Tags/React.md",
+    "3 - Tags/Arrow Function & this.md",
     "6 - Main Notes/React Query.md",
     "6 - Main Notes/React Tools and Libraries.md",
     "2  - Source Materials/Images/react-query.png",
@@ -197,7 +198,6 @@
     "3 - Tags/Strict Mode in React.md",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-api.png",
     "3 - Tags/Custom Hooks.md",
-    "3 - Tags/React Hooks.md",
     "6 - Main Notes/Axios.md",
     "3 - Tags/useEffect.md",
     "3 - Tags/useState.md",
