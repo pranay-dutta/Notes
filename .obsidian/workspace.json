@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Merge Intervals.md",
+                "file": "6 - Main Notes/Solutions/Sort and merge intervals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge Intervals"
+              "title": "Sort and merge intervals"
             }
           }
         ],
@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Move Zeros.md",
+                "file": "6 - Main Notes/Solutions/Swap zero with number  slow and fast pointer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Move Zeros"
+              "title": "Swap zero with number  slow and fast pointer"
             }
           }
         ]
@@ -230,8 +230,11 @@
   },
   "active": "e6e95a367520fa1d",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Move Zeros.md",
     "6 - Main Notes/Problems/Merge Intervals.md",
+    "6 - Main Notes/Solutions/Sort and merge intervals.md",
+    "6 - Main Notes/Solutions/Swap zero with number  slow and fast pointer.md",
+    "6 - Main Notes/Problems/Move Zeros.md",
+    "6 - Main Notes/Solutions/Add elements in place of zero.md",
     "6 - Main Notes/Problems/Linked List Cycle.md",
     "3 - Tags/React.md",
     "6 - Main Notes/Unit Testing/Unit testing in React.md",
@@ -256,11 +259,8 @@
     "6 - Main Notes/Axios.md",
     "3 - Tags/useEffect.md",
     "3 - Tags/useState.md",
-    "3 - Tags/What is Promise.md",
     "2  - Source Materials/Images/javascript-promise.png",
     "2  - Source Materials/Images/promise-in-javascript.png",
-    "3 - Tags/useRef.md",
-    "6 - Main Notes/hookform resolvers (react-hook-form).md",
     "hookForm",
     "2  - Source Materials/Images/react.png",
     "2  - Source Materials/Images/area-images.png",

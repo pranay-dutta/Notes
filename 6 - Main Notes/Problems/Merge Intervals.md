@@ -1,12 +1,12 @@
 **Topic:**  
 **Last Modified**:  `2025-05-28 01:22`
 
-`Problem:`
+`Problem: Merge the overlaping intervals`
 
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O() Space O()` 
+ [[Sort and merge intervals]] `Time O() Space O()` 
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 

@@ -6,10 +6,10 @@
 ### Solutions -- 
 
 ###### 🟢 Best
- [[Swap zero with number  slow and fast pointer]] `Time O() Space O()` 
+ [[Swap zero with number  slow and fast pointer]] `Time O(n) Space O(1)` 
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
- [[Add elements in place of zero]] `Time O() Space O()` 
+ [[Add elements in place of zero]] `Time O(2n) Space O(1)` 
 ----------------------------------------------------------------------------------------------
 ###### 🔴 Worst
  [[Copy the elements of the array]] `Time O(n) Space O(n)` 
