@@ -6,7 +6,7 @@
 ### Solutions -- 
 
 ###### 🟢 Best
- [[Sort and merge intervals]] `Time O() Space O()` 
+ [[Sort and merge intervals]] `Time O(n log(n)) Space O(1)` 
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
