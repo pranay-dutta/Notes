@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/React.md",
+                "file": "3 - Tags/React Lifecycle Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "React Lifecycle Methods"
             }
           }
         ]
@@ -181,6 +181,9 @@
   },
   "active": "aabea5aa7977def7",
   "lastOpenFiles": [
+    "3 - Tags/React.md",
+    "3 - Tags/React Lifecycle Methods.md",
+    "3 - Tags/Optimistic vs Pessimistic UI update.md",
     "3 - Tags/What is Promise.md",
     "6 - Main Notes/Solutions/Swap zero with number  slow and fast pointer.md",
     "6 - Main Notes/React Query.md",
@@ -189,7 +192,6 @@
     "6 - Main Notes/Problems/Move Zeros.md",
     "6 - Main Notes/Solutions/Add elements in place of zero.md",
     "6 - Main Notes/Problems/Linked List Cycle.md",
-    "3 - Tags/React.md",
     "6 - Main Notes/Unit Testing/Unit testing in React.md",
     "6 - Main Notes/Pivot.md",
     "3 - Tags/useReducer.md",
@@ -199,7 +201,6 @@
     "2  - Source Materials/Images/react-query.png",
     "3 - Tags/Prop Drilling vs React Context API.md",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-meme.png",
-    "3 - Tags/Optimistic vs Pessimistic UI update.md",
     "3 - Tags/React Prop Drilling.md",
     "3 - Tags/React Reconciliation – Remember with R-D-C-U.md",
     "3 - Tags/React Strict Mode Double Invoking vs Canceling First Render.md",
@@ -209,7 +210,6 @@
     "2  - Source Materials/Images/prop-drilling-vs-react-context-api.png",
     "3 - Tags/Custom Hooks.md",
     "6 - Main Notes/Axios.md",
-    "3 - Tags/useEffect.md",
     "2  - Source Materials/Images/javascript-promise.png",
     "2  - Source Materials/Images/promise-in-javascript.png",
     "hookForm",
