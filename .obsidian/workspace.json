@@ -35,8 +35,7 @@
               "title": "Axios"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4df01eb4e0dcdcc",
+  "active": "aabea5aa7977def7",
   "lastOpenFiles": [
+    "6 - Main Notes/Axios.md",
     "3 - Tags/React Lifecycle Methods.md",
     "3 - Tags/React.md",
     "3 - Tags/Optimistic vs Pessimistic UI update.md",
@@ -224,7 +224,6 @@
     "3 - Tags/Strict Mode in React.md",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-api.png",
     "3 - Tags/Custom Hooks.md",
-    "6 - Main Notes/Axios.md",
     "2  - Source Materials/Images/javascript-promise.png",
     "2  - Source Materials/Images/promise-in-javascript.png",
     "hookForm",
