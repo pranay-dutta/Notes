@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65b2ea4a941942b3",
+  "active": "c3fe65754dea3cb3",
   "lastOpenFiles": [
-    "3 - Tags/React.md",
     "3 - Tags/The Alchemist - Notes.md",
+    "3 - Tags/React.md",
     "6 - Main Notes/Axios.md",
     "3 - Tags/React Lifecycle Methods.md",
     "3 - Tags/Optimistic vs Pessimistic UI update.md",
