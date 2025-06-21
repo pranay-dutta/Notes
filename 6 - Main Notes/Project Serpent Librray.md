@@ -1,4 +1,4 @@
- Project: SerpentSense - Smart Snake Info Web App
+ Project: Serpent Library - Smart Snake Info Web App
  ================================================
 
 1. Project Goal
