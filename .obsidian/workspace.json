@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Axios"
             }
+          },
+          {
+            "id": "e236f294d262e04d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,11 +218,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3fe65754dea3cb3",
+  "active": "e236f294d262e04d",
   "lastOpenFiles": [
+    "6 - Main Notes/Project SerpentSense.md",
+    "6 - Main Notes/Axios.md",
     "3 - Tags/The Alchemist - Notes.md",
     "3 - Tags/React.md",
-    "6 - Main Notes/Axios.md",
     "3 - Tags/React Lifecycle Methods.md",
     "3 - Tags/Optimistic vs Pessimistic UI update.md",
     "3 - Tags/What is Promise.md",
@@ -237,7 +248,6 @@
     "3 - Tags/React Strict Mode Double Invoking vs Canceling First Render.md",
     "3 - Tags/Important things to know about React.md",
     "3 - Tags/Props vs State.md",
-    "3 - Tags/Strict Mode in React.md",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-api.png",
     "2  - Source Materials/Images/javascript-promise.png",
     "2  - Source Materials/Images/promise-in-javascript.png",
