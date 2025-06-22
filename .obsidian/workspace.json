@@ -11,10 +11,14 @@
             "id": "562e7d22940070d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Project Serpentes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Project Serpentes"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -178,7 +181,7 @@
   },
   "active": "562e7d22940070d5",
   "lastOpenFiles": [
-    "6 - Main Notes/Project Serpent Librray.md",
+    "6 - Main Notes/Project Serpentes.md",
     "6 - Main Notes/Axios.md",
     "3 - Tags/The Alchemist - Notes.md",
     "3 - Tags/React.md",
