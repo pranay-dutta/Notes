@@ -6,10 +6,11 @@ A utility package that connects **React Hook Form** with external **schema valid
 #### 📦 Example:
 
 ```tsx
-useForm({   resolver: yupResolver(schema), });
+useForm({ resolver: yupResolver(schema) });
 ```
 
 #### 📚 Supported:
+
 - `yupResolver`
 - `zodResolver`
 - `joiResolver`

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e34db2c2b1edb117",
+        "id": "78d65a68c385bf01",
         "type": "tabs",
         "children": [
           {
-            "id": "6cd4deb82b6b165b",
+            "id": "38d116a74dc7c3ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/React/useContext.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "useContext"
             }
           }
         ]
@@ -175,34 +179,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cd4deb82b6b165b",
+  "active": "38d116a74dc7c3ae",
   "lastOpenFiles": [
-    "3 - Tags/React context Optimizing re-renders when passing objects and functions.md",
-    "3 - Tags/React.md",
-    "3 - Tags/React Hooks.md",
-    "3 - Tags/useContext.md",
-    "3 - Tags/Optimizing re-renders when passing objects and functions.md",
-    "3 - Tags/Custom Hooks.md",
-    "3 - Tags/useReducer.md",
-    "3 - Tags/Props vs State.md",
-    "3 - Tags/Prop Drilling vs React Context API.md",
-    "3 - Tags/Arrow Function & this.md",
-    "3 - Tags/What is Cohesion.md",
-    "3 - Tags/Strict Mode in React.md",
-    "3 - Tags/React Lifecycle Methods.md",
-    "3 - Tags/Important things to know about React.md",
-    "3 - Tags/React Strict Mode Double Invoking vs Canceling First Render.md",
-    "3 - Tags/React Reconciliation – Remember with R-D-C-U.md",
-    "6 - Main Notes/How React Works.md",
-    "6 - Main Notes/Unit Testing/Unit testing in React.md",
-    "6 - Main Notes/Project Serpentes.md",
-    "6 - Main Notes/Axios.md",
-    "3 - Tags/The Alchemist - Notes.md",
-    "3 - Tags/Optimistic vs Pessimistic UI update.md",
-    "3 - Tags/What is Promise.md",
-    "6 - Main Notes/Solutions/Swap zero with number  slow and fast pointer.md",
-    "6 - Main Notes/React Query.md",
-    "6 - Main Notes/Problems/Merge Intervals.md",
+    "6 - Main Notes/React/State management libraries.md",
+    "6 - Main Notes/React/React.md",
+    "6 - Main Notes/React/Strict Mode in React.md",
+    "6 - Main Notes/React/React context Optimizing re-renders when passing objects and functions.md",
+    "6 - Main Notes/React/Optimistic vs Pessimistic UI update.md",
+    "6 - Main Notes/React/Arrow Function & this.md",
+    "3 - Tags/Array.md",
+    "6 - Main Notes/React/Custom Hooks.md",
+    "3 - Tags/Cumulative Sum.md",
+    "6 - Main Notes/React/What is Promise.md",
+    "6 - Main Notes/React/What is Cohesion.md",
+    "6 - Main Notes/React/useContext.md",
+    "6 - Main Notes/Canary vs Beta vs Stable.md",
+    "6 - Main Notes/Data Validation Libraries.md",
+    "6 - Main Notes/Validation Libraries.md",
+    "6 - Main Notes/React/React Query.md",
+    "6 - Main Notes/React/hookform resolvers (react-hook-form).md",
+    "6 - Main Notes/React/React Hooks.md",
+    "6 - Main Notes/React/Important things to know about React.md",
+    "README.md",
+    "6 - Main Notes/React",
+    "6 - Main Notes/React/Optimizing re-renders when passing objects and functions.md",
+    "6 - Main Notes/React/useReducer.md",
+    "6 - Main Notes/React/Props vs State.md",
+    "6 - Main Notes/React/Prop Drilling vs React Context API.md",
+    "6 - Main Notes/React/React Lifecycle Methods.md",
+    "6 - Main Notes/React/React Strict Mode Double Invoking vs Canceling First Render.md",
     "2  - Source Materials/Images/react-query.png",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-meme.png",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-api.png",
@@ -222,8 +227,7 @@
     "Element that appears more than n",
     "6 - Main Notes/Politics",
     "6 - Main Notes/Science",
-    "React",
-    "2  - Source Materials/Images",
+    "6 - Main Notes/React",
     "Hello.canvas"
   ]
 }
