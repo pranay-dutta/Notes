@@ -1,13 +1,14 @@
+
 ==========================================
-Optimizing re-renders when passing objects
+ Optimizing re-renders when passing objects
  and functions via useContext in React
  ==========================================
  Source: https://react.dev/reference/react/useContext#optimizing-re-renders-when-passing-objects-and-functions
 
 
-// ✅ You can pass any values via context, including objects and functions:
+✅ You can pass any values via context, including objects and functions:
 
-// ```ts
+ ```ts
 function MyApp() {
   const [currentUser, setCurrentUser] = useState(null);
 
@@ -22,19 +23,19 @@ function MyApp() {
     </AuthContext>
   );
 }
-// ```
+ ```
 
-// ⚠️ Problem:
-// Every time MyApp re-renders (e.g. on a route change),
-// the `value` object and the `login` function are recreated,
-// causing all components using useContext(AuthContext)
-// to re-render — even if currentUser hasn't changed.
+## ⚠️ Problem:
 
-// 🛠️ Optimization:
-// Use `useCallback` for functions and `useMemo` for objects
-// to avoid unnecessary re-renders:
+Every time MyApp re-renders (e.g. on a route change), the `value` object and the `login` function are recreated,
+causing all components using useContext(AuthContext) to re-render — even if currentUser hasn't changed.
 
-// ```ts
+## 🛠️ Optimization:
+
+ Use `useCallback` for functions and `useMemo` for objects
+ to avoid unnecessary re-renders:
+
+```ts
 import { useCallback, useMemo } from 'react';
 
 function MyApp() {
@@ -59,7 +60,7 @@ function MyApp() {
     </AuthContext>
   );
 }
-// ```
+```
 
  ✅ Result:
  Now, components using useContext(AuthContext)
