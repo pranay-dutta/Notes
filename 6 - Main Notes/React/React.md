@@ -17,9 +17,9 @@
 - [[Data Validation Libraries]]
 - [[Optimistic vs Pessimistic UI update]]
 - [[React context Optimizing re-renders when passing objects and functions]]
-- [[Unit testing in React]]
 - [[State management libraries]]
-
+- [[Routing using React Router]]
+- [[Unit testing in React]]
 
 --- 
 - [[What is Promise]]
