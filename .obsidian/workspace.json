@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/useContext.md",
+                "file": "3 - Tags/React context Optimizing re-renders when passing objects and functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useContext"
+              "title": "React context Optimizing re-renders when passing objects and functions"
             }
           }
         ]
@@ -181,9 +181,11 @@
   },
   "active": "461c902a7f84eb3d",
   "lastOpenFiles": [
+    "3 - Tags/React.md",
+    "3 - Tags/React context Optimizing re-renders when passing objects and functions.md",
     "3 - Tags/React Hooks.md",
     "3 - Tags/useContext.md",
-    "3 - Tags/React.md",
+    "3 - Tags/Optimizing re-renders when passing objects and functions.md",
     "3 - Tags/Custom Hooks.md",
     "3 - Tags/useReducer.md",
     "3 - Tags/Props vs State.md",
@@ -205,8 +207,6 @@
     "6 - Main Notes/Solutions/Swap zero with number  slow and fast pointer.md",
     "6 - Main Notes/React Query.md",
     "6 - Main Notes/Problems/Merge Intervals.md",
-    "6 - Main Notes/Solutions/Sort and merge intervals.md",
-    "6 - Main Notes/Problems/Move Zeros.md",
     "2  - Source Materials/Images/react-query.png",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-meme.png",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-api.png",

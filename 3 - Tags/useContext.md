@@ -54,3 +54,5 @@ function Button() {
   <App />
 </ThemeContext.Provider>
 ```
+
+### [[React context Optimizing re-renders when passing objects and functions]]
