@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/React.md",
+                "file": "3 - Tags/useContext.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "useContext"
             }
           }
         ]
@@ -181,9 +181,13 @@
   },
   "active": "461c902a7f84eb3d",
   "lastOpenFiles": [
+    "3 - Tags/React Hooks.md",
+    "3 - Tags/useContext.md",
+    "3 - Tags/React.md",
+    "3 - Tags/Custom Hooks.md",
+    "3 - Tags/useReducer.md",
     "3 - Tags/Props vs State.md",
     "3 - Tags/Prop Drilling vs React Context API.md",
-    "3 - Tags/React.md",
     "3 - Tags/Arrow Function & this.md",
     "3 - Tags/What is Cohesion.md",
     "3 - Tags/Strict Mode in React.md",
@@ -203,10 +207,6 @@
     "6 - Main Notes/Problems/Merge Intervals.md",
     "6 - Main Notes/Solutions/Sort and merge intervals.md",
     "6 - Main Notes/Problems/Move Zeros.md",
-    "6 - Main Notes/Solutions/Add elements in place of zero.md",
-    "6 - Main Notes/Problems/Linked List Cycle.md",
-    "6 - Main Notes/Pivot.md",
-    "3 - Tags/useReducer.md",
     "2  - Source Materials/Images/react-query.png",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-meme.png",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-api.png",

@@ -25,7 +25,7 @@ import React, { useReducer } from 'react';
 
 const initialState = { count: 0 };
 
-function reducer(state, action) {
+function reducer(state, action) { //action : {type: action_type, payload: any_data_needs to be passed to reducer}
   switch (action.type) {
     case 'increment':
       return { count: state.count + 1 };
