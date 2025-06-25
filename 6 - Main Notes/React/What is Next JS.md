@@ -1,3 +1,5 @@
+**Topic**: [[React]] [[Next JS]]
+
 📌**Next.js** is a React-based **framework** developed by **Vercel**. 
 🟢 Offers building **full-stack** web applications with optimized **performance** and **scalability**.
 
@@ -26,4 +28,5 @@
 | Blogs & portfolios            | Generate static pages once; serve worldwide via CDN.   |
 | Full-stack apps               | Co-locate frontend & backend (API Routes) in one repo. |
 | Hybrid static + dynamic sites | Mix SSG for content and CSR/SSR for dynamic parts.     |
+
 🔗 Official Site: https://nextjs.org

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/React/Next JS.md",
+                "file": "6 - Main Notes/React/What is Next JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next JS"
+              "title": "What is Next JS"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/React/React.md",
+                "file": "6 - Main Notes/React/What is React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "What is React"
             }
           }
         ]
@@ -203,11 +203,11 @@
   },
   "active": "d69469907d8cbb3c",
   "lastOpenFiles": [
-    "6 - Main Notes/React/React.md",
-    "6 - Main Notes/React/Next JS.md",
-    "6 - Main Notes/React/What is Next JS.md",
-    "Pasted image 20250625120207.png",
     "6 - Main Notes/React/What is React.md",
+    "6 - Main Notes/React/React.md",
+    "6 - Main Notes/React/What is Next JS.md",
+    "6 - Main Notes/React/Next JS.md",
+    "Pasted image 20250625120207.png",
     "2  - Source Materials/Images/react.png",
     "2  - Source Materials/Images/nextjs.png",
     "6 - Main Notes/Next JS",
