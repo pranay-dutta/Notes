@@ -48,3 +48,41 @@ Server                Browser
 - Attaches JavaScript event listeners
 - Initializes internal state
 - Activates dynamic logic (like `useEffect`, `useState`, etc.)
+
+🧪 **Example in Next.js:**
+───────────────────────────────
+
+```jsx
+// A simple interactive component
+export default function Counter() {
+  const [count, setCount] = useState(0);
+
+  return (
+    <div>
+      <p>You clicked {count} times</p>
+      <button onClick={() => setCount(count + 1)}>Click me</button>
+    </div>
+  );
+}
+```
+
+🔄 What happens during rendering:
+
+✅ On the server
+The component is rendered into plain HTML 
+`(e.g. <p>You clicked 0 times</p><button>Click me</button>)`
+ but it's not interactive yet — button clicks don’t work at this point.
+
+✅ On the browser:
+React loads, matches the static HTML, and hydrates the component. Now, the button becomes fully functional and starts updating the count on click.
+
+───────────────────────────────
+📌 Summary
+───────────────────────────────
+
+| Term          | Meaning                                                                       |
+| ------------- | ----------------------------------------------------------------------------- |
+| **SSR/SSG**   | HTML is rendered **on the server** before it’s sent to the browser.           |
+| **Hydration** | React takes over the static HTML **in the browser** and adds interactivity.   |
+| **useEffect** | Runs **after hydration** — perfect for browser-only tasks like data fetching. |
+🔗 Learn more: https://nextjs.org/docs
