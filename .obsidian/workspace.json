@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/React/What is Next JS.md",
+                "file": "6 - Main Notes/Next JS/Understanding Hydration in Next JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Next JS"
+              "title": "Understanding Hydration in Next JS"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/React/What is React.md",
+                "file": "6 - Main Notes/React/React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is React"
+              "title": "React"
             }
           }
         ]
@@ -203,10 +203,12 @@
   },
   "active": "d69469907d8cbb3c",
   "lastOpenFiles": [
-    "6 - Main Notes/React/What is React.md",
+    "6 - Main Notes/Next JS/Next JS.md",
+    "6 - Main Notes/Next JS/Understanding Hydration in Next JS.md",
+    "6 - Main Notes/Next JS/What is Next JS.md",
     "6 - Main Notes/React/React.md",
-    "6 - Main Notes/React/What is Next JS.md",
-    "6 - Main Notes/React/Next JS.md",
+    "6 - Main Notes/React/What is React.md",
+    "6 - Main Notes/React/Arrow Function & this.md",
     "Pasted image 20250625120207.png",
     "2  - Source Materials/Images/react.png",
     "2  - Source Materials/Images/nextjs.png",
@@ -224,7 +226,6 @@
     "6 - Main Notes/React/Strict Mode in React.md",
     "6 - Main Notes/React/React context Optimizing re-renders when passing objects and functions.md",
     "6 - Main Notes/React/Optimistic vs Pessimistic UI update.md",
-    "6 - Main Notes/React/Arrow Function & this.md",
     "3 - Tags/Array.md",
     "6 - Main Notes/React/Custom Hooks.md",
     "3 - Tags/Cumulative Sum.md",
