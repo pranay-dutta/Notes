@@ -2,7 +2,7 @@
 React Router is a standard library for routing in React. It enables navigation among views of various components in a React Application, 
 allows changing the browser URL, and keeps the UI in sync with the URL.
 
-Core Concepts:
+## Core Concepts:
 
 ```ts
 1. <BrowserRouter> –// Wraps the app and enables routing via HTML5 history API.
