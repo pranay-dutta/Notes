@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Javascript/What is LiveScript.md",
+                "file": "6 - Main Notes/Javascript/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is LiveScript"
+              "title": "JavaScript"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "0a026141c972012c",
   "lastOpenFiles": [
+    "6 - Main Notes/Javascript/Summary of JS creation.md",
     "6 - Main Notes/Javascript/JavaScript.md",
     "6 - Main Notes/Javascript/What is LiveScript.md",
     "6 - Main Notes/Javascript/Who and When JS created.md",
@@ -213,7 +214,6 @@
     "3 - Tags/Array.md",
     "6 - Main Notes/React/Custom Hooks.md",
     "3 - Tags/Cumulative Sum.md",
-    "6 - Main Notes/React/What is Cohesion.md",
     "6 - Main Notes/React",
     "2  - Source Materials/Images/react-query.png",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-meme.png",
