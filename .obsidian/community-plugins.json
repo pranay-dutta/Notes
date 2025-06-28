@@ -2,5 +2,6 @@
   "templater-obsidian",
   "vim-yank-highlight",
   "inline-admonitions",
-  "obsidian-git"
+  "obsidian-git",
+  "execute-code"
 ]

@@ -80,5 +80,13 @@
       ],
       "key": "S"
     }
+  ],
+  "execute-code:code-execute-open-manage-executors": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": ","
+    }
   ]
 }
