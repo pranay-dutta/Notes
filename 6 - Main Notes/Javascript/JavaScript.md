@@ -3,7 +3,3 @@
 [[What is LiveScript]]
 [[Summary of JS creation]]
 
-
-
-
-
