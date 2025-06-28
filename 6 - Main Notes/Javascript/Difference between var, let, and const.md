@@ -7,13 +7,20 @@
 | It can be accessed without initialization as its default value is "undefined".                                  | It cannot be accessed without initialization otherwise it will give 'referenceError'.            | It cannot be accessed without initialization, as it cannot be declared without initialization.       |
 | These variables are hoisted.                                                                                    | These variables are hoisted but stay in the **temporal dead zone** untill the initialization.    | These variables are hoisted but stays in the **temporal dead zone** until the initialization.        |
 |                                                                                                                 |                                                                                                  |                                                                                                      |
-
 ## 1. Declaring Variables with var
 
 var is the original keyword for declaring variables in JS. It is a **function scoped** or **globally scoped** depending on where it's declared.
 
 ```run-js
-function e() {
-	console.log("hello world")
+var n = "Rima" //global scope
+const a = () => {
+  n = "Rick" //functions scope
+  console.log(n)
 }
+console.log(n)
+a()
 ```
+
+## 2. Block Scope with let
+
+Introduced in [[ESLint code quality checker ^^h]]

@@ -9,7 +9,7 @@
   "nodePath": "node",
   "nodeArgs": "",
   "jsFileExtension": "js",
-  "jsInject": "console.log(\"Output: \")",
+  "jsInject": "",
   "tsPath": "ts-node",
   "tsArgs": "",
   "tsInject": "",

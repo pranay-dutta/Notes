@@ -81,7 +81,7 @@
       "key": "S"
     }
   ],
-  "execute-code:code-execute-open-manage-executors": [
+  "execute-code:run-all-code-blocks-in-file": [
     {
       "modifiers": [
         "Alt"
