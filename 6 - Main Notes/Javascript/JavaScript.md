@@ -3,3 +3,5 @@
 [[What is JavaScript]]
 [[What is LiveScript]]
 [[Summary of JS creation]]
+
+[[var let and const]]
