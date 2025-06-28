@@ -7,3 +7,12 @@
 | It can be accessed without initialization as its default value is "undefined".                                  | It cannot be accessed without initialization otherwise it will give 'referenceError'.            | It cannot be accessed without initialization, as it cannot be declared without initialization.       |
 | These variables are hoisted.                                                                                    | These variables are hoisted but stay in the **temporal dead zone** untill the initialization.    | These variables are hoisted but stays in the **temporal dead zone** until the initialization.        |
 
+## 1. Declaring Variables with var
+
+var is the original keyword for declaring variables in JS. It is a **function scoped** or **globally scoped** depending on where it's declared.
+
+```js
+function e() {
+
+}
+```
