@@ -6,7 +6,7 @@
       {
         "id": "20435451384eef0d",
         "type": "tabs",
-        "dimension": 54.179566563467496,
+        "dimension": 80.3729146221786,
         "children": [
           {
             "id": "0a026141c972012c",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Javascript/var let and const.md",
+                "file": "6 - Main Notes/Javascript/Difference between var, let, and const.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "var let and const"
+              "title": "Difference between var, let, and const"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "fe86cf3c734d1d60",
         "type": "tabs",
-        "dimension": 45.82043343653251,
+        "dimension": 19.627085377821395,
         "children": [
           {
             "id": "6c9910cb24ed687c",
@@ -205,6 +205,7 @@
   "active": "0a026141c972012c",
   "lastOpenFiles": [
     "6 - Main Notes/Javascript/var let and const.md",
+    "6 - Main Notes/Javascript/Difference between var, let, and const.md",
     "6 - Main Notes/Javascript/JavaScript.md",
     "6 - Main Notes/Javascript/RoadMap.md",
     "6 - Main Notes/Javascript/Summary of JS creation.md",
@@ -236,7 +237,6 @@
     "6 - Main Notes/React/Strict Mode in React.md",
     "6 - Main Notes/React/React context Optimizing re-renders when passing objects and functions.md",
     "6 - Main Notes/React/Optimistic vs Pessimistic UI update.md",
-    "3 - Tags/Array.md",
     "6 - Main Notes/React",
     "2  - Source Materials/Images/react-query.png",
     "2  - Source Materials/Images/prop-drilling-vs-react-context-meme.png",
