@@ -7,3 +7,4 @@
 [[var let and const]]
 [[Hoisting Behavior of var, let, and const]]
 [[Data Types in JS]] - [[Practicing with JS types]]
+[[What is Symbol data type in JS]]
