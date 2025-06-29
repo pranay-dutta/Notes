@@ -1,7 +1,7 @@
 📘 Beginner / Basics
 --------------------
 - [x] 📌 Variables: let, const, var  
-- [ ] 📌 Data Types: string, number, boolean, null, undefined, symbol, bigint  
+- [x] 📌 Data Types: string, number, boolean, null, undefined, symbol, bigint  
 - [ ] 📌 Operators: arithmetic, assignment, comparison, logical  
 - [ ] 📌 Comments  
 - [ ] 📌 Type Coercion and Conversion  

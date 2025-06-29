@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Javascript/JavaScript.md",
+                "file": "6 - Main Notes/Javascript/Data Types in JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "Data Types in JS"
             }
           }
         ]
@@ -211,8 +211,8 @@
   },
   "active": "d83dbef0aeada8d6",
   "lastOpenFiles": [
-    "6 - Main Notes/Javascript/RoadMap.md",
     "6 - Main Notes/Javascript/JavaScript.md",
+    "6 - Main Notes/Javascript/RoadMap.md",
     "6 - Main Notes/Javascript/Practicing with JS types.md",
     "6 - Main Notes/Javascript/JavaScript is dynamically typed.md",
     "6 - Main Notes/React/What is Promise.md",
