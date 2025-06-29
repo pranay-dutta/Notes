@@ -2,11 +2,26 @@
 
 However, the way **hoisting** works **differs** for **var,** **let** and **const**
 
-## Hoisting with var 
-- The variable **x** is **hoisted** but only initialized after the *console.log(x)* call.
+---
+## 📌 hoisting with var 
+
+ The variable **x** is **hoisted** but only initialized after the *console.log(x)* call.
 prints **undefined** because it is declared but not **assigned** a value yet.
 
 ```run-js
-console.log(a)
-var a = 5 //undefined
+console.log(x) //output: undefined
+var x = 5 
 ```
+
+--- 
+## 📌 hoisting with let
+
+The code logs **x** before it is declared with let, causing **Reference Error**. This happens because **let variables** are hoisted but **not initialized**, so they remain in **Temporal Dead Zone(TDZ)** until the **declaration** is executed.
+
+```run-js
+console.log(x)
+let x=10
+```
+
+---
+## 📌 hoisting with const
