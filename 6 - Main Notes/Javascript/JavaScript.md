@@ -5,3 +5,4 @@
 [[Summary of JS creation]]
 
 [[var let and const]]
+[[Hoisting Behavior of var, let, and const]]

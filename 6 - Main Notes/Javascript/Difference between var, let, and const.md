@@ -37,9 +37,12 @@ console.log(age) //Reference Error: age is not defined
 
 **const** is used  to declare variables that should not be reassigned after their **initial assignment.**
 
-```js
+```run-js
 {
 	const a = 22;
-	console.log(a);
+	console.log(a) //reference error
 }
+console.log(a)
 ```
+
+[[Hoisting Behavior of var, let, and const]]
