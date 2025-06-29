@@ -9,7 +9,7 @@
 |                                                                                                                 |                                                                                                  |                                                                                                      |
 ## 1. Declaring Variables with var
 
-var is the original keyword for declaring variables in JS. It is a **function scoped** or **globally scoped** depending on where it's declared.
+**var** is the original keyword for declaring variables in JS. It is a **function scoped** or **globally scoped** depending on where it's declared.
 
 ```run-js
 var n = "I am global scoped" //global scope
@@ -23,7 +23,7 @@ a()
 
 ## 2. Block Scope with let
 
-Introduced in [[ES6]] , let provides **block-level scoping**. This means the variable is only accessible within the **block** (like loops or conditionals) where it is **declared**
+Introduced in [[ES6]] , **let** provides **block-level scoping**. This means the variable is only accessible within the **block** (like loops or conditionals) where it is **declared**
 
 ```run-js
 if(1) {
@@ -31,4 +31,15 @@ if(1) {
 	console.log(age)
 }
 console.log(age) //Reference Error: age is not defined
+```
+
+## 3. Immutability with const
+
+**const** is used  to declare variables that should not be reassigned after their **initial assignment.**
+
+```js
+{
+	const a = 22;
+	console.log(a);
+}
 ```
