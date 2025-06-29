@@ -12,9 +12,9 @@
 var is the original keyword for declaring variables in JS. It is a **function scoped** or **globally scoped** depending on where it's declared.
 
 ```run-js
-var n = "Rima" //global scope
+var n = "I am global scoped" //global scope
 const a = () => {
-  n = "Rick" //functions scope
+  n = "I am function scoped" //functions scope
   console.log(n)
 }
 console.log(n)
@@ -23,4 +23,12 @@ a()
 
 ## 2. Block Scope with let
 
-Introduced in [[ESLint code quality checker ^^h]]
+Introduced in [[ES6]] , let provides **block-level scoping**. This means the variable is only accessible within the **block** (like loops or conditionals) where it is **declared**
+
+```run-js
+if(1) {
+	let age = 30
+	console.log(age)
+}
+console.log(age) //Reference Error: age is not defined
+```
