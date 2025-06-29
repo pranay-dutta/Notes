@@ -40,5 +40,4 @@ const date = new Date("2025-6-29");
 const prom = new Promise();
 ```
 
-[[What is Promise]]
-
+🤔 [[What is Promise]]
