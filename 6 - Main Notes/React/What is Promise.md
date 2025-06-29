@@ -15,4 +15,15 @@ let promise = new Promise((resolve, reject) => {
 	// async code 
 });
 console.log(promise); //state: pending
+
+let p2 = new Promise((_, rej)=> {
+	resolve("p2 resolved")
+})
+p2.then((res)=> console.log(res)).catch((err)=> console.log("Error": err))
+
+let p3 = new Promise((_, rej)=> {
+	resolve(new Error("p3 rejected")) //Always reject the promoise with an e
+})
+p2.then((res)=> console.log(res)).catch((err)=> console.log("Error": err))
+
 ```
