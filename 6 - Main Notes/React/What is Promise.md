@@ -11,19 +11,22 @@ A **Promise** is an object representing the **eventual completion (or failure)**
 3. `rejected` – The operation failed.
 
 ```run-js
-let promise = new Promise((resolve, reject) => {   
-	// async code 
+let promise = new Promise((resolve, reject) => {
+  // async code 
 });
 console.log(promise); //state: pending
+//-----------------------------------------------------------------------------------------
 
-let p2 = new Promise((_, rej)=> {
-	resolve("p2 resolved")
+let p2 = new Promise((resolve, reject) => {
+  resolve("p2 resolved")
 })
-p2.then((res)=> console.log(res)).catch((err)=> console.log("Error": err))
+p2.then((res) => console.log(res)).catch((err) => console.log("Error:", err)) //state: resolved
 
-let p3 = new Promise((_, rej)=> {
-	resolve(new Error("p3 rejected")) //Always reject the promoise with an e
+//-----------------------------------------------------------------------------------------
+
+let p3 = new Promise((resolve, reject) => {
+  resolve(new Error("p3 rejected")) //Always reject the promise with an error to get stack trace
 })
-p2.then((res)=> console.log(res)).catch((err)=> console.log("Error": err))
+p3.then((res) => console.log(res)).catch((err) => console.log("Error:", err)) //state: rejected
 
 ```
