@@ -10,9 +10,9 @@ A **Promise** is an object representing the **eventual completion (or failure)**
 2. `fulfilled` – The operation completed successfully.
 3. `rejected` – The operation failed.
 
-```js
+```run-js
 let promise = new Promise((resolve, reject) => {   
 	// async code 
 });
+console.log(promise); //state: pending
 ```
-

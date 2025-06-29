@@ -33,4 +33,4 @@ let x = 16 + "Volvo" + 4
 console.log(x) //output: 16Volvo4
 ```
 
-[[JavaScript]]
+[[JavaScript is dynamically typed]]
