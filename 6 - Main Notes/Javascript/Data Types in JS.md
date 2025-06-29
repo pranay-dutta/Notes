@@ -41,3 +41,4 @@ const prom = new Promise();
 ```
 
 🤔 [[What is Promise]]
+🤔 [[What is Symbol dtin JS]]
