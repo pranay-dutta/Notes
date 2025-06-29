@@ -25,3 +25,5 @@ let x=10
 
 ---
 ## 📌 hoisting with const
+
+	The variable **x** is declared with const, which is **block-scoped**. when 
