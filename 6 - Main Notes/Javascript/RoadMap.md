@@ -1,6 +1,6 @@
 📘 Beginner / Basics
 --------------------
-- [ ] 📌 Variables: let, const, var  
+- [x] 📌 Variables: let, const, var  
 - [ ] 📌 Data Types: string, number, boolean, null, undefined, symbol, bigint  
 - [ ] 📌 Operators: arithmetic, assignment, comparison, logical  
 - [ ] 📌 Comments  

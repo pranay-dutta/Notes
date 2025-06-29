@@ -26,4 +26,10 @@ let x=10
 ---
 ## 📌 hoisting with const
 
-	The variable **x** is declared with const, which is **block-scoped**. when 
+The variable **x** is declared with const, which is **block-scoped**. when *console.log(x)* is called before declaration. It throws a **Reference Error** due to being in the **Temporal Dead Zone(TDZ)**
+
+```run-js
+console.log(x)
+const x=2
+```
+
