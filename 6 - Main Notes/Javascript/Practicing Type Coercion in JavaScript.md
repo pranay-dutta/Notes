@@ -22,10 +22,21 @@ console.log(typeof res, res);
 When we perform the mathematical operations, then JavaScript automatically converts true to 1 and false to 0
 
 ```run-js
-let res = true + 1;
+let res = true + true - false + 2;
+console.log(typeof res, res);
+```
 
+---
+## 3. Equality Comparison ==
 
+When we use the **equality** operator in the **JavaScript**, it compares them after **converting** the value **into the same data type.**
 
+```run-js
+let res = (5 == "5")
+let res2 = ({} == {}) //different mem location
+
+console.log(typeof res, res);
+console.log(typeof res2, res2);
 ```
 
 → [[Practicing Type Coercion in JavaScript]]
