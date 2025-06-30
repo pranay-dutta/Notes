@@ -39,4 +39,15 @@ console.log(typeof res, res);
 console.log(typeof res2, res2);
 ```
 
+---
+## 4. Automatic Conversation in Logical Operation
+
+```run-js
+let res = Boolean("") 
+let res2 = Boolean("hello") 
+
+console.log(res);
+console.log(res2);
+```
+
 → [[Practicing Type Coercion in JavaScript]]
