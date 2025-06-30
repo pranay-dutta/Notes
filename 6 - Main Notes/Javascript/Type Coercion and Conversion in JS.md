@@ -18,7 +18,9 @@
 
 - Performed automatically by JavaScript
 - Happens mostly in comparison and arithmetic  operations.
-- Can lead to unexpected results if not handled pro
+- Can lead to unexpected results if not handled properly.
 
-- **Implicit Type Conversion (Coercion):** Implicit Type Conversion occurs automatically by the JavaScript.
+[[Practicing Type Coercion in JavaScript]]
 
+---
+→ [[JavaScript]]

@@ -46,3 +46,5 @@ let x = Number(bool)
 console.log("s", s)
 console.log("x", x)
 ```
+
+→ [[Type Coercion and Conversion in JS]]
