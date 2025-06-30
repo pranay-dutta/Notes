@@ -35,4 +35,13 @@ console.log("type:", typeof s3, "value:", s3);
 ```
 
 
-## 3. Boolean to Number
+## 3. Boolean to Number || String
+
+```run-js
+let bool = true;
+let s = String(bool)
+let x = Number(bool)
+
+console.log("s", s)
+console.log("x", x)
+```
