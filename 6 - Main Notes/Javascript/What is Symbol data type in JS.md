@@ -20,3 +20,5 @@ console.log(user[id])
 console.log(user[id2])
 
 ```
+
+→ [[JavaScript]]

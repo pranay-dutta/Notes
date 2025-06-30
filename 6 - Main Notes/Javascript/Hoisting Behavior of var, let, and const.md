@@ -33,3 +33,4 @@ console.log(x)
 const x=2
 ```
 
+→ [[JavaScript]]

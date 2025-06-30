@@ -2,8 +2,8 @@
 --------------------
 - [x] 📌 Variables: let, const, var  
 - [x] 📌 Data Types: string, number, boolean, null, undefined, symbol, bigint  
-- [ ] 📌 Operators: arithmetic, assignment, comparison, logical  
-- [ ] 📌 Comments  
+- [x] 📌 Operators: arithmetic, assignment, comparison, logical  
+- [x] 📌 Comments  
 - [ ] 📌 Type Coercion and Conversion  
 - [ ] 📌 Conditionals: if, else, switch  
 - [ ] 📌 Loops: for, while, do...while, for...of, for...in  

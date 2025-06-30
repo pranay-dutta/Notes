@@ -42,3 +42,5 @@ const prom = new Promise();
 
 🤔 [[What is Promise]]
 🤔 [[What is Symbol data type in JS]]
+
+→ [[JavaScript]]

@@ -45,3 +45,5 @@
 ||    OR      => true || false   // true
 !     NOT     => !true           // false
 ```
+
+→ [[JavaScript]]

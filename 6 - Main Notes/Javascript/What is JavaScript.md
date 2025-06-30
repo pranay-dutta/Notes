@@ -8,3 +8,5 @@ It is one of the core technologies of the World Wide Web, alongside HTML and CSS
 - Form validation
 - Browser-based games
 - Interactive UI elements
+
+→ [[JavaScript]]

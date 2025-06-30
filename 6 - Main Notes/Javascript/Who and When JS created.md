@@ -5,3 +5,5 @@
 🗓️ When Was JavaScript First Launched?
 - Year: December 1995
 - First appeared in: Netscape Navigator 2.0
+
+→ [[JavaScript]]

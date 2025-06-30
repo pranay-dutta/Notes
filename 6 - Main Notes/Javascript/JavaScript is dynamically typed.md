@@ -18,3 +18,5 @@ console.log(typeof(x))
 x = {name: "Rick"}
 console.log(typeof(x))
 ```
+
+→ [[JavaScript]]

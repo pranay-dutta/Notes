@@ -34,3 +34,5 @@ console.log(x) //output: 16Volvo4
 ```
 
 🔴 [[JavaScript is dynamically typed]]
+
+→ [[JavaScript]]
