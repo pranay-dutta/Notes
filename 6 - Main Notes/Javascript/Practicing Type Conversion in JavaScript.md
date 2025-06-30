@@ -1,5 +1,6 @@
 📌 Type conversion means, converting **one data type** to another **data type** manually by the *programmer*.
 
+- **Explicit Type Conversion:** Explicit Type Conversion occurs when the programmer manually changes the type of the variables using the function Number(), String(), and Boolean().
 ---
 ## 1. String to Number
 
