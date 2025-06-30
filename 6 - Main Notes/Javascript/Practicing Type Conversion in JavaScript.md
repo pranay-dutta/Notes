@@ -33,3 +33,6 @@ console.log("type:", typeof s1, "value:", s1);
 console.log("type:", typeof s2, "value:", s2);
 console.log("type:", typeof s3, "value:", s3);
 ```
+
+
+## 3. Boolean to Number
