@@ -6,7 +6,7 @@
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O() Space O()` 
+ `Time O(n^2) Space O(1)` [[Increment of two sum]] 
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
