@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Untitled.md",
+                "file": "6 - Main Notes/Problems/3 Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "3 Sum"
             }
           }
         ]
@@ -191,7 +191,7 @@
   },
   "active": "dfb46f521c5f00a3",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Untitled.md",
+    "6 - Main Notes/Problems/3 Sum.md",
     "6 - Main Notes/Javascript/RoadMap.md",
     "6 - Main Notes/Javascript/Practicing Type Coercion in JavaScript.md",
     "6 - Main Notes/Javascript/Practicing Type Conversion in JavaScript.md",
