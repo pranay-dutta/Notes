@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Reverse Linked List.md",
+                "file": "6 - Main Notes/Problems/Product of Array Except Self.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Linked List"
+              "title": "Product of Array Except Self"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "dfb46f521c5f00a3",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Reverse Linked List.md",
+    "6 - Main Notes/Problems/Product of Array Except Self.md",
     "6 - Main Notes/Problems/Plus One.md",
     "6 - Main Notes/Problems/Palindrome Number.md",
     "6 - Main Notes/Problems/Majority Element.md",
@@ -199,7 +201,6 @@
     "6 - Main Notes/Problems/Best Time to Buy and Sell Stock II.md",
     "6 - Main Notes/Problems/3 Sum.md",
     "6 - Main Notes/Problems/Increment of two sum.md",
-    "6 - Main Notes/Problems/Reverse Linked List.md",
     "6 - Main Notes/Problems/Squares of a Sorted Array.md",
     "6 - Main Notes/Problems/Total Characters in String After Transformations I.md",
     "6 - Main Notes/Problems/Valid Parentheses.md",
@@ -216,7 +217,6 @@
     "6 - Main Notes/Javascript/What is JavaScript.md",
     "6 - Main Notes/Javascript/Who and When JS created.md",
     "6 - Main Notes/Javascript/JavaScript Operators.md",
-    "6 - Main Notes/Javascript/What is Symbol data type in JS.md",
     "2  - Source Materials/Images/promise-in-javascript.png",
     "6 - Main Notes/Javascript",
     "Pasted image 20250625120207.png",
