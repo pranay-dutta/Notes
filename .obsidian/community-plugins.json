@@ -3,5 +3,6 @@
   "vim-yank-highlight",
   "inline-admonitions",
   "obsidian-git",
-  "execute-code"
+  "execute-code",
+  "file-explorer-plus"
 ]

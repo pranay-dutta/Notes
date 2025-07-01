@@ -3,8 +3,3 @@ subproblems and storing their results to avoid redundant work. It uses either me
 or tabulation (bottom-up) to optimize recursive solutions.
 
 
-### Problems : ---
-
-1. [[Best Time to Buy and Sell Stocks]]
-2. [[Best Time to Buy and Sell Stock II]]
-3. [[Fibonacci Number]]
