@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/Linked List.md",
+                "file": "6 - Main Notes/Problems/Valid Parentheses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linked List"
+              "title": "Valid Parentheses"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 432.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -211,12 +211,23 @@
   },
   "active": "6509c29fb2d89093",
   "lastOpenFiles": [
-    "3 - Tags/Linked List.md",
+    "6 - Main Notes/Problems/Remove Duplicates from Sorted Array.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "3 - Tags/Stack.md",
+    "6 - Main Notes/Problems/Valid Parentheses.md",
+    "3 - Tags/Hash Table.md",
+    "6 - Main Notes/Problems/Total Characters in String After Transformations I.md",
+    "6 - Main Notes/Problems/Product of Array Except Self.md",
+    "6 - Main Notes/Problems/Palindrome Number.md",
+    "3 - Tags/Math.md",
+    "6 - Main Notes/Problems/Merge Intervals.md",
+    "6 - Main Notes/Solutions/Sort and merge intervals.md",
+    "6 - Main Notes/Problems/Majority Element.md",
     "6 - Main Notes/Problems/Linked List Cycle.md",
+    "3 - Tags/Linked List.md",
     "6 - Main Notes/Problems/Find Pivot Index.md",
     "6 - Main Notes/Problems/Fibonacci Number.md",
     "3 - Tags/Cumulative Sum.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "3 - Tags/Array.md",
     "3 - Tags/Dynamic Programing.md",
     "6 - Main Notes/Problems/Count Number of Teams.md",
@@ -225,18 +236,7 @@
     "6 - Main Notes/Problems/3 Sum.md",
     "6 - Main Notes/Solutions/Calculate product then divide when current element is not zero.md",
     "6 - Main Notes/Problems/Move Zeros.md",
-    "6 - Main Notes/Problems/Remove Duplicates from Sorted Array.md",
     "6 - Main Notes/Problems/Two Sum.md",
-    "6 - Main Notes/Solutions/Increment of two sum.md",
-    "6 - Main Notes/Problems/Merge Intervals.md",
-    "6 - Main Notes/Problems/Reverse Linked List.md",
-    "6 - Main Notes/Problems/Valid Parentheses.md",
-    "6 - Main Notes/Problems/Total Characters in String After Transformations I.md",
-    "6 - Main Notes/Problems/Squares of a Sorted Array.md",
-    "6 - Main Notes/Problems/Product of Array Except Self.md",
-    "6 - Main Notes/Problems/Plus One.md",
-    "6 - Main Notes/Problems/Palindrome Number.md",
-    "6 - Main Notes/Problems/Majority Element.md",
     "2  - Source Materials/Images/promise-in-javascript.png",
     "6 - Main Notes/Javascript",
     "Pasted image 20250625120207.png",
