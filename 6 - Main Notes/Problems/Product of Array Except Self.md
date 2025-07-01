@@ -6,7 +6,7 @@
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O(n) Space O(1)` [[Caclul]] 
+ `Time O(n) Space O(1)` [[Calculate product then divide when current element is not zero]] 
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
