@@ -16,6 +16,7 @@
 1. [[Find Pivot Index]]
 2. [[Product of Array Except Self]]
 3. [[Running Sum of 1d Array]]
+4. [[Subarray Sum Equals K]]
 
 ---
 ### 🌍 [[Design]]
