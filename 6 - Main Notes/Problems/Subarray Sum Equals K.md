@@ -1,12 +1,13 @@
-**Topic:**  
+**Topic:**  [[Cumulative Sum]]
 **Last Modified**:  `2025-07-03 02:18`
 
-`Problem:`
+`Problem: given nums, and k ;
+`return the total number of subarrays whose sum equals to "k"`
 
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O(n) Space O(n)` [[Store past compliment of sums ]]
+ `Time O(n) Space O(n)` [[Store  past compliment sums frequencies]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
