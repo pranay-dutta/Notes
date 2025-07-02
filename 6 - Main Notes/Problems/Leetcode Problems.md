@@ -16,6 +16,11 @@
 1. [[Find Pivot Index]]
 2. [[Product of Array Except Self]]
 3. [[Running Sum of 1d Array]]
+
+---
+### 🌍 [[Design]]
+[[Insert Delete GetRandom O(1)]]
+
 ---
 ### 🌍 [[Dynamic programing]]
 

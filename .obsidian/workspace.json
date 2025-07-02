@@ -6,6 +6,7 @@
       {
         "id": "8dad1b3b0098a554",
         "type": "tabs",
+        "dimension": 35.59556786703601,
         "children": [
           {
             "id": "dfb46f521c5f00a3",
@@ -26,6 +27,7 @@
       {
         "id": "85b75d821f2426ec",
         "type": "tabs",
+        "dimension": 64.40443213296399,
         "children": [
           {
             "id": "6509c29fb2d89093",
@@ -33,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
+                "file": "6 - Main Notes/Problems/Random Set solved using array and hashMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Problems"
+              "title": "Random Set solved using array and hashMap"
             }
           }
         ]
@@ -211,8 +213,10 @@
   },
   "active": "6509c29fb2d89093",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Remove Duplicates from Sorted Array.md",
+    "6 - Main Notes/Problems/Insert Delete GetRandom O(1).md",
+    "6 - Main Notes/Problems/Random Set solved using array and hashMap.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Problems/Remove Duplicates from Sorted Array.md",
     "3 - Tags/Stack.md",
     "6 - Main Notes/Problems/Valid Parentheses.md",
     "3 - Tags/Hash Table.md",
@@ -235,8 +239,6 @@
     "6 - Main Notes/Problems/Best Time to Buy and Sell Stock II.md",
     "6 - Main Notes/Problems/3 Sum.md",
     "6 - Main Notes/Solutions/Calculate product then divide when current element is not zero.md",
-    "6 - Main Notes/Problems/Move Zeros.md",
-    "6 - Main Notes/Problems/Two Sum.md",
     "2  - Source Materials/Images/promise-in-javascript.png",
     "6 - Main Notes/Javascript",
     "Pasted image 20250625120207.png",
