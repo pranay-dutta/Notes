@@ -19,7 +19,8 @@
 
 ---
 ### 🌍 [[Design]]
-[[Insert Delete GetRandom O(1)]]
+
+1.  [[Insert Delete GetRandom O(1)]]
 
 ---
 ### 🌍 [[Dynamic programing]]

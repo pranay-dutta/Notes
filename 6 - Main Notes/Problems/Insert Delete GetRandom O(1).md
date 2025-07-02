@@ -1,4 +1,4 @@
-**Topic:**  
+**Topic:**  [[Design]]
 **Last Modified**:  `2025-07-03 01:40`
 
 `Problem: create a data structure 

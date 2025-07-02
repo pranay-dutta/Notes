@@ -15,20 +15,18 @@ private:
     vector<int> v;
     unordered_map<int, int> mp; //mp<number, index> mp
 
-    bool found(int val) {
-        return mp.find(val) != mp.end();
-    }
+    bool found(int val) return mp.find(val) != mp.end();
     
 public:
-    RandomizedSet() {}
+    RandomizedSet() {} 
 
-    bool insert(int val) {
-        if(found(val)) return false;
+    bool insert(int val) { 
+        if found(val) return false;
 
-        v.push_back(val);
+        v.push_back(val)
         mp[val] = v.size()-1; //index
         return true;
-    }
+	}
 
     bool remove(int val) {
         if(!found(val)) return false; //can't remove unknown value
