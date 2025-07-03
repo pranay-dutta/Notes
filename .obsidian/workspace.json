@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Javascript/JS loops for, do while, for of, for in.md",
+                "file": "6 - Main Notes/Javascript/Functions declaration, expression, arrow functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS loops for, do while, for of, for in"
+              "title": "Functions declaration, expression, arrow functions"
             }
           }
         ]
@@ -212,6 +212,9 @@
   "active": "fcb1943dd3ea882a",
   "lastOpenFiles": [
     "6 - Main Notes/Javascript/JavaScript.md",
+    "6 - Main Notes/Javascript/Functions declaration, expression, arrow functions.md",
+    "6 - Main Notes/Javascript/RoadMap.md",
+    "6 - Main Notes/Javascript/JS loops for, do while, for of, for in.md",
     "6 - Main Notes/Javascript/JS conditionals, if, else, switch.md",
     "6 - Main Notes/Javascript/Type Coercion and Conversion in JS.md",
     "6 - Main Notes/Javascript/JavaScript Operators.md",
@@ -220,8 +223,6 @@
     "6 - Main Notes/Javascript/Data Types in JS.md",
     "6 - Main Notes/Javascript/Hoisting Behavior of var, let, and const.md",
     "6 - Main Notes/Javascript/var let and const.md",
-    "6 - Main Notes/Javascript/JS loops for, do while, for of, for in.md",
-    "6 - Main Notes/Javascript/RoadMap.md",
     "6 - Main Notes/Javascript/Practicing Type Coercion in JavaScript.md",
     "6 - Main Notes/React/React.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
@@ -236,7 +237,6 @@
     "6 - Main Notes/Problems/Next Permutation.md",
     "6 - Main Notes/Solutions/Next greater element better explained solution.md",
     "6 - Main Notes/Solutions/Get pivot then next greater index then swap then reverse.md",
-    "6 - Main Notes/Problems/Find Pivot Index.md",
     "2  - Source Materials/Images/promise-in-javascript.png",
     "6 - Main Notes/Javascript",
     "Pasted image 20250625120207.png",

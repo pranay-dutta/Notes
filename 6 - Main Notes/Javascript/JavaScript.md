@@ -15,3 +15,4 @@
 - [[Type Coercion and Conversion in JS]]
 - [[JS conditionals, if, else, switch]]
 - [[JS loops for, do while, for of, for in]]
+- [[Functions declaration, expression, arrow functions]]
