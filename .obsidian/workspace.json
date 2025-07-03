@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "361b9a98d78725ed",
+        "id": "d444b758a5172336",
         "type": "tabs",
         "children": [
           {
-            "id": "4d917485beb4788e",
+            "id": "ae312d620248e6bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Problems/Next Permutation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Next Permutation"
             }
           }
         ]
@@ -185,13 +189,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d917485beb4788e",
+  "active": "ae312d620248e6bd",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Built-in next_permutation function.md",
+    "6 - Main Notes/Problems/Next Permutation.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "4 - Index/Two Pointers.md",
+    "3 - Tags/Dynamic Programing.md",
+    "3 - Tags/Two Pointers.md",
+    "4 - Index/Reverse.md",
+    "6 - Main Notes/Problems/Fibonacci Number.md",
     "6 - Main Notes/Problems/Valid Parentheses.md",
     "6 - Main Notes/Problems/Subarray Sum Equals K.md",
     "6 - Main Notes/Problems/Store  past compliment sums frequencies.md",
     "6 - Main Notes/Problems/Two Sum.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Insert Delete GetRandom O(1).md",
     "3 - Tags/Design.md",
     "6 - Main Notes/Problems/Random Set solved using array and hashMap.md",
@@ -206,13 +217,6 @@
     "6 - Main Notes/Solutions/Sort and merge intervals.md",
     "6 - Main Notes/Problems/Majority Element.md",
     "6 - Main Notes/Problems/Linked List Cycle.md",
-    "3 - Tags/Linked List.md",
-    "6 - Main Notes/Problems/Find Pivot Index.md",
-    "6 - Main Notes/Problems/Fibonacci Number.md",
-    "3 - Tags/Cumulative Sum.md",
-    "3 - Tags/Array.md",
-    "3 - Tags/Dynamic Programing.md",
-    "6 - Main Notes/Problems/Count Number of Teams.md",
     "2  - Source Materials/Images/promise-in-javascript.png",
     "6 - Main Notes/Javascript",
     "Pasted image 20250625120207.png",

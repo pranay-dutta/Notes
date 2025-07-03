@@ -1,4 +1,4 @@
-**Topic:** [[Two Pointers]]
+**Topic:** [[4 - Index/Two Pointers]]
 **Problem:**  [[Squares of a Sorted Array]]
 **Last Modified:**  `2025-05-13 20:04`
 

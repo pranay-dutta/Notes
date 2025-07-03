@@ -47,3 +47,8 @@
 ### 🌍 [[Stack]]
 
 1. [[Valid Parentheses]]
+
+---
+### 🌍 [[Two Pointers]]
+
+1.  [[Next Permutation]]

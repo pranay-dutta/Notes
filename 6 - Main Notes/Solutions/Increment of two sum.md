@@ -1,4 +1,4 @@
-**Topic:** [[Array]] [[Two Pointers]]
+**Topic:** [[Array]] [[4 - Index/Two Pointers]]
 **Problem:**  [[3 Sum]]
 **Last Modified:**  `2025-07-01 13:48`
 

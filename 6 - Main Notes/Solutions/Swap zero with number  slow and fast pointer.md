@@ -1,4 +1,4 @@
-**Topic:** [[Two Pointers]]
+**Topic:** [[4 - Index/Two Pointers]]
 **Problem:**  [[Move Zeros]]
 **Last Modified:**  `2025-05-12 15:15`
 

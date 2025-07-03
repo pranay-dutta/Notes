@@ -1,4 +1,4 @@
-**Topic:**  [[Two Pointers]]
+**Topic:**  [[4 - Index/Two Pointers]]
 **Problem:**  [[Linked List Cycle]]
 **Last Modified**: `2025-05-11 20:39`
 

@@ -1,4 +1,4 @@
-**Topic:**  [[Two Pointers]]
+**Topic:**  [[4 - Index/Two Pointers]]
 **Problem:**  [[Remove Duplicates from Sorted Array]]
 **Last Modified**: `2025-05-11 20:39`
 
