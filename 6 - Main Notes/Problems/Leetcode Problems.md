@@ -9,7 +9,8 @@
 8. [[Move Zeros]]
 9. [[Remove Duplicates from Sorted Array]]
 10. [[Running Sum of 1d Array]]
-11. [[Squares of a Sorted Array]]
+11. [[Spiral Matrix]]
+12. [[Squares of a Sorted Array]]
 --- 
 ### 🌍 [[Cumulative Sum]]
 
