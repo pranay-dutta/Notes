@@ -7,10 +7,10 @@
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O() Space O()` 
+ `Time O(n) Space O(1)` 
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
- `Time O() Space O()` [[Next greater element ]] 
+ `Time O(n) Space O(1)` [[Next greater element better explained solution]] 
 ----------------------------------------------------------------------------------------------
 ###### 🔴 Worst
  `Time O(n) Space O(1)` [[Built-in next_permutation function]]

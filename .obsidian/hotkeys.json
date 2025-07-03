@@ -88,5 +88,13 @@
       ],
       "key": ","
     }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
   ]
 }
