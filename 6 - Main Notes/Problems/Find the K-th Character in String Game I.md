@@ -12,9 +12,9 @@
 
 ###### 🟢 Best
  `Time O(k) Space O(k)` 
- -  [[String Game I solved using Recursion]] 
- -  [[String Game I iterative solution]]
-
+  ●  [[String Game I solved using Recursion]] 
+  ●  [[String Game I iterative solution]]
+----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
 ----------------------------------------------------------------------------------------------
