@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Next Permutation.md",
+                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next Permutation"
+              "title": "Leetcode Problems"
             }
           }
         ]
@@ -191,9 +191,10 @@
   },
   "active": "53c9ba28ab8857e9",
   "lastOpenFiles": [
-    "6 - Main Notes/Solutions/Get pivot then next greater index then swap then reverse.md",
     "6 - Main Notes/Problems/Next Permutation.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Solutions/Next greater element better explained solution.md",
+    "6 - Main Notes/Solutions/Get pivot then next greater index then swap then reverse.md",
     "6 - Main Notes/Problems/Find Pivot Index.md",
     "6 - Main Notes/Problems/Remove Duplicates from Sorted Array.md",
     "6 - Main Notes/Problems/Move Zeros.md",
@@ -205,7 +206,6 @@
     "6 - Main Notes/Problems/Count Number of Teams.md",
     "6 - Main Notes/Problems/Best Time to Buy and Sell Stocks.md",
     "6 - Main Notes/Problems/Best Time to Buy and Sell Stock II.md",
-    "6 - Main Notes/Solutions/Next greater element better explained solution.md",
     "6 - Main Notes/Solutions/Built-in next_permutation function.md",
     "4 - Index/Two Pointers.md",
     "3 - Tags/Dynamic Programing.md",

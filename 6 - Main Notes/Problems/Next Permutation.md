@@ -2,7 +2,7 @@
 **Last Modified**:  `2025-07-03 11:51`
 
 `Problem: return the next permutation of a given array`
-`!important ` *for **n** numbers there will be **n! unique** permutations*
+`!important ` *for **n unique** numbers there will be **n! unique** permutations*
 
 ### Solutions -- 
 
