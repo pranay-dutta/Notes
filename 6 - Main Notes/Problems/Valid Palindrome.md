@@ -6,12 +6,10 @@
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O(n) Space O(1)` 
-  ●  [[Iterative solution of Valid Palindrome]]
-  ●  [[Recursive solution of Valid Palindrome]]
+ `Time O(n) Space O(1)` [[Iterative solution of Valid Palindrome]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
- `Time O() Space O()` 
+ `Time O(n) Space O(n)` [[Recursive solution of Valid Palindrome]]
 ----------------------------------------------------------------------------------------------
 ###### 🔴 Worst
  `Time O() Space O()` 
