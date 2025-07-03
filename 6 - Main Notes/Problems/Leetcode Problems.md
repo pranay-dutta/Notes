@@ -48,6 +48,7 @@
 ## 🌍 [[Recursion]]
 
 1.  [[Find the K-th Character in String Game I]]
+2. [[Pow(x, n)]]
 ---
 
 ### 🌍 [[Stack]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Recursive solution of Valid Palindrome.md",
+                "file": "4 - Index/Binary Exponentiation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursive solution of Valid Palindrome"
+              "title": "Binary Exponentiation"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -211,10 +212,12 @@
   },
   "active": "fcb1943dd3ea882a",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Pow(x, n).md",
+    "4 - Index/Binary Exponentiation.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Valid Palindrome.md",
     "6 - Main Notes/Problems/Recursive solution of Valid Palindrome.md",
     "6 - Main Notes/Solutions/Iterative solution of Valid Palindrome.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Find the K-th Character in String Game I.md",
     "6 - Main Notes/Javascript/JavaScript.md",
     "6 - Main Notes/Javascript/Template Literals in JavaScript.md",
@@ -235,8 +238,6 @@
     "6 - Main Notes/Solutions/String Game I solved using Recursion.md",
     "6 - Main Notes/Problems/String Game I iterative solution.md",
     "6 - Main Notes/Problems/Spiral Matrix.md",
-    "6 - Main Notes/Problems/[Find the K-th Character in String Game I.md",
-    "3 - Tags/Recursion.md",
     "2  - Source Materials/Images/promise-in-javascript.png",
     "6 - Main Notes/Javascript",
     "Pasted image 20250625120207.png",
