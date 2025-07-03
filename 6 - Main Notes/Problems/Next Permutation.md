@@ -7,7 +7,7 @@
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O(n) Space O(1)` 
+ `Time O(n) Space O(1)` [[Get pivot then next greater index then swap then reverse]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O(n) Space O(1)` [[Next greater element better explained solution]] 
