@@ -64,6 +64,7 @@ const square = x => x * x;
 | `arguments` object | ❌ Not available               | ✅ Available                                 |
 | Syntax             | Concise                       | Verbose                                     |
 |                    |                               |                                             |
+[[Arguments Object in JavaScript]]
 
 ---
 ## 🔚 Summary
@@ -73,3 +74,5 @@ const square = x => x * x;
 | Function Declaration | ✅       | Dynamic        | `function x()`         |
 | Function Expression  | ❌       | Dynamic        | `const x = function()` |
 | Arrow Function       | ❌       | Lexical        | `const x = () =>`      |
+
+→ [[JavaScript]]
