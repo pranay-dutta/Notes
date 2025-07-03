@@ -13,3 +13,5 @@
 - [[What is Symbol data type in JS]]
 - [[JavaScript Operators]]
 - [[Type Coercion and Conversion in JS]]
+- [[JS conditionals, if, else, switch]]
+- [[JS loops for, do while, for of, for in]]

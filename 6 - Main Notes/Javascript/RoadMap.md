@@ -4,8 +4,8 @@
 - [x] 📌 Data Types: string, number, boolean, null, undefined, symbol, bigint  
 - [x] 📌 Operators: arithmetic, assignment, comparison, logical  
 - [x] 📌 Comments  
-- [ ] 📌 Type Coercion and Conversion  
-- [ ] 📌 Conditionals: if, else, switch  
+- [x] 📌 Type Coercion and Conversion  
+- [x] 📌 Conditionals: if, else, switch  
 - [ ] 📌 Loops: for, while, do...while, for...of, for...in  
 - [ ] 📌 Functions: declaration, expression, arrow functions  
 - [ ] 📌 Template literals  

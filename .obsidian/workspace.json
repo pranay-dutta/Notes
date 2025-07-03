@@ -4,35 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "88887b4afd7513e8",
+        "id": "4e20724ec3a09ac1",
         "type": "tabs",
         "children": [
           {
-            "id": "53c9ba28ab8857e9",
+            "id": "fcb1943dd3ea882a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
+                "file": "6 - Main Notes/Javascript/JS loops for, do while, for of, for in.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Problems"
+              "title": "JS loops for, do while, for of, for in"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "11b6a73a1e56c9ee",
+        "type": "tabs",
+        "children": [
           {
-            "id": "b164c3cb331424ee",
+            "id": "d2a755cfee784f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Spiral Matrix.md",
+                "file": "6 - Main Notes/Javascript/RoadMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spiral Matrix"
+              "title": "RoadMap"
             }
           }
         ]
@@ -203,13 +209,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53c9ba28ab8857e9",
+  "active": "fcb1943dd3ea882a",
   "lastOpenFiles": [
+    "6 - Main Notes/Javascript/JavaScript.md",
+    "6 - Main Notes/Javascript/JS loops for, do while, for of, for in.md",
+    "6 - Main Notes/Javascript/RoadMap.md",
+    "6 - Main Notes/Javascript/JS conditionals, if, else, switch.md",
+    "6 - Main Notes/Javascript/Type Coercion and Conversion in JS.md",
+    "6 - Main Notes/Javascript/Practicing Type Coercion in JavaScript.md",
+    "6 - Main Notes/React/React.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Find the K-th Character in String Game I.md",
     "6 - Main Notes/Solutions/String Game I solved using Recursion.md",
     "6 - Main Notes/Problems/String Game I iterative solution.md",
     "6 - Main Notes/Problems/Spiral Matrix.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/[Find the K-th Character in String Game I.md",
     "3 - Tags/Recursion.md",
     "6 - Main Notes/Solutions/Iterative solution of Spiral Matrix.md",
@@ -224,13 +237,6 @@
     "6 - Main Notes/Problems/Majority Element.md",
     "6 - Main Notes/Problems/Linked List Cycle.md",
     "6 - Main Notes/Problems/Insert Delete GetRandom O(1).md",
-    "6 - Main Notes/Problems/Fibonacci Number.md",
-    "6 - Main Notes/Problems/Count Number of Teams.md",
-    "6 - Main Notes/Problems/Best Time to Buy and Sell Stocks.md",
-    "6 - Main Notes/Problems/Best Time to Buy and Sell Stock II.md",
-    "6 - Main Notes/Solutions/Built-in next_permutation function.md",
-    "4 - Index/Two Pointers.md",
-    "3 - Tags/Dynamic Programing.md",
     "2  - Source Materials/Images/promise-in-javascript.png",
     "6 - Main Notes/Javascript",
     "Pasted image 20250625120207.png",
