@@ -32,3 +32,5 @@ switch(subject) {
 	}
 }
 ```
+
+→ [[JavaScript]]

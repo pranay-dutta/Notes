@@ -6,7 +6,7 @@
 - [x] 📌 Comments  
 - [x] 📌 Type Coercion and Conversion  
 - [x] 📌 Conditionals: if, else, switch  
-- [ ] 📌 Loops: for, while, do...while, for...of, for...in  
+- [x] 📌 Loops: for, while, do...while, for...of, for...in  
 - [ ] 📌 Functions: declaration, expression, arrow functions  
 - [ ] 📌 Template literals  
 - [ ] 📌 String methods  
