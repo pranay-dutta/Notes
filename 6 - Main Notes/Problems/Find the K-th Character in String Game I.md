@@ -1,12 +1,17 @@
-**Topic:**  [[Array]] [[Matrix]] #editpending #addrecursion  
-**Last Modified**:  `2025-07-03 14:46`
+**Topic:**  [[Recursion]]
+**Last Modified**:  `2025-07-03 15:06`
 
-`Problem:`Given an `m x n` `matrix`, return _all elements of the_ `matrix` _in spiral order_.
+`Problem: return the k'th letter`
+
+**Example:**
+`k = 4`
+`word='a' -> 'ab' -> 'abbc' -> 'abbcbccd'`
+`return 'b'`
 
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O(m*n) Space O(1 : excluding result vector)` [[Iterative solution of Spiral Matrix]] 
+ `Time O() Space O()` [[String Game I solved using Recursion]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
