@@ -48,7 +48,6 @@
 ## 🌍 [[Recursion]]
 
 1.  [[Find the K-th Character in String Game I]]
-2. [[Valid Palindrome]]
 ---
 
 ### 🌍 [[Stack]]
@@ -59,3 +58,4 @@
 ### 🌍 [[Two Pointers]]
 
 1.  [[Next Permutation]]
+2. [[Valid Palindrome]]
