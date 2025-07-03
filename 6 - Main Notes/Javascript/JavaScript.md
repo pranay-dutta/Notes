@@ -16,3 +16,4 @@
 - [[JS conditionals, if, else, switch]]
 - [[JS loops for, do while, for of, for in]]
 - [[Functions declaration, expression, arrow functions]]
+- [[Arguments Object in JavaScript]]

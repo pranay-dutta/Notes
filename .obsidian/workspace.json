@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Javascript/Arguments Object in JavaScript.md",
+                "file": "6 - Main Notes/Javascript/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arguments Object in JavaScript"
+              "title": "JavaScript"
             }
           }
         ]
@@ -213,8 +213,8 @@
   "lastOpenFiles": [
     "6 - Main Notes/Javascript/Functions declaration, expression, arrow functions.md",
     "6 - Main Notes/Javascript/Arguments Object in JavaScript.md",
-    "6 - Main Notes/Javascript/JavaScript.md",
     "6 - Main Notes/Javascript/RoadMap.md",
+    "6 - Main Notes/Javascript/JavaScript.md",
     "6 - Main Notes/Javascript/JS loops for, do while, for of, for in.md",
     "6 - Main Notes/Javascript/JS conditionals, if, else, switch.md",
     "6 - Main Notes/Javascript/Type Coercion and Conversion in JS.md",

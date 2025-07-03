@@ -7,7 +7,7 @@
 - [x] 📌 Type Coercion and Conversion  
 - [x] 📌 Conditionals: if, else, switch  
 - [x] 📌 Loops: for, while, do...while, for...of, for...in  
-- [ ] 📌 Functions: declaration, expression, arrow functions  
+- [x] 📌 Functions: declaration, expression, arrow functions  
 - [ ] 📌 Template literals  
 - [ ] 📌 String methods  
 - [ ] 📌 Number methods  
