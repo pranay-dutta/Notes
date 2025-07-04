@@ -1,5 +1,11 @@
- What is **binary exponentiation**
- 
+📌What is **binary exponentiation**
+
+>Binary Exponentiation is an efficient method to compute $x^n$ by using the binary representation of the exponent $n$ 
+>Instead of performing $n$ multiplications (which takes $O(n)$ time), it reduces the problem by repeatedly squaring $x$
+>and halving $n$, resulting in a time complexity of $O(log n).$
+
+This process continues until $n = 0$, and is efficient due to reducing the exponent by half at each step.
+
 ---
 **Positive power**
 
