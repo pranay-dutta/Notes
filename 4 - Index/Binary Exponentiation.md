@@ -14,3 +14,4 @@ $pow(x, n)$ = $pow(x*x, n/2)$
 
 $x^-8$ = $1/x^8$ = $(1/x)^8$
 
+<img src="negative power rule.png" width=200 style="border-radius: 10px" />
