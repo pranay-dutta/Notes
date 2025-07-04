@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Javascript/RoadMap.md",
+                "file": "6 - Main Notes/Problems/Container With Most Water.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RoadMap"
+              "title": "Container With Most Water"
             }
           }
         ]
@@ -191,19 +191,21 @@
   },
   "active": "d2a755cfee784f31",
   "lastOpenFiles": [
+    "2  - Source Materials/Images/container-with-most-water.png",
+    "6 - Main Notes/Problems/Container With Most Water.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Pow(x, n).md",
-    "6 - Main Notes/Problems/Pow function solved using Binary Exponentiation.md",
+    "6 - Main Notes/Solutions/Pow function solved using Binary Exponentiation.md",
+    "6 - Main Notes/Javascript/RoadMap.md",
     "4 - Index/Binary Exponentiation.md",
     "2  - Source Materials/Images/nextjs 1.png",
     "2  - Source Materials/Images/negative power rule.png",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Valid Palindrome.md",
     "6 - Main Notes/Problems/Recursive solution of Valid Palindrome.md",
     "6 - Main Notes/Solutions/Iterative solution of Valid Palindrome.md",
     "6 - Main Notes/Problems/Find the K-th Character in String Game I.md",
     "6 - Main Notes/Javascript/JavaScript.md",
     "6 - Main Notes/Javascript/Template Literals in JavaScript.md",
-    "6 - Main Notes/Javascript/RoadMap.md",
     "6 - Main Notes/Javascript/Functions declaration, expression, arrow functions.md",
     "6 - Main Notes/Javascript/Arguments Object in JavaScript.md",
     "6 - Main Notes/Javascript/JS loops for, do while, for of, for in.md",
@@ -217,8 +219,6 @@
     "6 - Main Notes/Javascript/var let and const.md",
     "6 - Main Notes/Javascript/Practicing Type Coercion in JavaScript.md",
     "6 - Main Notes/React/React.md",
-    "6 - Main Notes/Solutions/String Game I solved using Recursion.md",
-    "6 - Main Notes/Problems/String Game I iterative solution.md",
     "2  - Source Materials/Images/promise-in-javascript.png",
     "6 - Main Notes/Javascript",
     "2  - Source Materials/Images/react.png",
@@ -232,7 +232,6 @@
     "2  - Source Materials/Images/prop-drilling-vs-react-context-api.png",
     "2  - Source Materials/Images/javascript-promise.png",
     "hookForm",
-    "2  - Source Materials/Images/area-images.png",
     "6 - Main Notes/Math",
     "Notes",
     "6 - Main Notes/Unit Testing",
