@@ -8,12 +8,12 @@
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O(n) Space O(1)` 
+ `Time O(n) Space O(1)` [[Two pointer approach Container With Most Water]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
 ----------------------------------------------------------------------------------------------
 ###### 🔴 Worst
- `Time O(n^2) Space O()`  [[Brute force Container With Most Water]]
+ `Time O(n^2) Space O(1)` `!TLE`  [[Brute force Container With Most Water]] 
 ----------------------------------------------------------------------------------------------
 

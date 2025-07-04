@@ -8,10 +8,11 @@
 6. [[Merge Intervals]]
 7. [[Move Zeros]]
 8. [[Remove Duplicates from Sorted Array]]
-9. [[Running Sum of 1d Array]]
-10. [[Spiral Matrix]]
-11. [[Squares of a Sorted Array]]
-12. [[Two Sum]]
+9. [[Rotate Image]]
+10. [[Running Sum of 1d Array]]
+11. [[Spiral Matrix]]
+12. [[Squares of a Sorted Array]]
+13. [[Two Sum]]
 --- 
 ### 🌍 [[Cumulative Sum]]
 
