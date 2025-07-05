@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/System Design.md",
+                "file": "6 - Main Notes/System-Design/Types of Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Design"
+              "title": "Types of Database"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -191,8 +192,9 @@
   },
   "active": "5894ad533ffb281a",
   "lastOpenFiles": [
-    "6 - Main Notes/System-Design/Types of Scaling.md",
     "6 - Main Notes/System-Design/System Design.md",
+    "6 - Main Notes/System-Design/Types of Database.md",
+    "6 - Main Notes/System-Design/Types of Scaling.md",
     "6 - Main Notes/System-Design/Scaling of server.md",
     "separating-database-from-webserver.png",
     "6 - Main Notes/System-Design/Traffic of server.md",
@@ -222,7 +224,6 @@
     "2  - Source Materials/Images/rotate-the-matrix.png",
     "6 - Main Notes/Problems/Spiral Matrix.md",
     "Pasted image 20250705020452.png",
-    "2025-06-29.md",
     "6 - Main Notes/System-Design",
     "2  - Source Materials/Images/container-with-most-water.png",
     "2  - Source Materials/Images/nextjs 1.png",
