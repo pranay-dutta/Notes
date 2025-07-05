@@ -11,3 +11,5 @@
  >🌏Section 2
  
 -  [[Scaling of server]]
+- [[Types of Database]]
+- [[Types of Scaling]]

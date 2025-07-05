@@ -11,12 +11,14 @@
             "id": "5894ad533ffb281a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "separating-database-from-webserver.png"
+                "file": "6 - Main Notes/System-Design/System Design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "separating-database-from-webserver"
+              "icon": "lucide-file",
+              "title": "System Design"
             }
           }
         ]
@@ -189,9 +191,10 @@
   },
   "active": "5894ad533ffb281a",
   "lastOpenFiles": [
+    "6 - Main Notes/System-Design/Types of Scaling.md",
+    "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Scaling of server.md",
     "separating-database-from-webserver.png",
-    "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Traffic of server.md",
     "6 - Main Notes/System-Design/Domain name.md",
     "6 - Main Notes/System-Design/Single user setup.md",
