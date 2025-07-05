@@ -38,6 +38,20 @@
         "type": "FILES",
         "pattern": "6 - Main Notes/React/React.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "6 - Main Notes/System-Design/System Design.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "6 - Main Notes/Computer Networks/Computer Networks.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
