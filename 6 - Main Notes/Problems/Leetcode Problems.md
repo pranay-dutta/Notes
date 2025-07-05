@@ -60,5 +60,5 @@
 ---
 ### 🌍 [[Two Pointers]]
 
-1.  [[Next Permutation]]
+1. [[Next Permutation]]
 2. [[Valid Palindrome]]

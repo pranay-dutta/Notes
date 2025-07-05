@@ -1,4 +1,4 @@
-**Topic**: [[React]]
+**Topic**: [[React]] [[JavaScript]]
 
 ## 1. Zod
 - Zod has seen a sharp rise in **popularity**, especially for TypeScript projects, due to its intuitive syntax and comprehensive type validation.
