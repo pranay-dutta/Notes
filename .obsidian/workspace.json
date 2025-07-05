@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/What is System Design.md",
+                "file": "6 - Main Notes/System-Design/System Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is System Design"
+              "title": "System Design"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -192,8 +191,9 @@
   },
   "active": "15caf587042b4b21",
   "lastOpenFiles": [
-    "6 - Main Notes/System-Design/What is System Design.md",
+    "6 - Main Notes/SSC CHSL - Combined Higher Secondary Level.md",
     "6 - Main Notes/System-Design/System Design.md",
+    "6 - Main Notes/System-Design/What is System Design.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Data Validation Libraries.md",
     "6 - Main Notes/Problems/Best Time to Buy and Sell Stock II.md",
@@ -223,7 +223,6 @@
     "6 - Main Notes/Solutions/Iterative solution of Valid Palindrome.md",
     "6 - Main Notes/Problems/Find the K-th Character in String Game I.md",
     "6 - Main Notes/Javascript/JavaScript.md",
-    "6 - Main Notes/Javascript/Template Literals in JavaScript.md",
     "2  - Source Materials/Images/promise-in-javascript.png",
     "6 - Main Notes/Javascript",
     "2  - Source Materials/Images/react.png",
