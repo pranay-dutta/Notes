@@ -12,7 +12,7 @@ word = "ABCCED"
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O(n * m * 4 * word.length) Space O(L: stack space)` [[Search and find char, if not found backtrack]]
+ `Time O(n * m * 4^word.len) Space O(L: stack space)` [[Search and find char, if not found backtrack]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
