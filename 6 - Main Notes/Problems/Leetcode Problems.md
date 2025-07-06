@@ -24,8 +24,8 @@
 ---
 ### 🌍 [[Design]]
 
-1.  [[Insert Delete GetRandom O(1)]]
-2. [[Finding Pairs With a Certain Sum]]
+1. [[Finding Pairs With a Certain Sum]]
+2. [[Insert Delete GetRandom O(1)]]
 
 ---
 ### 🌍 [[Dynamic programing]]
@@ -50,7 +50,7 @@
 ---
 ## 🌍 [[Recursion]]
 
-1.  [[Find the K-th Character in String Game I]]
+1. [[Find the K-th Character in String Game I]]
 2. [[Pow(x, n)]]
 ---
 
@@ -61,5 +61,8 @@
 ---
 ### 🌍 [[Two Pointers]]
 
-1. [[Next Permutation]]
-2. [[Valid Palindrome]]
+1. [[3Sum Closest]]
+2. [[Next Permutation]]
+3. [[Valid Palindrome]]
+
+---

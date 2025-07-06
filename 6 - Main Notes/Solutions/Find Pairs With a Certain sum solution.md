@@ -6,7 +6,8 @@
  $SC: O(n + m + k)$
 
 ---
-##### **Intuition**: store v2 array, create unordered map v1, mp; Do complement ser
+##### **Intuition**: store v2 array, create unordered map v1, mp; Do complement search just like two sum.
+`pairs += f[n[i]] * f2[tot-n[i]]//complement `
 
  
 ```cpp
