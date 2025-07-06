@@ -3,6 +3,12 @@
 
 `Problem:`
 
+<img src="word-matrix.jpg" width=300 style="border-radius: 10px" />
+**Input:** board = {{"A","B","C","E"},
+			   {"S","F","C","S"},
+			   {"A","D","E","E"}}, 
+word = "ABCCED"
+**Output:** true
 ### Solutions -- 
 
 ###### 🟢 Best
