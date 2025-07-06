@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/3Sum Closest.md",
+                "file": "6 - Main Notes/Solutions/Fix one and run two pointer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3Sum Closest"
+              "title": "Fix one and run two pointer"
             }
           }
         ]
@@ -191,8 +191,12 @@
   },
   "active": "948bab453ce7e6b9",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/3Sum Closest.md",
+    "6 - Main Notes/Solutions/Fix one and run two pointer.md",
+    "6 - Main Notes/Problems/Fix one and do binary search.md",
+    "6 - Main Notes/Problems/Fix one and do binary searach.md",
+    "6 - Main Notes/Problems/Fix one and do binary serach.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Finding Pairs With a Certain Sum.md",
     "6 - Main Notes/Solutions/Find Pairs With a Certain sum solution.md",
     "6 - Main Notes/Problems/Random Set solved using array and hashMap.md",
@@ -217,10 +221,6 @@
     "6 - Main Notes/System-Design/Networks.md",
     "6 - Main Notes/System-Design/What is System Design.md",
     "6 - Main Notes/System-Design/What is IP Address.md",
-    "6 - Main Notes/System-Design/What is Domain name.md",
-    "6 - Main Notes/Josephus Problem.md",
-    "6 - Main Notes/Data Validation Libraries.md",
-    "6 - Main Notes/System-Design/![What.md",
     "2  - Source Materials/Images/rotate-the-matrix.png",
     "Pasted image 20250705020452.png",
     "6 - Main Notes/System-Design",
