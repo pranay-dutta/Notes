@@ -14,6 +14,11 @@
 12. [[Squares of a Sorted Array]]
 13. [[Two Sum]]
 --- 
+### 🌍 [[Backtracking]]
+
+1.  [[Word Search]]
+
+--- 
 ### 🌍 [[Cumulative Sum]]
 
 1. [[Find Pivot Index]]

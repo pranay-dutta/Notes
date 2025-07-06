@@ -7,7 +7,9 @@
 
 ---
 **Intuition**: fix one pointer **k** and from **(i=k+1)** to **(j=n-1)** do **two pointer** and try to reduce the **closest sum**
-`!Importan` *there will be always only solution*  suppose target = 3 either closest would (....-2.. 3. or .................3...................... )
+
+`!Important` *test cases are designed that way that there will be always be only one solution*
+*suppose **target = 3** either closest would be **negative** or **positive**(....-4............. 3. or .........3.................7 )*
 
  
 ```cpp
