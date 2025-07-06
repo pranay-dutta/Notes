@@ -25,6 +25,7 @@
 ### 🌍 [[Design]]
 
 1.  [[Insert Delete GetRandom O(1)]]
+2. [[Finding Pairs With a Certain Sum]]
 
 ---
 ### 🌍 [[Dynamic programing]]
