@@ -12,3 +12,7 @@
 - **Evenly distributes** web traffic
 - Users **connect** to **Load Balancer** via **Public IP**
 - **Load Balancer** communicate with **web servers** via **Private IP**
+
+<img src="load-balancer.png" width=500 style="border-radius: 10px" />
+
+[[Implemented Load Balancer & 2nd Web Server]]
