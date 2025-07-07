@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Word Search.md",
+                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Word Search"
+              "title": "Leetcode Problems"
             }
           }
         ]
@@ -191,13 +191,14 @@
   },
   "active": "948bab453ce7e6b9",
   "lastOpenFiles": [
-    "6 - Main Notes/Solutions/Search and find char, if not found backtrack.md",
+    "6 - Main Notes/Problems/Game of Life.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Problems/3 Sum.md",
     "6 - Main Notes/Problems/Word Search.md",
+    "6 - Main Notes/Solutions/Search and find char, if not found backtrack.md",
     "2  - Source Materials/Images/word-matrix.jpg",
     "word-matrix",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "4 - Index/Backtracking.md",
-    "6 - Main Notes/Problems/3 Sum.md",
     "6 - Main Notes/Problems/3Sum Closest.md",
     "6 - Main Notes/Solutions/Fix one and run two pointer.md",
     "6 - Main Notes/Problems/Fix one and do binary search.md",
