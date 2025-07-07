@@ -1,4 +1,4 @@
-**Topic:**  [[Array]]  [[Matrix]] #editpending 
+**Topic:**  [[Array]]  [[Matrix]] #editpending #withoutadtionalspace
 **Last Modified**:  `2025-07-05 02:04`
 
 `Problem: Rotate the matrix ie. image 90° clock-wise`

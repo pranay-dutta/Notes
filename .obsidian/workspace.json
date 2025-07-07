@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Solutions/Count small and large from both side of j'th index.md",
+                "file": "6 - Main Notes/System-Design/Types of Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Count small and large from both side of j'th index"
+              "title": "Types of Database"
             }
           }
         ]
@@ -192,6 +192,11 @@
   },
   "active": "948bab453ce7e6b9",
   "lastOpenFiles": [
+    "6 - Main Notes/Math/Square Root Tricks & Memorization.md",
+    "6 - Main Notes/Problems/Spiral Matrix.md",
+    "6 - Main Notes/Problems/Rotate Image.md",
+    "6 - Main Notes/Solutions/Rotated Image, did as said.md",
+    "6 - Main Notes/Solutions/Count small and large from both side of j'th index.md",
     "6 - Main Notes/Problems/Count Number of Teams.md",
     "6 - Main Notes/Solutions/Form every possible team and check condition.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
@@ -201,8 +206,6 @@
     "6 - Main Notes/Problems/Game of Live Brute force.md",
     "6 - Main Notes/Solutions/Game of Life Optimal Solution.md",
     "game-of-life-optimal.png",
-    "6 - Main Notes/Problems/Rotate Image.md",
-    "6 - Main Notes/Problems/Spiral Matrix.md",
     "game-of-life.png",
     "6 - Main Notes/Problems/3 Sum.md",
     "6 - Main Notes/Problems/Word Search.md",
@@ -219,9 +222,6 @@
     "6 - Main Notes/Solutions/Find Pairs With a Certain sum solution.md",
     "6 - Main Notes/Problems/Random Set solved using array and hashMap.md",
     "6 - Main Notes/Problems/Insert Delete GetRandom O(1).md",
-    "6 - Main Notes/Problems/Find Pairs solution.md",
-    "6 - Main Notes/System-Design/System Design.md",
-    "6 - Main Notes/System-Design/Types of Scaling.md",
     "separating-database-from-webserver.png",
     "2  - Source Materials/Images/single-user-setup-system-design.png",
     "profile.webp",
