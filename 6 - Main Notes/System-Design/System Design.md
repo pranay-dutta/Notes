@@ -13,3 +13,4 @@
 - [[Scaling of server]]
 - [[Types of Database]]
 - [[Types of Scaling]]
+- [[Load Balancer]]

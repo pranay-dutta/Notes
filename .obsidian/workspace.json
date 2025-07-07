@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/System Design.md",
+                "file": "6 - Main Notes/System-Design/Load Balancer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Design"
+              "title": "Load Balancer"
             }
           }
         ],
@@ -207,9 +207,11 @@
   },
   "active": "f30f5a11d4d8cdd2",
   "lastOpenFiles": [
-    "6 - Main Notes/System-Design/Types of Database.md",
     "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Types of Scaling.md",
+    "6 - Main Notes/System-Design/Load Balancer.md",
+    "6 - Main Notes/System-Design/Scaling of server.md",
+    "6 - Main Notes/System-Design/Types of Database.md",
     "6 - Main Notes/System-Design/But when to use Vertical & when Horizontal.md",
     "types-of-scaling.png",
     "6 - Main Notes/System-Design/Horizontal Scaling.md",
@@ -217,7 +219,6 @@
     "6 - Main Notes/Math/Square Root Tricks & Memorization.md",
     "6 - Main Notes/Problems/Spiral Matrix.md",
     "6 - Main Notes/Problems/Rotate Image.md",
-    "6 - Main Notes/System-Design/Scaling of server.md",
     "6 - Main Notes/System-Design/Single user setup.md",
     "6 - Main Notes/Javascript/JavaScript.md",
     "6 - Main Notes/Javascript/Template Literals in JavaScript.md",
@@ -235,7 +236,6 @@
     "game-of-life.png",
     "6 - Main Notes/Problems/3 Sum.md",
     "6 - Main Notes/Problems/Word Search.md",
-    "6 - Main Notes/Solutions/Search and find char, if not found backtrack.md",
     "2  - Source Materials/Images/word-matrix.jpg",
     "word-matrix",
     "separating-database-from-webserver.png",
