@@ -16,7 +16,7 @@
  `Time O() Space O(1)` [[Game of Life Optimal Solution ]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
- `Time O(m*n) Space O(m*n)` [[Game of Life Brute force]] [[Game of Live Brute force]]
+ `Time O(m*n) Space O(m*n)` [[Game of Life Brute force]] 
 ----------------------------------------------------------------------------------------------
 ###### 🔴 Worst
  `Time O() Space O()` 

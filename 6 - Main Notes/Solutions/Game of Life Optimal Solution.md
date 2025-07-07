@@ -1,5 +1,5 @@
-**Topic:** [[name]]
-**Problem:**  [[name]]
+**Topic:** [[Matrix]] [[Math]]
+**Problem:**  [[Game of Life]]
 **Last Modified:**  `2025-07-07 12:22`
 
 <img src="game-of-life-optimal.png" width=500 style="border-radius: 10px" />
@@ -16,7 +16,7 @@
 
 ```cpp
 public:
-    vector<vector<int>> directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}, {1, 1}, {-1, 1}, {-1, -1}, {1, -1}}; //R L U D 
+    vector<vector<int>> directions = {{0, 1}, {0, -1}, {-1, 0}, {1, 0}, {1, 1}, {-1, 1}, {-1, -1}, {1, -1}}; //R L D U (RD B), (LD B), (LD U), (RD U)
     void gameOfLife(vector<vector<int>>& board) {
         const int m = board.size();
         const int n = board[0].size();
