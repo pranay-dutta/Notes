@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
+                "file": "6 - Main Notes/Problems/Game of Life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Problems"
+              "title": "Game of Life"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#editpending",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,7 +192,12 @@
   },
   "active": "948bab453ce7e6b9",
   "lastOpenFiles": [
+    "game-of-life.png",
     "6 - Main Notes/Problems/Game of Life.md",
+    "6 - Main Notes/Problems/Count Number of Teams.md",
+    "6 - Main Notes/Problems/Spiral Matrix.md",
+    "6 - Main Notes/Problems/Rotate Image.md",
+    "6 - Main Notes/System-Design/Types of Database.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/3 Sum.md",
     "6 - Main Notes/Problems/Word Search.md",
@@ -209,18 +215,13 @@
     "6 - Main Notes/Problems/Random Set solved using array and hashMap.md",
     "6 - Main Notes/Problems/Insert Delete GetRandom O(1).md",
     "6 - Main Notes/Problems/Find Pairs solution.md",
-    "6 - Main Notes/System-Design/Types of Database.md",
     "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Types of Scaling.md",
     "6 - Main Notes/System-Design/Scaling of server.md",
     "separating-database-from-webserver.png",
     "6 - Main Notes/System-Design/Traffic of server.md",
     "6 - Main Notes/System-Design/Domain name.md",
-    "6 - Main Notes/System-Design/Single user setup.md",
     "2  - Source Materials/Images/single-user-setup-system-design.png",
-    "6 - Main Notes/System-Design/DNS.md",
-    "6 - Main Notes/System-Design/IP Address.md",
-    "6 - Main Notes/Computer Networks/Computer Networks.md",
     "profile.webp",
     "6 - Main Notes/Computer Networks",
     "2  - Source Materials/Images/rotate-the-matrix.png",
@@ -229,7 +230,6 @@
     "2  - Source Materials/Images/container-with-most-water.png",
     "2  - Source Materials/Images/nextjs 1.png",
     "2  - Source Materials/Images/negative power rule.png",
-    "2  - Source Materials/Images/promise-in-javascript.png",
     "6 - Main Notes/Javascript",
     "6 - Main Notes/Next JS",
     "Untitled.canvas",
