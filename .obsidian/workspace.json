@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/Types of Database.md",
+                "file": "6 - Main Notes/System-Design/System Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of Database"
+              "title": "System Design"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/Implemented Load Balancer & 2nd Web Server.md",
+                "file": "6 - Main Notes/System-Design/System Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implemented Load Balancer & 2nd Web Server"
+              "title": "System Design"
             }
           }
         ],
@@ -210,16 +210,16 @@
     "6 - Main Notes/System-Design/Load Balancer.md",
     "6 - Main Notes/System-Design/Implemented Load Balancer & 2nd Web Server.md",
     "6 - Main Notes/System-Design/System Design.md",
+    "6 - Main Notes/System-Design/Types of Database.md",
+    "6 - Main Notes/Math/Square Root Tricks & Memorization.md",
     "load-balancer.png",
     "Pasted image 20250708012818.png",
     "6 - Main Notes/System-Design/Types of Scaling.md",
     "6 - Main Notes/System-Design/Scaling of server.md",
-    "6 - Main Notes/System-Design/Types of Database.md",
     "6 - Main Notes/System-Design/But when to use Vertical & when Horizontal.md",
     "types-of-scaling.png",
     "6 - Main Notes/System-Design/Horizontal Scaling.md",
     "6 - Main Notes/System-Design/Vertical Scaling.md",
-    "6 - Main Notes/Math/Square Root Tricks & Memorization.md",
     "6 - Main Notes/Problems/Spiral Matrix.md",
     "6 - Main Notes/Problems/Rotate Image.md",
     "6 - Main Notes/System-Design/Single user setup.md",
