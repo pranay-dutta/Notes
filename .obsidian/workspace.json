@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Count Number of Teams.md",
+                "file": "6 - Main Notes/Problems/Game of Life Optimal Solution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Count Number of Teams"
-            }
-          },
-          {
-            "id": "d6d7eec00a21735a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Game of Life Optimal Solution"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,14 +190,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6d7eec00a21735a",
+  "active": "948bab453ce7e6b9",
   "lastOpenFiles": [
+    "game-of-life-optimal.png",
+    "6 - Main Notes/Problems/Game of Life Optimal Solution.md",
+    "6 - Main Notes/Problems/Game of Life.md",
+    "6 - Main Notes/Problems/Game of Life Brute force.md",
+    "6 - Main Notes/Problems/Game of Live Brute force.md",
+    "6 - Main Notes/System-Design/Types of Database.md",
     "6 - Main Notes/Problems/Count Number of Teams.md",
     "6 - Main Notes/Problems/Rotate Image.md",
-    "6 - Main Notes/Problems/Game of Life.md",
-    "6 - Main Notes/System-Design/Types of Database.md",
     "6 - Main Notes/Problems/Spiral Matrix.md",
-    "6 - Main Notes/Problems/Game of Live Brute force.md",
     "game-of-life.png",
     "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/3 Sum.md",
@@ -229,10 +221,7 @@
     "6 - Main Notes/Problems/Find Pairs solution.md",
     "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Types of Scaling.md",
-    "6 - Main Notes/System-Design/Scaling of server.md",
     "separating-database-from-webserver.png",
-    "6 - Main Notes/System-Design/Traffic of server.md",
-    "6 - Main Notes/System-Design/Domain name.md",
     "2  - Source Materials/Images/single-user-setup-system-design.png",
     "profile.webp",
     "6 - Main Notes/Computer Networks",
@@ -241,7 +230,6 @@
     "6 - Main Notes/System-Design",
     "2  - Source Materials/Images/container-with-most-water.png",
     "2  - Source Materials/Images/nextjs 1.png",
-    "2  - Source Materials/Images/negative power rule.png",
     "6 - Main Notes/Javascript",
     "6 - Main Notes/Next JS",
     "Untitled.canvas",
