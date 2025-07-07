@@ -8,3 +8,7 @@
 
 ☹️ We can't use Load Balancer for [[Vertical Scaling]]. Because we are **not increasing the server** count we are **increasing it's power** only.
 
+> Load Balancer 🗿
+- **Evenly distributes** web traffic
+- Users **connect** to **Load Balancer** via **Public IP**
+- **Load Balancer** communicate with **web servers** via **Private IP**
