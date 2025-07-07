@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/System Design.md",
+                "file": "6 - Main Notes/System-Design/Database Replication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Design"
+              "title": "Database Replication"
             }
           }
         ],
@@ -207,9 +207,10 @@
   },
   "active": "f30f5a11d4d8cdd2",
   "lastOpenFiles": [
+    "6 - Main Notes/System-Design/System Design.md",
+    "6 - Main Notes/System-Design/Database Replication.md",
     "6 - Main Notes/System-Design/Load Balancer.md",
     "6 - Main Notes/System-Design/Implemented Load Balancer & 2nd Web Server.md",
-    "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Types of Database.md",
     "6 - Main Notes/Math/Square Root Tricks & Memorization.md",
     "load-balancer.png",
@@ -237,7 +238,6 @@
     "6 - Main Notes/Solutions/Game of Life Optimal Solution.md",
     "game-of-life-optimal.png",
     "game-of-life.png",
-    "6 - Main Notes/Problems/3 Sum.md",
     "2  - Source Materials/Images/word-matrix.jpg",
     "word-matrix",
     "separating-database-from-webserver.png",
