@@ -1,0 +1,19 @@
+- difference between let var and const
+- What is hoisting
+- difference between === and ==
+- what is closure
+- difference between arrow func and function/ this keyword 
+- what is dom
+- what is this keyword
+- what is event loop
+- what is datatype
+- what is callback function
+- what is scope
+- define async and await 
+- what is callback hell
+- what is promise
+- what is event bubbling
+- what is template literal
+- what is optional chaining
+- array reduce,
+- higher order functions

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/Types of Database.md",
+                "file": "6 - Main Notes/Javascript/Interview Questions Raj.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of Database"
+              "title": "Interview Questions Raj"
             }
           }
         ]
@@ -191,6 +191,9 @@
   },
   "active": "948bab453ce7e6b9",
   "lastOpenFiles": [
+    "6 - Main Notes/Javascript/JavaScript.md",
+    "6 - Main Notes/Javascript/Interview Questions Raj.md",
+    "6 - Main Notes/System-Design/Types of Database.md",
     "6 - Main Notes/Math/Square Root Tricks & Memorization.md",
     "6 - Main Notes/Problems/Spiral Matrix.md",
     "6 - Main Notes/Problems/Rotate Image.md",
@@ -199,7 +202,6 @@
     "6 - Main Notes/Problems/Count Number of Teams.md",
     "6 - Main Notes/Solutions/Form every possible team and check condition.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
-    "6 - Main Notes/System-Design/Types of Database.md",
     "6 - Main Notes/Problems/Game of Life.md",
     "6 - Main Notes/Solutions/Game of Life Brute force.md",
     "6 - Main Notes/Problems/Game of Live Brute force.md",
@@ -219,8 +221,6 @@
     "6 - Main Notes/Problems/Fix one and do binary serach.md",
     "6 - Main Notes/Problems/Finding Pairs With a Certain Sum.md",
     "6 - Main Notes/Solutions/Find Pairs With a Certain sum solution.md",
-    "6 - Main Notes/Problems/Random Set solved using array and hashMap.md",
-    "6 - Main Notes/Problems/Insert Delete GetRandom O(1).md",
     "separating-database-from-webserver.png",
     "2  - Source Materials/Images/single-user-setup-system-design.png",
     "profile.webp",
