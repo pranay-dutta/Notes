@@ -1,4 +1,4 @@
-**Topic:** 
+	**Topic:** 
 **Problem:**  [[Count Number of Teams]]
 **Last Modified**: `2025-05-11 20:39`
 
