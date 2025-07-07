@@ -13,7 +13,7 @@
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O() Space O()` 
+ `Time O(m*n) Space O(m*n)` [[Game of Live Brute force]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 

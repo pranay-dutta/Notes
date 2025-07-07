@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Game of Life.md",
+                "file": "6 - Main Notes/Problems/Count Number of Teams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game of Life"
+              "title": "Count Number of Teams"
+            }
+          },
+          {
+            "id": "d6d7eec00a21735a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,14 +201,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "948bab453ce7e6b9",
+  "active": "d6d7eec00a21735a",
   "lastOpenFiles": [
-    "game-of-life.png",
-    "6 - Main Notes/Problems/Game of Life.md",
     "6 - Main Notes/Problems/Count Number of Teams.md",
-    "6 - Main Notes/Problems/Spiral Matrix.md",
     "6 - Main Notes/Problems/Rotate Image.md",
+    "6 - Main Notes/Problems/Game of Life.md",
     "6 - Main Notes/System-Design/Types of Database.md",
+    "6 - Main Notes/Problems/Spiral Matrix.md",
+    "6 - Main Notes/Problems/Game of Live Brute force.md",
+    "game-of-life.png",
     "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/3 Sum.md",
     "6 - Main Notes/Problems/Word Search.md",
