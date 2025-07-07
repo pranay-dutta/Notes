@@ -1,4 +1,4 @@
-	**Topic:** 
+**Topic:** [[Dynamic Programing]] 
 **Problem:**  [[Count Number of Teams]]
 **Last Modified**: `2025-05-11 20:39`
 
@@ -32,6 +32,27 @@ for (int j = 1; j < n - 1; j++) {
     teamCount += smallerLeft * largerRight;
 }
 return teamCount;
+```
+
+```cpp
+int numTeams(vector<int>& rating) {
+	const int n = rating.size();
+	int teamCnt=0;
+
+	for(int i=1; i <=n-2; i++) {
+		int L[2]={0}, R[2]={0};
+
+		for(int j=0; j<i; j++) 
+			L[rating[j] < rating[i]]++; //if true increase 
+			
+		for(int k=i+1; k<n; k++) 
+			R[rating[k] < rating[i]]++;
+		
+		//number of valid teams can be formed
+		teamCnt += L[0]*R[1] + L[1]*R[0];
+	}
+	return teamCnt;
+}
 ```
 
 
