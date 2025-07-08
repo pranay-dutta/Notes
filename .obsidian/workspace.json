@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -191,9 +190,9 @@
   },
   "active": "b9598fce6869f23e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md",
     "2  - Source Materials/Images/stateless-architecture.png",
     "2  - Source Materials/Images/system-after-using-shared-storage.png",
-    "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md",
     "Pasted image 20250709013146.png",
     "6 - Main Notes/System-Design/Data Centers.md",
     "6 - Main Notes/System-Design/System Design.md",
