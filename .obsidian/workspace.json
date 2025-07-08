@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Next JS/Next JS.md",
+                "file": "5 - Templates/Template, Image.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next JS"
+              "title": "Template, Image"
             }
           }
         ]
@@ -193,6 +193,16 @@
   },
   "active": "4b76c38b76dd0c71",
   "lastOpenFiles": [
+    "6 - Main Notes/System-Design/Single user setup.md",
+    "6 - Main Notes/System-Design/Scaling of server.md",
+    "6 - Main Notes/Problems/Rotate Image.md",
+    "6 - Main Notes/React/React Reconciliation – Remember with R-D-C-U.md",
+    "6 - Main Notes/React/React Query.md",
+    "6 - Main Notes/React/React.md",
+    "6 - Main Notes/React/Prop Drilling vs React Context API.md",
+    "6 - Main Notes/Pivot.md",
+    "6 - Main Notes/System-Design/Overall Image of system till this point.md",
+    "6 - Main Notes/Next JS/Next JS.md",
     "6 - Main Notes/System-Design/Load Balancer.md",
     "6 - Main Notes/Josephus Problem.md",
     "6 - Main Notes/System-Design/How CDN works (high level overview).md",
@@ -204,17 +214,13 @@
     "6 - Main Notes/Math/Area vs Perimeter.md",
     "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Types of Scaling.md",
-    "6 - Main Notes/System-Design/Scaling of server.md",
     "6 - Main Notes/System-Design/Traffic of server.md",
-    "6 - Main Notes/System-Design/Single user setup.md",
     "6 - Main Notes/System-Design/DNS.md",
     "6 - Main Notes/System-Design/IP Address.md",
     "6 - Main Notes/System-Design/Domain name.md",
     "6 - Main Notes/System-Design/What is System Design.md",
-    "5 - Templates/Template, Image.md",
     "2  - Source Materials/Images/database-replication.png",
     "2  - Source Materials/Images/read-through-cache.png",
-    "README.md",
     "2  - Source Materials/Images/area-images.png",
     "2  - Source Materials/Images/separating-database-from-webserver.png",
     "2  - Source Materials/Images/area-image-3.png",
@@ -223,14 +229,8 @@
     "2  - Source Materials/Images/container-with-most-water.png",
     "2  - Source Materials/Images/game-of-life.png",
     "2  - Source Materials/Images/game-of-life-optimal.png",
-    "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
-    "6 - Main Notes/System-Design/But when to use Vertical & when Horizontal.md",
-    "6 - Main Notes/Solutions/Find complement's index if not found push it into map.md",
-    "6 - Main Notes/System-Design/Things to consider for using Cache.md",
-    "6 - Main Notes/System-Design/Interacting With Cache.md",
-    "6 - Main Notes/System-Design/Overall Image of system till this point.md",
     "word-matrix",
     "6 - Main Notes/Computer Networks",
     "6 - Main Notes/System-Design",

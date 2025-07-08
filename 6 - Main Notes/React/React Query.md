@@ -1,7 +1,7 @@
 **Topic**: [[React]] [[React Hooks]]
 # 🌀 React Query (TanStack Query)
 
-<img src="react-query.png" width=200 style="border-radius: 10px" />
+<img src="react-query.png" width="100%" style="border-radius: 10px; max-width:300px" />
 
 React Query is a **powerful data-fetching and caching library** for React.  
 It helps you manage **server state** easily—fetching, caching, updating, and syncing data with minimal boilerplate.

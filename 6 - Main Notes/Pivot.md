@@ -4,7 +4,7 @@
 - In **QuickSort**, it's the value used to partition the array into smaller and larger sections.
 - In **data analysis** (like pivot tables), it helps reshape data to better summarize or analyze patterns.
 
-<img style="border-radius: 10px" width=auto height=auto src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*XrGizLJHA9ElaJ46f9dxlQ.png" />
+<img style="border-radius: 10px; max-width: 600px" width="100%" height=auto src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*XrGizLJHA9ElaJ46f9dxlQ.png" />
 
 #### 📝Image Breakdown:
 

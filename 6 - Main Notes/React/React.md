@@ -1,4 +1,4 @@
-<img src="react.png" width=400 style="border-radius: 10px" />
+<img src="react.png" width="100%" style="border-radius: 10px; max-width: 400px" />
 
 - [[What is React]]
 - [[React Reconciliation – Remember with R-D-C-U]]

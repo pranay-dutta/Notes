@@ -1,6 +1,6 @@
 **Topic**: [[React]]
 
-<img src="prop-drilling-vs-react-context-api.png" width=400 width=250 style="border-radius: 10px" />
+<img src="prop-drilling-vs-react-context-api.png" width="100%" style="border-radius: 10px; max-width: 400px" />
 
 | Feature                | **React Context API**                                  | **Prop Drilling**                                           |
 | ---------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
@@ -16,4 +16,4 @@
 
 Meme 😆
 
-<img src="prop-drilling-vs-react-context-meme.png" width=400 height=250 style="border-radius: 10px" />
+<img src="prop-drilling-vs-react-context-meme.png" width="100%" height=250 style="border-radius: 10px; max-width: 400px" />

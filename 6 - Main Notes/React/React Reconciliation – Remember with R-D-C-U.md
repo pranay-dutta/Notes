@@ -3,7 +3,7 @@
 🧠 **Remember this with:** `R-D-C-U` ➟ `!React Doesn’t Change Unnecessarily`
 When a component’s **state or props** change, React: 
 
-<img src="react-reconciliation.png" width=500 style="border-radius: 10px" />
+<img src="react-reconciliation.png" width="100%" style="border-radius: 10px; max-width: 500px" />
 
 | 🔑 Mnemonic | Step      | Description                                          |
 | ----------- | --------- | ---------------------------------------------------- |
