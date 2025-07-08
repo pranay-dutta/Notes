@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -195,11 +194,13 @@
   "lastOpenFiles": [
     "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Overall System after adding CDN.md",
+    "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md",
+    "2  - Source Materials/Images/how-cdn-works 1.png",
+    "2  - Source Materials/Images/system-after-adding-cdn.png",
     "6 - Main Notes/System-Design/Overall System after DB replication.md",
     "6 - Main Notes/System-Design/CDN.md",
     "6 - Main Notes/System-Design/How CDN works (high level overview).md",
     "6 - Main Notes/System-Design/Things to consider for using CDN.md",
-    "how-cdn-works.png",
     "6 - Main Notes/Javascript/JavaScript.md",
     "6 - Main Notes/System-Design/Horizontal Scaling.md",
     "6 - Main Notes/Axios.md",
@@ -218,8 +219,6 @@
     "6 - Main Notes/Problems/Word Search.md",
     "6 - Main Notes/System-Design/Single user setup.md",
     "6 - Main Notes/System-Design/Scaling of server.md",
-    "6 - Main Notes/Problems/Rotate Image.md",
-    "6 - Main Notes/React/React Reconciliation – Remember with R-D-C-U.md",
     "2  - Source Materials/Images/database-replication.png",
     "2  - Source Materials/Images/read-through-cache.png",
     "2  - Source Materials/Images/area-images.png",
@@ -228,7 +227,6 @@
     "2  - Source Materials/Images/area-images-2.png",
     "2  - Source Materials/Images/area-vs-perimeter.png",
     "2  - Source Materials/Images/container-with-most-water.png",
-    "2  - Source Materials/Images/game-of-life.png",
     "Excalidraw",
     "Untitled.canvas",
     "word-matrix",
