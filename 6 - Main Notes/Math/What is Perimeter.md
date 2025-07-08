@@ -10,6 +10,6 @@ It is the sum of the lengths of all the sides of the shape.
 | Parallelogram | P = 2(a + b) or P = 2a + 2b           |
 | Trapezoid     | P = a + b + c + d                     |
 
-<img src="perimeter-image-1.png" width=500 style="border-radius: 10px" />
+<img src="perimeter-image-1.png" width="100%" style="border-radius: 10px; max-width: 500px" />
 
 → [[Area vs Perimeter]]

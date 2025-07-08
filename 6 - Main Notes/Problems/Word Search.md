@@ -3,7 +3,7 @@
 
 `Problem:`
 
-<img src="word-matrix.jpg" width=300 style="border-radius: 10px" />
+<img src="word-matrix.jpg" width="100%" style="border-radius: 10px; max-width: 300px" />
 **Input:** board = {{"A","B","C","E"},
 			   {"S","F","C","S"},
 			   {"A","D","E","E"}}, 

@@ -10,6 +10,6 @@
 
 **End-to-end test**: Tests the *entire application as whole* by **simulating** user interactions with **entire system.**
 
-<img src="unit-test-pyramid.png" width=600 style="border-radius: 10px" />
+<img src="unit-test-pyramid.png" width="100%" style="border-radius: 10px; max-width: 600px" />
 
 → [[Unit testing in JavaScript]]

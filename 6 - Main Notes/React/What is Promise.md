@@ -2,7 +2,7 @@
 
 A **Promise** is an object representing the **eventual completion (or failure)** of an **asynchronous operation** and its resulting value.
 
-<img src="promise-in-javascript.png" width=500 style="border-radius: 10px" />
+<img src="promise-in-javascript.png" width="100%" style="border-radius: 10px; max-width: 500px" />
 
 **States of a Promise:**
 

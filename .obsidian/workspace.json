@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e60b2c624367f0a",
+        "id": "f382871997a9d3df",
         "type": "tabs",
         "children": [
           {
-            "id": "4b76c38b76dd0c71",
+            "id": "e23c9e067d79040c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Templates/Template, Image.md",
+                "file": "6 - Main Notes/System-Design/System Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template, Image"
+              "title": "System Design"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "img",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,8 +190,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4b76c38b76dd0c71",
+  "active": "e23c9e067d79040c",
   "lastOpenFiles": [
+    "6 - Main Notes/System-Design/CDN.md",
+    "6 - Main Notes/System-Design/System Design.md",
+    "6 - Main Notes/System-Design/Horizontal Scaling.md",
+    "6 - Main Notes/Axios.md",
+    "6 - Main Notes/Math/Pivot.md",
+    "6 - Main Notes/Javascript/Arguments Object in JavaScript.md",
+    "6 - Main Notes/Javascript/JavaScript.md",
+    "6 - Main Notes/Math/Area vs Perimeter.md",
+    "5 - Templates/Template, Image.md",
+    "6 - Main Notes/Solutions/Three pointer A👈B B = C C =D.md",
+    "6 - Main Notes/Math/Triangle Property.md",
+    "6 - Main Notes/System-Design/Types of Scaling.md",
+    "6 - Main Notes/Unit Testing/Types of tests.md",
+    "6 - Main Notes/Math/What is Area.md",
+    "6 - Main Notes/Math/What is Perimeter.md",
+    "6 - Main Notes/React/What is Promise.md",
+    "6 - Main Notes/React/What is React.md",
+    "6 - Main Notes/Problems/Word Search.md",
     "6 - Main Notes/System-Design/Single user setup.md",
     "6 - Main Notes/System-Design/Scaling of server.md",
     "6 - Main Notes/Problems/Rotate Image.md",
@@ -200,25 +217,7 @@
     "6 - Main Notes/React/React Query.md",
     "6 - Main Notes/React/React.md",
     "6 - Main Notes/React/Prop Drilling vs React Context API.md",
-    "6 - Main Notes/Pivot.md",
     "6 - Main Notes/System-Design/Overall Image of system till this point.md",
-    "6 - Main Notes/Next JS/Next JS.md",
-    "6 - Main Notes/System-Design/Load Balancer.md",
-    "6 - Main Notes/Josephus Problem.md",
-    "6 - Main Notes/System-Design/How CDN works (high level overview).md",
-    "6 - Main Notes/System-Design/Database Replication.md",
-    "6 - Main Notes/Problems/Container With Most Water.md",
-    "6 - Main Notes/System-Design/CDN.md",
-    "6 - Main Notes/System-Design/Caching.md",
-    "4 - Index/Binary Exponentiation.md",
-    "6 - Main Notes/Math/Area vs Perimeter.md",
-    "6 - Main Notes/System-Design/System Design.md",
-    "6 - Main Notes/System-Design/Types of Scaling.md",
-    "6 - Main Notes/System-Design/Traffic of server.md",
-    "6 - Main Notes/System-Design/DNS.md",
-    "6 - Main Notes/System-Design/IP Address.md",
-    "6 - Main Notes/System-Design/Domain name.md",
-    "6 - Main Notes/System-Design/What is System Design.md",
     "2  - Source Materials/Images/database-replication.png",
     "2  - Source Materials/Images/read-through-cache.png",
     "2  - Source Materials/Images/area-images.png",

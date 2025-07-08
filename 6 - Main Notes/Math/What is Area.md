@@ -12,8 +12,8 @@
 | Trapezoid     | A = ½ × (a + b) × h  |
 ### Example 
 
-<img src="area-images-2.png" width=400 style="border-radius: 10px" />
+<img src="area-images-2.png" width="100%" style="border-radius: 10px; max-width: 400px" />
 
-<img src="area-image-3.png" width=350 style="border-radius: 10px" />
+<img src="area-image-3.png" width="100%" style="border-radius: 10px; max-width: 350px" />
 
 → [[Area vs Perimeter]]
