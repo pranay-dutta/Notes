@@ -1,18 +1,12 @@
-📌 Content Delivery Network
+**Topic**: [[System Design]]
 
+📌 Content Delivery Network
 ## Types of content in a website
 
 <img src="static-contents-dynamic contents.png" width=400 style="border-radius: 10px" />
 
-**Example**: Website for selling selling e-book
+**Example**: Website for selling selling e-book (*once published book will never change. i.e. static content*)
 
----
-**How CDN works (high-level view)**
+[[How CDN works (high level overview)]]
 
-**User visits a website**
-- *CDN server closest to user* - **static content loads fast**
-- *CDN server is farther from user*  - **slow website loading**
-
-
-<img src="how-cdn-works.png" width=600 style="border-radius: 10px" />
-
+→ [[System Design]]
