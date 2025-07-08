@@ -1,1 +1,1 @@
-<img src="placeholder" width=500 style="border-radius: 10px" />
+<img src="" width="100%" style="border-radius: 10px; max-width: 500px" />

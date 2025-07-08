@@ -8,7 +8,7 @@
 Don't disturb **DB** frequently just read from **Cache**.
  💡Read through **Cache**
  
-<img src="read-through-cache.png" width=600 style="border-radius: 5px" />
+<img src="read-through-cache.png" width="100%" style="border-radius: 5px; max-width: 600px" />
 
 ---
 [[Interacting With Cache]]

@@ -11,7 +11,7 @@
 | Only write operations                              | Read operations                   |
 | Insert, Delete, Update *(data-modifying commands)* | Gets *copies of data from master* |
 
-<img src="database-replication.png" width=400 style="border-radius: 10px" />
+<img src="database-replication.png" width="100%" style="border-radius: 10px; max-width: 400px" />
 
 ---
 
