@@ -1,19 +1,14 @@
 **Topic**: [[System Design]]
 
-[[Why multiple data centers]] ?
+- [[Why multiple data centers]] 
+- [[Geo DNS]]
 
-### Geo DNS 🌍
+### Geo Data Center diagram
 
- - Route to *closest data center*
- - Example : - 
-	 - US (east) *Data center-1*
-	 - US (west) *Data center-2*
-	 
-- Split traffic : 
-	- $x$%  ---> *US (east)*
-	- $(100-x$%)  ---> *US (west)*
+<img src="data-center-diagram.png" width="100%" style="border-radius: 10px; max-width: 500px" />
 
+### If one Data Center goes down
 
-
+![[Pasted image 20250709032157.png]]
 
 → [[System Design]]

@@ -9,4 +9,6 @@
  Now, to improve availability & better user experience across wider 
 **Geographical areas🌍** we should support  **Multiple Data Centers**🚍🚍
 
+To support multiple regions we need [[Geo DNS]]
+
 → [[Data Centers]]

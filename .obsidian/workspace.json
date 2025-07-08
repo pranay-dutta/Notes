@@ -22,19 +22,33 @@
             }
           },
           {
-            "id": "aeb72d13a0a617d8",
+            "id": "02c3db6b59bc67b6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md"
+                "file": "6 - Main Notes/System-Design/Why multiple data centers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-08 21.12.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "Why multiple data centers"
+            }
+          },
+          {
+            "id": "d193e8fa68b4bb1a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250709032157.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250709032157"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,13 +218,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aeb72d13a0a617d8",
+  "active": "d193e8fa68b4bb1a",
   "lastOpenFiles": [
     "6 - Main Notes/System-Design/Data Centers.md",
-    "6 - Main Notes/System-Design/System Design.md",
-    "2  - Source Materials/Images/my-website-got-popular.png",
+    "Pasted image 20250709032157.png",
+    "data-center-diagram.png",
+    "6 - Main Notes/System-Design/Geo DNS.md",
     "6 - Main Notes/System-Design/Why multiple data centers.md",
+    "6 - Main Notes/System-Design/System Design.md",
+    "geo-dns.png",
     "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md",
+    "2  - Source Materials/Images/my-website-got-popular.png",
     "download.jpg",
     "2  - Source Materials/Images/stateless-architecture.png",
     "2  - Source Materials/Images/system-after-using-shared-storage.png",
@@ -224,8 +242,6 @@
     "2  - Source Materials/Images/multiple-user-server-diagram.png",
     "2  - Source Materials/Images/webserver-user-A-user-B.png",
     "6 - Main Notes/System-Design/Overall System after adding CDN.md",
-    "2  - Source Materials/Images/how-cdn-works 1.png",
-    "2  - Source Materials/Images/system-after-adding-cdn.png",
     "6 - Main Notes/System-Design/Overall System after DB replication.md",
     "6 - Main Notes/System-Design/CDN.md",
     "6 - Main Notes/System-Design/How CDN works (high level overview).md",
@@ -239,8 +255,6 @@
     "5 - Templates/Template, Image.md",
     "6 - Main Notes/Solutions/Three pointer A👈B B = C C =D.md",
     "6 - Main Notes/Math/Triangle Property.md",
-    "6 - Main Notes/System-Design/Types of Scaling.md",
-    "2  - Source Materials/Images/database-replication.png",
     "Excalidraw",
     "Untitled.canvas",
     "word-matrix",
