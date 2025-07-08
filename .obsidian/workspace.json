@@ -11,14 +11,12 @@
             "id": "b9598fce6869f23e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "6 - Main Notes/System-Design/System Design.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "System Design"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-08 21.12.18.excalidraw"
             }
           }
         ]
@@ -193,18 +191,20 @@
   },
   "active": "b9598fce6869f23e",
   "lastOpenFiles": [
+    "2  - Source Materials/Images/stateless-architecture.png",
+    "2  - Source Materials/Images/system-after-using-shared-storage.png",
+    "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md",
+    "Pasted image 20250709013146.png",
+    "6 - Main Notes/System-Design/Data Centers.md",
+    "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/What we have done up to this point.md",
     "6 - Main Notes/System-Design/Database Replication.md",
     "6 - Main Notes/System-Design/Caching.md",
-    "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Stateless architecture.md",
     "6 - Main Notes/System-Design/Stateless and Stateful Architecture.md",
-    "stateless-architecture.png",
     "6 - Main Notes/System-Design/Comparison between Stateful and Stateless architecture.md",
-    "Pasted image 20250709013146.png",
     "2  - Source Materials/Images/multiple-user-server-diagram.png",
     "2  - Source Materials/Images/webserver-user-A-user-B.png",
-    "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md",
     "6 - Main Notes/System-Design/Overall System after adding CDN.md",
     "2  - Source Materials/Images/how-cdn-works 1.png",
     "2  - Source Materials/Images/system-after-adding-cdn.png",
@@ -223,12 +223,9 @@
     "6 - Main Notes/Math/Triangle Property.md",
     "6 - Main Notes/System-Design/Types of Scaling.md",
     "6 - Main Notes/Unit Testing/Types of tests.md",
-    "6 - Main Notes/Math/What is Area.md",
-    "6 - Main Notes/Math/What is Perimeter.md",
     "2  - Source Materials/Images/database-replication.png",
     "2  - Source Materials/Images/read-through-cache.png",
     "2  - Source Materials/Images/area-images.png",
-    "2  - Source Materials/Images/separating-database-from-webserver.png",
     "Excalidraw",
     "Untitled.canvas",
     "word-matrix",
