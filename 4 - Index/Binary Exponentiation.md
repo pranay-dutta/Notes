@@ -21,4 +21,4 @@ Generalized
 
 $x^-8$ = $1/x^8$ = $(1/x)^8$
 
-<img src="negative power rule.png" width=200 style="border-radius: 10px" />
+<img src="negative power rule.png" width="100%" style="border-radius: 10px;max-width: 200px" />

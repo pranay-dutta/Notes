@@ -4,7 +4,7 @@
 `Problem: return the water counter of the container that can hold most water`
 
 
-<img src="container-with-most-water.png" width=500 style="border-radius: 10px" />
+<img src="container-with-most-water.png" width="100%" style="border-radius: 10px; max-width: 500px" />
 
 **Input:** height = `[1,8,6,2,5,4,8,3,7]`
 **Output:** `49`
