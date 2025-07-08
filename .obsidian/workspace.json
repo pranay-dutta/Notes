@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/Advantages of DB Replication.md",
+                "file": "6 - Main Notes/System-Design/Overall Image of system till this point.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advantages of DB Replication"
+              "title": "Overall Image of system till this point"
             }
           }
         ],
@@ -207,11 +207,13 @@
   },
   "active": "f30f5a11d4d8cdd2",
   "lastOpenFiles": [
+    "overall-image-after-db-replication.png",
+    "6 - Main Notes/System-Design/Overall Image of system till this point.md",
     "6 - Main Notes/System-Design/System Design.md",
-    "6 - Main Notes/System-Design/Advantages of DB Replication.md",
     "6 - Main Notes/System-Design/Database Replication.md",
-    "6 - Main Notes/System-Design/Implemented Load Balancer & 2nd Web Server.md",
     "6 - Main Notes/System-Design/Load Balancer.md",
+    "6 - Main Notes/System-Design/Implemented Load Balancer & 2nd Web Server.md",
+    "6 - Main Notes/System-Design/Advantages of DB Replication.md",
     "6 - Main Notes/System-Design/Types of Scaling.md",
     "6 - Main Notes/System-Design/Types of Database.md",
     "6 - Main Notes/System-Design/Scaling of server.md",
@@ -235,15 +237,12 @@
     "6 - Main Notes/Solutions/Count small and large from both side of j'th index.md",
     "6 - Main Notes/Javascript/Interview Questions Raj.md",
     "6 - Main Notes/Solutions/Rotated Image, did as said.md",
-    "6 - Main Notes/Problems/Count Number of Teams.md",
-    "6 - Main Notes/Solutions/Form every possible team and check condition.md",
     "game-of-life-optimal.png",
     "game-of-life.png",
     "2  - Source Materials/Images/word-matrix.jpg",
     "word-matrix",
     "separating-database-from-webserver.png",
     "2  - Source Materials/Images/single-user-setup-system-design.png",
-    "profile.webp",
     "6 - Main Notes/Computer Networks",
     "6 - Main Notes/System-Design",
     "6 - Main Notes/Javascript",
