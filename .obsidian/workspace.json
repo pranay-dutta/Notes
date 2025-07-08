@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -190,6 +191,7 @@
   },
   "active": "b9598fce6869f23e",
   "lastOpenFiles": [
+    "download.jpg",
     "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md",
     "2  - Source Materials/Images/stateless-architecture.png",
     "2  - Source Materials/Images/system-after-using-shared-storage.png",
