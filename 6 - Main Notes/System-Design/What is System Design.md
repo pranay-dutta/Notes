@@ -19,3 +19,5 @@ Just like **architects** design buildings before construction, developer **desig
 ### 🧠 TL;DR:
 
 > **System design = how to structure software so it works well, stays fast, and can grow big.**
+
+→ [[System Design]]

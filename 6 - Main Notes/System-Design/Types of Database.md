@@ -21,3 +21,4 @@
 - When you need to store **MASSIVE** amount of data.
  - You don't need to maintain **data type**
 
+→ [[System Design]]

@@ -7,3 +7,5 @@
  2. [[Horizontal Scaling]]
 
 🤔 [[But when to use Vertical & when Horizontal]] ?
+
+→ [[System Design]]
