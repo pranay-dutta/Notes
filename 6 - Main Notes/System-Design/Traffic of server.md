@@ -1,8 +1,4 @@
 **Topic**: [[System Design]] [[Computer Network]]
-
 #editpending 
-📌 Domain Name System
-
 
 → [[System Design]]
-

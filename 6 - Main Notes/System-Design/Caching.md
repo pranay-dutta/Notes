@@ -13,3 +13,5 @@ Don't disturb **DB** frequently just read from **Cache**.
 ---
 [[Interacting With Cache]]
 [[Things to consider for using Cache]]
+
+→ [[System Design]]

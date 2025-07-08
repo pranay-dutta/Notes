@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "dynamic",
+  "collapse-filter": true,
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "System Design",
+      "color": {
+        "a": 1,
+        "rgb": 3477488
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 0.3823010968770013,
+  "scale": 0.24198429089059184,
   "close": true
 }

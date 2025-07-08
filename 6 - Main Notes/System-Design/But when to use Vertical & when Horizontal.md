@@ -1,3 +1,4 @@
+**Topic**: [[System Design]]
 
 | Vertical Scaling            | Horizontal Scaling           |
 | --------------------------- | ---------------------------- |
@@ -10,3 +11,5 @@
 -  No **Backup(failover❌)**, If one server goes down the **website/service goes down completely.**
 
 🌏 That's why for **large scale** applications **Horizontal scaling preferred** due to **limitations of Vertical scaling**
+
+→ [[System Design]]

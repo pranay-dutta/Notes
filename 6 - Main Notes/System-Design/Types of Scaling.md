@@ -1,3 +1,4 @@
+**Topic**: [[System Design]]
  
  📌There are mainly two types of scaling. 
 

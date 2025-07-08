@@ -1,4 +1,6 @@
- 📌Based on previous design [[Scaling of server]]
+**Topic**: [[System Design]]
+
+📌Based on previous design [[Scaling of server]]
  - Users *connected directly*
  - What if server *goes offline*😮
  - Also, when **many users** access at the *same time*
