@@ -24,3 +24,5 @@
  - [[Overall System after adding CDN]]
 ---
  >🌏Section 4
+
+- [[Stateless and Stateful Architecture]]
