@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/Caching.md",
+                "file": "6 - Main Notes/System-Design/Things to consider for using Cache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caching"
+              "title": "Things to consider for using Cache"
             }
           }
         ],
@@ -221,9 +221,11 @@
   },
   "active": "a231ce9a1f6af235",
   "lastOpenFiles": [
-    "read-through-cache.png",
     "6 - Main Notes/System-Design/Caching.md",
+    "6 - Main Notes/System-Design/Things to consider for using Cache.md",
+    "6 - Main Notes/System-Design/Interacting With Cache.md",
     "6 - Main Notes/System-Design/System Design.md",
+    "read-through-cache.png",
     "6 - Main Notes/System-Design/Chaching.md",
     "6 - Main Notes/System-Design/Database Replication.md",
     "6 - Main Notes/System-Design/Overall Image of system till this point.md",
@@ -251,7 +253,6 @@
     "6 - Main Notes/Problems/Rotate Image.md",
     "6 - Main Notes/Javascript/JavaScript.md",
     "6 - Main Notes/Javascript/Template Literals in JavaScript.md",
-    "6 - Main Notes/Solutions/Count small and large from both side of j'th index.md",
     "game-of-life-optimal.png",
     "game-of-life.png",
     "2  - Source Materials/Images/word-matrix.jpg",
