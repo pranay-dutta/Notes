@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -200,13 +201,17 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "948bab453ce7e6b9",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "static-contents-dynamic contents.png",
     "6 - Main Notes/System-Design/CDN.md",
+    "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
     "6 - Main Notes/System-Design/Database Replication.md",
     "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/But when to use Vertical & when Horizontal.md",
@@ -236,12 +241,10 @@
     "load-balancer.png",
     "Pasted image 20250708012818.png",
     "types-of-scaling.png",
-    "6 - Main Notes/System-Design/Horizontal Scaling.md",
     "game-of-life-optimal.png",
     "game-of-life.png",
     "2  - Source Materials/Images/word-matrix.jpg",
     "word-matrix",
-    "separating-database-from-webserver.png",
     "6 - Main Notes/Computer Networks",
     "6 - Main Notes/System-Design",
     "6 - Main Notes/Javascript",
@@ -251,7 +254,6 @@
     "hookForm",
     "6 - Main Notes/Math",
     "Notes",
-    "6 - Main Notes/Unit Testing",
     "Hello.canvas"
   ]
 }
