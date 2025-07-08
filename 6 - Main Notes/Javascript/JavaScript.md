@@ -3,7 +3,6 @@
 [[What is JavaScript]]
 [[What is LiveScript]]
 [[Summary of JS creation]]
-- [[Interview Questions Raj]]
 
 > 🌍 Beginner 
 

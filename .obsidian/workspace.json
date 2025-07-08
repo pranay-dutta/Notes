@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/System Design.md",
-                "mode": "source",
+                "file": "6 - Main Notes/Javascript/JavaScript.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Design"
+              "title": "JavaScript"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "e23c9e067d79040c",
   "lastOpenFiles": [
-    "6 - Main Notes/System-Design/CDN.md",
     "6 - Main Notes/System-Design/System Design.md",
+    "6 - Main Notes/System-Design/CDN.md",
     "6 - Main Notes/System-Design/Horizontal Scaling.md",
     "6 - Main Notes/Axios.md",
     "6 - Main Notes/Math/Pivot.md",
