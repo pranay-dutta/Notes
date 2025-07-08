@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f382871997a9d3df",
+        "id": "50f15f00378558bf",
         "type": "tabs",
         "children": [
           {
-            "id": "b9598fce6869f23e",
+            "id": "c947d307808b5857",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md"
+                "file": "6 - Main Notes/System-Design/Data Centers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-08 21.12.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "Data Centers"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -189,15 +190,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b9598fce6869f23e",
+  "active": "c947d307808b5857",
   "lastOpenFiles": [
-    "download.jpg",
+    "6 - Main Notes/System-Design/Why multiple data centers.md",
+    "6 - Main Notes/System-Design/Data Centers.md",
+    "6 - Main Notes/System-Design/System Design.md",
+    "my-website-got-popular.png",
     "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md",
+    "download.jpg",
     "2  - Source Materials/Images/stateless-architecture.png",
     "2  - Source Materials/Images/system-after-using-shared-storage.png",
     "Pasted image 20250709013146.png",
-    "6 - Main Notes/System-Design/Data Centers.md",
-    "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/What we have done up to this point.md",
     "6 - Main Notes/System-Design/Database Replication.md",
     "6 - Main Notes/System-Design/Caching.md",
@@ -225,8 +228,6 @@
     "6 - Main Notes/System-Design/Types of Scaling.md",
     "6 - Main Notes/Unit Testing/Types of tests.md",
     "2  - Source Materials/Images/database-replication.png",
-    "2  - Source Materials/Images/read-through-cache.png",
-    "2  - Source Materials/Images/area-images.png",
     "Excalidraw",
     "Untitled.canvas",
     "word-matrix",
