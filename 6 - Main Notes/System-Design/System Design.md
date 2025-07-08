@@ -26,3 +26,4 @@
  >🌏Section 4
 
 - [[Stateless and Stateful Architecture]]
+- [[Stateless architecture]]

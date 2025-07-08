@@ -12,6 +12,7 @@
 
 <img src="multiple-user-server-diagram.png" width="100%" style="border-radius: 10px; max-width: 500px" />
 
-[[Comparison between Stateful and Stateless architecture]]
+- [[Comparison between Stateful and Stateless architecture]]
+- [[Stateless architecture]]
 
 → [[System Design]]

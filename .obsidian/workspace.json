@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e23c9e067d79040c",
+            "id": "b9598fce6869f23e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/Stateless and Stateful Architecture.md",
+                "file": "6 - Main Notes/System-Design/Stateless architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stateless and Stateful Architecture"
+              "title": "Stateless architecture"
             }
           }
         ]
@@ -191,10 +191,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e23c9e067d79040c",
+  "active": "b9598fce6869f23e",
   "lastOpenFiles": [
     "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Stateless and Stateful Architecture.md",
+    "6 - Main Notes/System-Design/Stateless architecture.md",
+    "stateless-architecture.png",
     "6 - Main Notes/System-Design/Comparison between Stateful and Stateless architecture.md",
     "Pasted image 20250709013146.png",
     "2  - Source Materials/Images/multiple-user-server-diagram.png",
@@ -222,13 +224,10 @@
     "6 - Main Notes/Math/What is Perimeter.md",
     "6 - Main Notes/React/What is Promise.md",
     "6 - Main Notes/React/What is React.md",
-    "6 - Main Notes/Problems/Word Search.md",
-    "6 - Main Notes/System-Design/Single user setup.md",
     "2  - Source Materials/Images/database-replication.png",
     "2  - Source Materials/Images/read-through-cache.png",
     "2  - Source Materials/Images/area-images.png",
     "2  - Source Materials/Images/separating-database-from-webserver.png",
-    "2  - Source Materials/Images/area-image-3.png",
     "Excalidraw",
     "Untitled.canvas",
     "word-matrix",
