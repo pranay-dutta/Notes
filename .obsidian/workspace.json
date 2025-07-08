@@ -11,12 +11,14 @@
             "id": "e23c9e067d79040c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md"
+                "file": "6 - Main Notes/System-Design/Stateless and Stateful Architecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-08 21.12.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "Stateless and Stateful Architecture"
             }
           }
         ]
@@ -191,6 +193,8 @@
   },
   "active": "e23c9e067d79040c",
   "lastOpenFiles": [
+    "2  - Source Materials/Images/multiple-user-server-diagram.png",
+    "2  - Source Materials/Images/webserver-user-A-user-B.png",
     "6 - Main Notes/System-Design/Stateless and Stateful Architecture.md",
     "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md",
     "6 - Main Notes/System-Design/System Design.md",
@@ -218,15 +222,12 @@
     "6 - Main Notes/React/What is React.md",
     "6 - Main Notes/Problems/Word Search.md",
     "6 - Main Notes/System-Design/Single user setup.md",
-    "6 - Main Notes/System-Design/Scaling of server.md",
     "2  - Source Materials/Images/database-replication.png",
     "2  - Source Materials/Images/read-through-cache.png",
     "2  - Source Materials/Images/area-images.png",
     "2  - Source Materials/Images/separating-database-from-webserver.png",
     "2  - Source Materials/Images/area-image-3.png",
     "2  - Source Materials/Images/area-images-2.png",
-    "2  - Source Materials/Images/area-vs-perimeter.png",
-    "2  - Source Materials/Images/container-with-most-water.png",
     "Excalidraw",
     "Untitled.canvas",
     "word-matrix",
