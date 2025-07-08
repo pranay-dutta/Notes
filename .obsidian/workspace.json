@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/Overall System after adding CDN.md",
+                "file": "6 - Main Notes/System-Design/System Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overall System after adding CDN"
+              "title": "System Design"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -192,8 +193,8 @@
   },
   "active": "e23c9e067d79040c",
   "lastOpenFiles": [
-    "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Overall System after adding CDN.md",
+    "6 - Main Notes/System-Design/System Design.md",
     "Excalidraw/Drawing 2025-07-08 21.12.18.excalidraw.md",
     "2  - Source Materials/Images/how-cdn-works 1.png",
     "2  - Source Materials/Images/system-after-adding-cdn.png",
