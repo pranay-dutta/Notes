@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/Things to consider for using CDN.md",
+                "file": "6 - Main Notes/System-Design/Overall System after adding CDN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things to consider for using CDN"
+              "title": "Overall System after adding CDN"
             }
           }
         ]
@@ -193,11 +193,13 @@
   },
   "active": "e23c9e067d79040c",
   "lastOpenFiles": [
+    "6 - Main Notes/System-Design/System Design.md",
+    "6 - Main Notes/System-Design/Overall System after adding CDN.md",
+    "6 - Main Notes/System-Design/Overall System after DB replication.md",
     "6 - Main Notes/System-Design/CDN.md",
+    "6 - Main Notes/System-Design/How CDN works (high level overview).md",
     "6 - Main Notes/System-Design/Things to consider for using CDN.md",
     "how-cdn-works.png",
-    "6 - Main Notes/System-Design/How CDN works (high level overview).md",
-    "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/Javascript/JavaScript.md",
     "6 - Main Notes/System-Design/Horizontal Scaling.md",
     "6 - Main Notes/Axios.md",
@@ -218,8 +220,6 @@
     "6 - Main Notes/System-Design/Scaling of server.md",
     "6 - Main Notes/Problems/Rotate Image.md",
     "6 - Main Notes/React/React Reconciliation – Remember with R-D-C-U.md",
-    "6 - Main Notes/React/React Query.md",
-    "6 - Main Notes/React/React.md",
     "2  - Source Materials/Images/database-replication.png",
     "2  - Source Materials/Images/read-through-cache.png",
     "2  - Source Materials/Images/area-images.png",

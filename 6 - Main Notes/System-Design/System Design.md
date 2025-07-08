@@ -18,6 +18,7 @@
  >🌏Section 3
  
  - [[Database Replication]]
- - [[Overall Image of system till this point]]
+ - [[Overall System after DB replication]]
  - [[Caching]]
  - [[CDN]]
+ - [[Overall System after adding CDN]]

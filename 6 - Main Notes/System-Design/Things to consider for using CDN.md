@@ -1,3 +1,5 @@
+**Topic**: [[System Design]]
+
 📌 3rd party CDN vendors charge for each Data transfer so have to carefully setup of CDN service to reduce cost and effectiveness.
 
 - **Cost** - Get rid of infrequently used contents
@@ -6,4 +8,6 @@
 - **Invalidating files**
 	- **API** (CDN vendors)
 	- **Versioning** (Example: image.png?v=2)
-	
+
+
+→ [[System Design]]

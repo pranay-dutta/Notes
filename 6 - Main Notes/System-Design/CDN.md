@@ -7,9 +7,6 @@
 
 **Example**: Website for selling selling e-book (*once published book will never change. i.e. static content*)
 
-<img src="how-cdn-works.png" width="100%" style="border-radius: 10px; max-width: 500px" />
-
-
 [[How CDN works (high level overview)]]
 [[Things to consider for using CDN]]
 
