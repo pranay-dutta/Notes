@@ -35,3 +35,4 @@
 
 - [[Logging, Metric, Automation]]
 - [[System after adding Logging, Metric, Automation]]
+- [[Database Scaling, Sharding]]
