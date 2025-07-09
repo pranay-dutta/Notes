@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/Logging, Metric, Automation.md",
+                "file": "6 - Main Notes/System-Design/System Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logging, Metric, Automation"
+              "title": "System Design"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "b499659678b6cc37",
   "lastOpenFiles": [
+    "6 - Main Notes/System-Design/System after adding Logging, Metric, Automation.md",
+    "system-after-adding-logging-monitoring-automation.png",
     "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Logging, Metric, Automation.md",
     "6 - Main Notes/System-Design/Message Queue.md",
@@ -214,7 +216,6 @@
     "2  - Source Materials/Images/my-website-got-popular.png",
     "6 - Main Notes/System-Design/Why multiple data centers.md",
     "6 - Main Notes/System-Design/Geo DNS.md",
-    "2  - Source Materials/Images/stateless-architecture.png",
     "6 - Main Notes/System-Design/What we have done up to this point.md",
     "6 - Main Notes/System-Design/Database Replication.md",
     "6 - Main Notes/System-Design/Caching.md",
@@ -227,8 +228,6 @@
     "6 - Main Notes/System-Design/How CDN works (high level overview).md",
     "6 - Main Notes/System-Design/Things to consider for using CDN.md",
     "6 - Main Notes/Javascript/JavaScript.md",
-    "6 - Main Notes/System-Design/Horizontal Scaling.md",
-    "6 - Main Notes/Axios.md",
     "Excalidraw",
     "Untitled.canvas",
     "word-matrix",

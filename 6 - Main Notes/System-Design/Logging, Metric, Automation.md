@@ -26,7 +26,9 @@
 - Improve productivity
 
 1. **Continuous Integration**
-	- Code check-in verified through automation 
-2. Automating builds, test deployment etc.
+	- *Code check-in verified through automation*
+2. **Automating** *builds, test deployment etc.*
+	 - **Example**: *Jenkins Jobs*
+3. **Message Queue**  
 
 → [[System Design]]
