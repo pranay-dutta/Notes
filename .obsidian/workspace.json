@@ -11,15 +11,32 @@
             "id": "b499659678b6cc37",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing.excalidraw.md"
+                "file": "6 - Main Notes/System-Design/System Design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing.excalidraw"
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "7371dd966ac3f0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/System-Design/Use of Hash Function in Sharding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use of Hash Function in Sharding"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,13 +206,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b499659678b6cc37",
+  "active": "7371dd966ac3f0bb",
   "lastOpenFiles": [
-    "6 - Main Notes/System-Design/Horizontal Scaling.md",
-    "Excalidraw/Drawing.excalidraw.md",
     "6 - Main Notes/System-Design/Database Scaling, Sharding.md",
-    "6 - Main Notes/System-Design/Vertical Scaling.md",
+    "6 - Main Notes/System-Design/Use of Hash Function in Sharding.md",
+    "sharding-using-hash-function.png",
+    "6 - Main Notes/System-Design/Horizontal Scaling.md",
     "6 - Main Notes/System-Design/System Design.md",
+    "6 - Main Notes/System-Design/Vertical Scaling vs Horizontal Scaling.md",
+    "vertical-vs-horizontal-scaling.png",
+    "6 - Main Notes/System-Design/But when to use Vertical & when Horizontal.md",
+    "6 - Main Notes/System-Design/Scaling of server.md",
+    "db-shards.png",
+    "Excalidraw/Drawing.excalidraw.md",
+    "6 - Main Notes/System-Design/Vertical Scaling.md",
     "6 - Main Notes/System-Design/Types of Scaling.md",
     "2  - Source Materials/Images/system-after-adding-logging-monitoring-automation.png",
     "2  - Source Materials/Images/photo-customization-service.png",
@@ -212,21 +236,13 @@
     "2  - Source Materials/Images/geo-dns.png",
     "2  - Source Materials/Images/data-center-down-diagram.png",
     "2  - Source Materials/Images/data-center-diagram.png",
-    "download.jpg",
-    "Pasted image 20250709032845.png",
     "6 - Main Notes/System-Design/How to handle if data center goes down.md",
     "6 - Main Notes/System-Design/Data Center Down Diagram.md",
     "6 - Main Notes/System-Design/Geo Data Center Diagram.md",
-    "2  - Source Materials/Images/my-website-got-popular.png",
     "6 - Main Notes/System-Design/Why multiple data centers.md",
     "6 - Main Notes/System-Design/Geo DNS.md",
     "6 - Main Notes/System-Design/What we have done up to this point.md",
     "6 - Main Notes/System-Design/Database Replication.md",
-    "6 - Main Notes/System-Design/Caching.md",
-    "6 - Main Notes/System-Design/Stateless architecture.md",
-    "6 - Main Notes/System-Design/Stateless and Stateful Architecture.md",
-    "6 - Main Notes/System-Design/Comparison between Stateful and Stateless architecture.md",
-    "6 - Main Notes/System-Design/Overall System after adding CDN.md",
     "Excalidraw",
     "Untitled.canvas",
     "word-matrix",
