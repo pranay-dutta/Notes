@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 400.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -192,10 +192,10 @@
   },
   "active": "b499659678b6cc37",
   "lastOpenFiles": [
-    "employee-table.png",
-    "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
-    "Excalidraw/Drawing.excalidraw.md",
     "6 - Main Notes/System-Design/System Design.md",
+    "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
+    "employee-table.png",
+    "Excalidraw/Drawing.excalidraw.md",
     "Pasted image 20250710015757.png",
     "Pasted image 20250710015748.png",
     "Pasted Image 20250710015144_733.png",
