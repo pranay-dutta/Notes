@@ -192,8 +192,9 @@
   },
   "active": "b499659678b6cc37",
   "lastOpenFiles": [
-    "6 - Main Notes/System-Design/System Design.md",
+    "employee-table-normalized.png",
     "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
+    "6 - Main Notes/System-Design/System Design.md",
     "employee-table.png",
     "Excalidraw/Drawing.excalidraw.md",
     "Pasted image 20250710015757.png",
@@ -212,7 +213,6 @@
     "sharding-celebrity-problem.png",
     "6 - Main Notes/System-Design/Use of Hash Function in Sharding.md",
     "shards.png",
-    "sharding-using-hash-function.png",
     "6 - Main Notes/System-Design/But when to use Vertical & when Horizontal.md",
     "6 - Main Notes/System-Design/Scaling of server.md",
     "6 - Main Notes/System-Design/Types of Scaling.md",
