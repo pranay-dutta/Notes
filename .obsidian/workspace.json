@@ -11,14 +11,12 @@
             "id": "b499659678b6cc37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Normalization & Denormalization in RDBMS"
+              "icon": "excalidraw-icon",
+              "title": "Drawing.excalidraw"
             }
           }
         ]
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
+                "file": "Excalidraw/Drawing.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Normalization & Denormalization in RDBMS"
+              "title": "Backlinks for Drawing.excalidraw"
             }
           },
           {
@@ -114,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
+                "file": "Excalidraw/Drawing.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Normalization & Denormalization in RDBMS"
+              "title": "Outgoing links from Drawing.excalidraw"
             }
           },
           {
@@ -193,8 +191,9 @@
   },
   "active": "b499659678b6cc37",
   "lastOpenFiles": [
-    "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
+    "Excalidraw/Drawing.excalidraw.md",
+    "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Comparison between Stateful and Stateless architecture.md",
     "Pasted image 20250710011546.png",
     "6 - Main Notes/System-Design/Vertical Scaling.md",
@@ -205,7 +204,6 @@
     "6 - Main Notes/System-Design/Database Scaling, Sharding.md",
     "6 - Main Notes/System-Design/Drawback of Sharding.md",
     "celebrity-shard.png",
-    "Excalidraw/Drawing.excalidraw.md",
     "sharding-celebrity-problem.png",
     "6 - Main Notes/System-Design/Use of Hash Function in Sharding.md",
     "shards.png",
