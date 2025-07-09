@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Drawback of Sharding"
             }
-          },
-          {
-            "id": "7371dd966ac3f0bb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,14 +191,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7371dd966ac3f0bb",
+  "active": "b499659678b6cc37",
   "lastOpenFiles": [
+    "celebrity-shard.png",
     "6 - Main Notes/System-Design/Drawback of Sharding.md",
+    "Excalidraw/Drawing.excalidraw.md",
     "6 - Main Notes/System-Design/Database Scaling, Sharding.md",
     "sharding-celebrity-problem.png",
     "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Vertical Scaling vs Horizontal Scaling.md",
-    "Excalidraw/Drawing.excalidraw.md",
     "6 - Main Notes/System-Design/Use of Hash Function in Sharding.md",
     "shards.png",
     "sharding-using-hash-function.png",
@@ -234,7 +222,6 @@
     "2  - Source Materials/Images/message-queue.png",
     "6 - Main Notes/Javascript/RoadMap.md",
     "6 - Main Notes/System-Design/Data Centers.md",
-    "2  - Source Materials/Images/geo-dns.png",
     "6 - Main Notes/System-Design/How to handle if data center goes down.md",
     "6 - Main Notes/System-Design/Data Center Down Diagram.md",
     "6 - Main Notes/System-Design/Geo Data Center Diagram.md",

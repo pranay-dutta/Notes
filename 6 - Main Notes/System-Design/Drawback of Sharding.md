@@ -10,3 +10,7 @@
 - *Excessive access* to a particular shard cause *shard overload*
 
 <img src="sharding-celebrity-problem.png" width="100%" style="border-radius: 10px; max-width: 400px" />
+
+- Assign *one celebrity* to *each shard*
+
+<img src="celebrity-shard.png" width="100%" style="border-radius: 10px; max-width: 400px" />
