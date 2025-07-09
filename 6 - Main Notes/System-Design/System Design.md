@@ -29,3 +29,4 @@
 - [[Stateless architecture]]
 - [[What we have done up to this point]]
 - [[Data Centers]]
+- [[Message Queue]]
