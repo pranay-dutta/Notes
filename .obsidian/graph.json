@@ -71,31 +71,10 @@
       }
     },
     {
-      "query": "",
+      "query": "System Design",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 5419488
       }
     }
   ],
@@ -109,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 0.16799835926522297,
-  "close": false
+  "scale": 0.13873223932666104,
+  "close": true
 }

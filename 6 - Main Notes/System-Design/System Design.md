@@ -38,5 +38,6 @@
 - [[Database Scaling, Sharding]]
 - [[Vertical Scaling vs Horizontal Scaling]]
 - [[System after adding Sharding]]
+- [[Normalization & Denormalization in RDBMS]]
 [[Pasted image 20250710011546.png]]
-- 
+
