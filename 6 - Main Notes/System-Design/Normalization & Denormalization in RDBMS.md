@@ -4,7 +4,11 @@
 - Breaking down *large tables* in to *smaller, related tables* and *establishing 
 relationships* between them.
 
-### 📌Normalization :-
+- Minimizes **redundancy**, **simplicity**
+- Don't do *over normalization*👎
+
+---
+### 📌Denormalization :-
 - Breaking down *large tables* in to *smaller, related tables* and *establishing 
 relationships* between them.
 
