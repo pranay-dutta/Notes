@@ -11,12 +11,14 @@
             "id": "b499659678b6cc37",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing.excalidraw.md"
+                "file": "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing.excalidraw"
+              "icon": "lucide-file",
+              "title": "Normalization & Denormalization in RDBMS"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5,
-    "collapsed": true
+    "width": 457.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing.excalidraw.md",
+                "file": "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing.excalidraw"
+              "title": "Backlinks for Normalization & Denormalization in RDBMS"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing.excalidraw.md",
+                "file": "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing.excalidraw"
+              "title": "Outgoing links from Normalization & Denormalization in RDBMS"
             }
           },
           {
@@ -191,9 +192,13 @@
   },
   "active": "b499659678b6cc37",
   "lastOpenFiles": [
+    "employee-table.png",
     "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
     "Excalidraw/Drawing.excalidraw.md",
     "6 - Main Notes/System-Design/System Design.md",
+    "Pasted image 20250710015757.png",
+    "Pasted image 20250710015748.png",
+    "Pasted Image 20250710015144_733.png",
     "6 - Main Notes/System-Design/Comparison between Stateful and Stateless architecture.md",
     "Pasted image 20250710011546.png",
     "6 - Main Notes/System-Design/Vertical Scaling.md",
@@ -208,13 +213,9 @@
     "6 - Main Notes/System-Design/Use of Hash Function in Sharding.md",
     "shards.png",
     "sharding-using-hash-function.png",
-    "vertical-vs-horizontal-scaling.png",
     "6 - Main Notes/System-Design/But when to use Vertical & when Horizontal.md",
     "6 - Main Notes/System-Design/Scaling of server.md",
-    "db-shards.png",
     "6 - Main Notes/System-Design/Types of Scaling.md",
-    "2  - Source Materials/Images/system-after-adding-logging-monitoring-automation.png",
-    "2  - Source Materials/Images/photo-customization-service.png",
     "6 - Main Notes/React/React.md",
     "6 - Main Notes/React/React Reconciliation – Remember with R-D-C-U.md",
     "6 - Main Notes/System-Design/System after adding Logging, Metric, Automation.md",
@@ -226,7 +227,6 @@
     "6 - Main Notes/System-Design/How to handle if data center goes down.md",
     "6 - Main Notes/System-Design/Data Center Down Diagram.md",
     "6 - Main Notes/System-Design/Geo Data Center Diagram.md",
-    "6 - Main Notes/System-Design/Why multiple data centers.md",
     "Excalidraw",
     "Untitled.canvas",
     "word-matrix",
