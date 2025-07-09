@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/Use of Hash Function in Sharding.md",
+                "file": "6 - Main Notes/System-Design/Drawback of Sharding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Use of Hash Function in Sharding"
+              "title": "Drawback of Sharding"
             }
           }
         ],
@@ -209,7 +209,9 @@
   "active": "7371dd966ac3f0bb",
   "lastOpenFiles": [
     "6 - Main Notes/System-Design/Database Scaling, Sharding.md",
+    "6 - Main Notes/System-Design/Drawback of Sharding.md",
     "6 - Main Notes/System-Design/Use of Hash Function in Sharding.md",
+    "shards.png",
     "sharding-using-hash-function.png",
     "6 - Main Notes/System-Design/Horizontal Scaling.md",
     "6 - Main Notes/System-Design/System Design.md",
@@ -235,7 +237,6 @@
     "6 - Main Notes/System-Design/Data Centers.md",
     "2  - Source Materials/Images/geo-dns.png",
     "2  - Source Materials/Images/data-center-down-diagram.png",
-    "2  - Source Materials/Images/data-center-diagram.png",
     "6 - Main Notes/System-Design/How to handle if data center goes down.md",
     "6 - Main Notes/System-Design/Data Center Down Diagram.md",
     "6 - Main Notes/System-Design/Geo Data Center Diagram.md",
