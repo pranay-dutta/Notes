@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/System Design.md",
+                "file": "6 - Main Notes/React/React Reconciliation – Remember with R-D-C-U.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Design"
+              "title": "React Reconciliation – Remember with R-D-C-U"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -193,9 +192,11 @@
   },
   "active": "b499659678b6cc37",
   "lastOpenFiles": [
+    "6 - Main Notes/React/React.md",
+    "6 - Main Notes/React/React Reconciliation – Remember with R-D-C-U.md",
+    "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/System after adding Logging, Metric, Automation.md",
     "system-after-adding-logging-monitoring-automation.png",
-    "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/Logging, Metric, Automation.md",
     "6 - Main Notes/System-Design/Message Queue.md",
     "6 - Main Notes/System-Design/How message queue works using publishers and consumers.md",
@@ -227,7 +228,6 @@
     "6 - Main Notes/System-Design/CDN.md",
     "6 - Main Notes/System-Design/How CDN works (high level overview).md",
     "6 - Main Notes/System-Design/Things to consider for using CDN.md",
-    "6 - Main Notes/Javascript/JavaScript.md",
     "Excalidraw",
     "Untitled.canvas",
     "word-matrix",
