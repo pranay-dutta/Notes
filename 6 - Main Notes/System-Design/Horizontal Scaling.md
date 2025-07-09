@@ -1,4 +1,4 @@
-**Topic**: [[System Design]]
+**Topic**: [[System Design]] #editpending #horizontalscalingisnotsharding 
 ## 📌Also known as scale-out
 
 Large DB gets sharded into small shards 

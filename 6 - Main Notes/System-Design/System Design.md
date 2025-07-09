@@ -37,3 +37,6 @@
 - [[System after adding Logging, Metric, Automation]]
 - [[Database Scaling, Sharding]]
 - [[Vertical Scaling vs Horizontal Scaling]]
+- [[System after adding Sharding]]
+[[Pasted image 20250710011546.png]]
+- 
