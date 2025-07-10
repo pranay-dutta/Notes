@@ -24,5 +24,5 @@
 
 > 🌍 Intermediate 
 
-- [[JavaScript Array]]
+- [[JavaScript Array]] - [[JavaScript Array Methods]]
 - [[JavaScript Objects]]

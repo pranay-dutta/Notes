@@ -41,3 +41,5 @@ console.log(person.trimEnd()); // "Rick Dutta" (no trailing spaces)
 console.log(person.valueOf()); // "Rick Dutta"
 
 ```
+
+→ [[JavaScript]]

@@ -7,3 +7,5 @@ console.log(a.toLocaleString())
 console.log(a.toPrecision())
 console.log(a.valueOf())
 ```
+
+→ [[JavaScript]]

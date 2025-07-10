@@ -18,5 +18,4 @@ for(const element of arr) {
 - Use `.length` to get the number of elements.
 - You can loop over arrays using `for`, `for...of`, etc.
 
-
-
+→ [[JavaScript]]
