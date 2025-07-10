@@ -19,3 +19,4 @@
 - [[Functions declaration, expression, arrow functions]]
 - [[Arguments Object in JavaScript]]
 - [[Template Literals in JavaScript]]
+- [[String Methods]]

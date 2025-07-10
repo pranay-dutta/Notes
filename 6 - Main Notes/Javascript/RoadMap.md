@@ -8,7 +8,7 @@
 - [x] 📌 Conditionals: if, else, switch  
 - [x] 📌 Loops: for, while, do...while, for...of, for...in  
 - [x] 📌 Functions: declaration, expression, arrow functions  
-- [ ] 📌 Template literals  
+- [x] 📌 Template literals  
 - [ ] 📌 String methods  
 - [ ] 📌 Number methods  
 
