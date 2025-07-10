@@ -7,7 +7,8 @@
 **Example:** pranay-dutta.vercel.app, google.com
 
 ---
-🤔 The actual address of a website is a **complex numerical IP address (e.g. 192.0.2.2)**, but thanks to [[DNS]], users are able to enter **human-friendly domain** names and be routed to the website they are looking for.
+The actual address of a website is a **complex numerical IP address (e.g. 192.0.2.2)**, but thanks to [[DNS]], 
+users are able to enter **human-friendly domain** names and be routed to the website they are looking for.
 **This process is known as DNS lookup****
 
 → [[System Design]]
