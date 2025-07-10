@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
+                "file": "6 - Main Notes/System-Design/But why normalizing and de-normalizing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normalization & Denormalization in RDBMS"
+              "title": "But why normalizing and de-normalizing"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "f3fd786b14b5c13d",
   "lastOpenFiles": [
-    "6 - Main Notes/System-Design/But why normalizing and de-normalizing.md",
     "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
+    "6 - Main Notes/System-Design/But why normalizing and de-normalizing.md",
     "6 - Main Notes/System-Design/Employee Table Normalization Example.md",
     "6 - Main Notes/System-Design/System Design.md",
     "6 - Main Notes/System-Design/DNS.md",

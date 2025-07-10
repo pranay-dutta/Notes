@@ -16,9 +16,8 @@
 
 SELECT E.EmployeeID, E.EmployeeName, D.DepartmentLocation
 FROM Employee E
-JOIN Department D ON
-E.Department = D.Department
-WHERE E.EmployeeId = 2;
+JOIN Department D ON E.Department = D.Department
+WHERE E.EmployeeID = 2;
 ```
 
 ---
