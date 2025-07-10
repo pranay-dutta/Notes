@@ -20,3 +20,8 @@
 - [[Arguments Object in JavaScript]]
 - [[Template Literals in JavaScript]]
 - [[String Methods]]
+- [[Number Methods]]
+
+> 🌍 Intermediate 
+
+- [[Array]]

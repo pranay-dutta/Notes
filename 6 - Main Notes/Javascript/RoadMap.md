@@ -9,8 +9,8 @@
 - [x] 📌 Loops: for, while, do...while, for...of, for...in  
 - [x] 📌 Functions: declaration, expression, arrow functions  
 - [x] 📌 Template literals  
-- [ ] 📌 String methods  
-- [ ] 📌 Number methods  
+- [x] 📌 String methods
+- [x] 📌 Number methods 
 
 📗 Intermediate Topics
 ----------------------
