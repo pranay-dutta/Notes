@@ -24,4 +24,4 @@
 
 > 🌍 Intermediate 
 
-- [[Array]]
+- [[JavaScript Array]]
