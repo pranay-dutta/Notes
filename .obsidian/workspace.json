@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/System-Design/But why normalizing and de-normalizing.md",
+                "file": "6 - Main Notes/System-Design/Database Scaling, Sharding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "But why normalizing and de-normalizing"
+              "title": "Database Scaling, Sharding"
             }
           }
         ]
@@ -193,13 +193,19 @@
   },
   "active": "f3fd786b14b5c13d",
   "lastOpenFiles": [
+    "6 - Main Notes/System-Design/Sharding.md",
+    "6 - Main Notes/System-Design/Database Scaling, Sharding.md",
+    "6 - Main Notes/System-Design/System Design.md",
+    "6 - Main Notes/System-Design/Summary.md",
+    "6 - Main Notes/System-Design/Caching.md",
+    "6 - Main Notes/System-Design/Domain name.md",
+    "Pasted image 20250710011546.png",
+    "6 - Main Notes/System-Design/Stateless and Stateful Architecture.md",
+    "6 - Main Notes/System-Design/Stateless architecture.md",
+    "6 - Main Notes/System-Design/DNS.md",
     "6 - Main Notes/System-Design/Normalization & Denormalization in RDBMS.md",
     "6 - Main Notes/System-Design/But why normalizing and de-normalizing.md",
     "6 - Main Notes/System-Design/Employee Table Normalization Example.md",
-    "6 - Main Notes/System-Design/System Design.md",
-    "6 - Main Notes/System-Design/DNS.md",
-    "6 - Main Notes/System-Design/Domain name.md",
-    "Pasted image 20250710011546.png",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",
     "domain-name.png",
     "6 - Main Notes/System-Design/How DNS works and its key components.md",
@@ -219,17 +225,11 @@
     "6 - Main Notes/System-Design/Horizontal Scaling.md",
     "6 - Main Notes/System-Design/Vertical Scaling vs Horizontal Scaling.md",
     "6 - Main Notes/System-Design/System after adding Sharding.md",
-    "6 - Main Notes/System-Design/Database Scaling, Sharding.md",
     "6 - Main Notes/System-Design/Drawback of Sharding.md",
     "6 - Main Notes/System-Design/Use of Hash Function in Sharding.md",
     "6 - Main Notes/System-Design/But when to use Vertical & when Horizontal.md",
     "6 - Main Notes/System-Design/Scaling of server.md",
     "6 - Main Notes/System-Design/Types of Scaling.md",
-    "6 - Main Notes/React/React.md",
-    "6 - Main Notes/React/React Reconciliation – Remember with R-D-C-U.md",
-    "6 - Main Notes/System-Design/System after adding Logging, Metric, Automation.md",
-    "6 - Main Notes/System-Design/Logging, Metric, Automation.md",
-    "6 - Main Notes/System-Design/Message Queue.md",
     "Excalidraw",
     "Untitled.canvas",
     "word-matrix",
