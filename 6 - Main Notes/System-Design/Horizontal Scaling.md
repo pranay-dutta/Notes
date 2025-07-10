@@ -1,7 +1,6 @@
 **Topic**: [[System Design]] 
 ## 📌Also known as scale-out
 
-
 **😲Horizontal Scaling** and [[Sharding]] are related concepts, but they are not exactly the same thing. 
 
 📌**Horizontal Scaling** means increasing system capacity by adding more machines or nodes. 
