@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d83da776ef46e21e",
+        "id": "e60276b2d5ef8c90",
         "type": "tabs",
         "children": [
           {
@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Javascript/JavaScript.md",
+                "file": "6 - Main Notes/Javascript/JavaScript Objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
-            }
-          },
-          {
-            "id": "5e7c24e74196e524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Javascript/JavaScript Array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JavaScript Array"
+              "title": "JavaScript Objects"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +191,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e7c24e74196e524",
+  "active": "b9e78a294580d6ac",
   "lastOpenFiles": [
+    "6 - Main Notes/Javascript/JavaScript Objects.md",
     "6 - Main Notes/Javascript/JavaScript.md",
     "6 - Main Notes/Javascript/JavaScript Array.md",
     "3 - Tags/Array.md",
@@ -236,7 +222,6 @@
     "domain-name.png",
     "6 - Main Notes/System-Design/How DNS works and its key components.md",
     "6 - Main Notes/System-Design/How DNS is so fast.md",
-    "6 - Main Notes/System-Design/SQL.md",
     "2  - Source Materials/Images/celebrity-shard.png",
     "2  - Source Materials/Images/db-shards.png",
     "2  - Source Materials/Images/employee-table.png",

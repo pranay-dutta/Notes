@@ -25,3 +25,4 @@
 > 🌍 Intermediate 
 
 - [[JavaScript Array]]
+- [[JavaScript Objects]]
