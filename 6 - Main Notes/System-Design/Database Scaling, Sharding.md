@@ -2,10 +2,11 @@
 ### 📌Database Scaling 
 
 - [[Vertical Scaling]]
--  [[Horizontal Scaling]]
+- [[Horizontal Scaling]]
 ---
 ### 📌Database Sharding
 
--   [[Sharding]]
+- [[Sharding]]
+---
 
 → [[System Design]]

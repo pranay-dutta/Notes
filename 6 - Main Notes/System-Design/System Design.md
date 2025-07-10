@@ -33,7 +33,7 @@
 ---
  >🌏Section 5
 
-- [[Logging, Metric, Automation]]
+- [[Logging, Metric & Automation]]
 - [[System after adding Logging, Metric, Automation]]
 - [[Database Scaling, Sharding]]
 - [[Vertical Scaling vs Horizontal Scaling]]
