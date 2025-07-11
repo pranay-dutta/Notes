@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "3 Sum"
             }
+          },
+          {
+            "id": "5c0bca95144109da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Logic Gates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logic Gates"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -191,8 +205,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b9e78a294580d6ac",
+  "active": "5c0bca95144109da",
   "lastOpenFiles": [
+    "2  - Source Materials/Images/logic-gates.png",
+    "6 - Main Notes/Logic Gates.md",
+    "6 - Main Notes/Problems/3 Sum.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Javascript/JavaScript Array Methods.md",
     "6 - Main Notes/Javascript/JavaScript.md",
@@ -217,9 +234,6 @@
     "6 - Main Notes/System-Design/Horizontal Scaling.md",
     "6 - Main Notes/System-Design/Vertical Scaling.md",
     "6 - Main Notes/System-Design/Summary.md",
-    "6 - Main Notes/System-Design/Logging, Metric & Automation.md",
-    "6 - Main Notes/System-Design/Caching.md",
-    "6 - Main Notes/System-Design/Stateless and Stateful Architecture.md",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",
     "domain-name.png",
     "2  - Source Materials/Images/celebrity-shard.png",
@@ -228,7 +242,6 @@
     "2  - Source Materials/Images/employee-table-normalized.png",
     "2  - Source Materials/Images/sharding-celebrity-problem.png",
     "2  - Source Materials/Images/sharding-using-hash-function.png",
-    "2  - Source Materials/Images/shards.png",
     "6 - Main Notes/SQL",
     "Excalidraw",
     "Untitled.canvas",
