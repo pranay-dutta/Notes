@@ -31,7 +31,7 @@ vector<vector<int>> threeSum(vector<int>& nums) {
 	sort(nums); //n log(n)
 	for(i = 0; i<= n-3; i++) { //TC: O(n)
 		if(i>0 && nums[i]==nums[i-1]) continue; //skip duplicate n1
-		int complement = -nums[i]; 
+		int complement = -nums[i]; //-5+5=0
 		twoSum(nums, complement, i+1, n-1); //TC: ~(n) //serach for complement 
 	}
 	return res;
