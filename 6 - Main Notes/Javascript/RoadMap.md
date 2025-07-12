@@ -15,8 +15,8 @@
 📗 Intermediate Topics
 ----------------------
 - [x] 🔸 Arrays and Objects  
-- [ ] 📌 Arrays: push, pop, shift, unshift, splice, slice  
-- [ ] 📌 Array methods: map, filter, reduce, find, every, some, flat  
+- [x] 📌 Arrays: push, pop, shift, unshift, splice, slice  
+- [x] 📌 Array methods: map, filter, reduce, find, every, some, flat  
 - [ ] 📌 Objects: create, access, modify  
 - [ ] 📌 Object methods: keys, values, entries  
 - [ ] 📌 Destructuring, Spread, Rest  
