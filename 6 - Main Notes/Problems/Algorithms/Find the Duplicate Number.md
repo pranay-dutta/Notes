@@ -1,12 +1,13 @@
 **Topic:**  [[Array]] [[Two Pointers]] [[Floyd's Cycle Detection Algorithm (Tortoise and Hare)]]
 **Last Modified**:  `2025-07-15 01:16`
 
-`Problem:`
+`Problem: find the duplicate number in the array`
+*every number* `1 <= nums[i] <= n+1` *is a valid index*
 
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O() Space O()` 
+ `Time O(n) Space O(1)` [[Find the duplicate number solved using tortoise and hare algo]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
