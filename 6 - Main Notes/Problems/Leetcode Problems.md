@@ -14,10 +14,16 @@
 12. [[Spiral Matrix]]
 13. [[Squares of a Sorted Array]]
 14. [[Two Sum]]
+
 --- 
 ### 🌍 [[Backtracking]]
 
 1.  [[Word Search]]
+
+--- 
+### 🌍 [[Bit Manipulation]]
+
+1.  [[Convert Binary Number in a Linked List to Integer]]
 
 --- 
 ### 🌍 [[Cumulative Sum]]
