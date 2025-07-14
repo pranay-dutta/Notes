@@ -1,4 +1,4 @@
-**Topic:**   [[Linked List ]]
+**Topic:**   [[Linked List ]] [[Floyd's Cycle Detection Algorithm (Tortoise and Hare)]]
 **Last Modified**:  `2025-05-10 22:16`
 
 `Problem: Given head hasCycle or not`

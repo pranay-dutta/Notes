@@ -1,2 +1,2 @@
-[[Floyd's Tortoise and Hare (Cycle Detection)]]
+[[Floyd's Cycle Detection Algorithm (Tortoise and Hare)]]
 

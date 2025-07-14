@@ -70,5 +70,6 @@
 1. [[3Sum Closest]]
 2. [[Next Permutation]]
 3. [[Valid Palindrome]]
+4. [[Find the Duplicate Number]]
 
 ---
