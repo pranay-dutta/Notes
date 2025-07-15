@@ -6,6 +6,8 @@
 
 ### Solutions -- 
 
+<img src="floyed's-cycle-finding-algorithm.jpg" width="100%" style="border-radius: 10px; max-width: 400px" />
+
 ###### 🟢 Best
  `Time O(n) Space O(1)` [[Find the duplicate number solved using tortoise and hare algo]]
 ----------------------------------------------------------------------------------------------

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Algorithms/Find the Duplicate Number.md",
+                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find the Duplicate Number"
+              "title": "Leetcode Problems"
             }
           }
         ]
@@ -193,10 +193,13 @@
   },
   "active": "652592d3178de9f6",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Algorithms/Find the duplicate number solved using tortoise and hare algo.md",
     "6 - Main Notes/Problems/Algorithms/Find the Duplicate Number.md",
+    "6 - Main Notes/Problems/Algorithms/Find the duplicate number solved using tortoise and hare algo.md",
+    "WhatsApp Image 2025-07-16 at 01.36.40_a2eceeb6.jpg",
     "6 - Main Notes/Problems/Leetcode Problems.md",
-    "Excalidraw/Drawing.excalidraw.md",
+    "8 - Hand Written/floyed's-cycle-finding-algorithm.jpg",
+    "8 - Hand Written",
+    "7 - Excalidraw/Drawing.excalidraw.md",
     "Excalidraw/Drawing 2025-07-16 01.29.10.excalidraw.md",
     "6 - Main Notes/Problems/4 Sum.md",
     "6 - Main Notes/Problems/Sort and then do binary search.md",
@@ -221,17 +224,14 @@
     "6 - Main Notes/Problems/Algorithms/Algorithms.md",
     "6 - Main Notes/Problems/Algorithms",
     "6 - Main Notes/Problems/3 Sum.md",
-    "6 - Main Notes/Logic Gates.md",
     "2  - Source Materials/Images/logic-gates.png",
     "Pasted image 20250710011546.png",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",
     "domain-name.png",
     "2  - Source Materials/Images/celebrity-shard.png",
     "2  - Source Materials/Images/db-shards.png",
-    "2  - Source Materials/Images/employee-table.png",
-    "2  - Source Materials/Images/employee-table-normalized.png",
     "6 - Main Notes/SQL",
-    "Excalidraw",
+    "7 - Excalidraw",
     "Untitled.canvas",
     "word-matrix",
     "6 - Main Notes/Computer Networks",
@@ -240,7 +240,6 @@
     "6 - Main Notes/Next JS",
     "Untitled 1.canvas",
     "6 - Main Notes/React",
-    "hookForm",
     "Hello.canvas"
   ]
 }
