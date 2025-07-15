@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
+                "file": "6 - Main Notes/Problems/4 Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Problems"
+              "title": "4 Sum"
             }
           }
         ]
@@ -193,9 +193,10 @@
   },
   "active": "652592d3178de9f6",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Problems/4 Sum.md",
     "6 - Main Notes/Problems/Pairs of Songs With Total Durations Divisible by 60.md",
     "6 - Main Notes/Problems/Pairs of Songs With Total Durations Divisible by 60 solved using hash map.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Convert Binary Number in a Linked List to Integer.md",
     "6 - Main Notes/Problems/Binary to decimal conversion using bit shift.md",
     "2  - Source Materials/Images/bits-linked-list.png",
@@ -222,7 +223,6 @@
     "6 - Main Notes/Javascript/JavaScript Array.md",
     "6 - Main Notes/Javascript/Number Methods.md",
     "6 - Main Notes/Javascript/String Methods.md",
-    "6 - Main Notes/Javascript/JavaScript is dynamically typed.md",
     "Pasted image 20250710011546.png",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",
     "domain-name.png",
