@@ -49,6 +49,7 @@
 ### 🌍 [[Hash Table]]
 
 1. [[Total Characters in String After Transformations I]]
+2. [[Pairs of Songs With Total Durations Divisible by 60]]
 --- 
 ### 🌍 [[Linked List]]
 
