@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Sort and then do binary serach.md",
+                "file": "6 - Main Notes/Problems/Algorithms/Find the Duplicate Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sort and then do binary serach"
+              "title": "Find the Duplicate Number"
             }
           }
         ]
@@ -193,17 +193,19 @@
   },
   "active": "652592d3178de9f6",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/4 Sum.md",
-    "6 - Main Notes/Problems/Sort and then do binary serach.md",
-    "4 - Index/Binary Search.md",
+    "6 - Main Notes/Problems/Algorithms/Find the duplicate number solved using tortoise and hare algo.md",
+    "6 - Main Notes/Problems/Algorithms/Find the Duplicate Number.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
+    "Excalidraw/Drawing.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-16 01.29.10.excalidraw.md",
+    "6 - Main Notes/Problems/4 Sum.md",
+    "6 - Main Notes/Problems/Sort and then do binary search.md",
+    "4 - Index/Binary Search.md",
     "6 - Main Notes/Problems/Pairs of Songs With Total Durations Divisible by 60.md",
     "6 - Main Notes/Problems/Pairs of Songs With Total Durations Divisible by 60 solved using hash map.md",
     "6 - Main Notes/Problems/Convert Binary Number in a Linked List to Integer.md",
     "6 - Main Notes/Problems/Binary to decimal conversion using bit shift.md",
     "2  - Source Materials/Images/bits-linked-list.png",
-    "6 - Main Notes/Problems/Algorithms/Find the Duplicate Number.md",
-    "6 - Main Notes/Problems/Algorithms/Find the duplicate number solved using tortoise and hare algo.md",
     "6 - Main Notes/Problems/Linked List Cycle.md",
     "6 - Main Notes/Solutions/Tortoise and hare.md",
     "6 - Main Notes/Problems/Algorithms/Floyd's Cycle Detection Algorithm (Tortoise and Hare).md",
@@ -221,8 +223,6 @@
     "6 - Main Notes/Problems/3 Sum.md",
     "6 - Main Notes/Logic Gates.md",
     "2  - Source Materials/Images/logic-gates.png",
-    "6 - Main Notes/Javascript/JavaScript Objects.md",
-    "6 - Main Notes/Javascript/JavaScript Array.md",
     "Pasted image 20250710011546.png",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",
     "domain-name.png",

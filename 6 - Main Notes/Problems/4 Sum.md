@@ -7,7 +7,7 @@
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O(n ^ 3) Space O(1)` [[Sort and then do binary serach]]
+ `Time O(n ^ 3) Space O(1)` [[Sort and then do binary search]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
