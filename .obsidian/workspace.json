@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "cbe5a317a0a9020b",
@@ -193,10 +192,16 @@
   },
   "active": "652592d3178de9f6",
   "lastOpenFiles": [
+    "6 - Main Notes/Computer Networks/Computer Networks.md",
+    "6 - Main Notes/Computer Networks/Computer Networks RoadMap.md",
+    "6 - Main Notes/Operating System/Operating System.md",
+    "6 - Main Notes/Javascript/JavaScript RoadMap.md",
+    "6 - Main Notes/Operating System/Operating System RoadMap.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Operating System",
+    "WhatsApp Image 2025-07-16 at 01.36.40_a2eceeb6.jpg",
     "6 - Main Notes/Problems/Algorithms/Find the Duplicate Number.md",
     "6 - Main Notes/Problems/Algorithms/Find the duplicate number solved using tortoise and hare algo.md",
-    "WhatsApp Image 2025-07-16 at 01.36.40_a2eceeb6.jpg",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "8 - Hand Written/floyed's-cycle-finding-algorithm.jpg",
     "8 - Hand Written",
     "7 - Excalidraw/Drawing.excalidraw.md",
@@ -212,18 +217,14 @@
     "6 - Main Notes/Problems/Linked List Cycle.md",
     "6 - Main Notes/Solutions/Tortoise and hare.md",
     "6 - Main Notes/Problems/Algorithms/Floyd's Cycle Detection Algorithm (Tortoise and Hare).md",
-    "6 - Main Notes/Javascript/RoadMap.md",
     "6 - Main Notes/Javascript/JavaScript Array Methods.md",
     "6 - Main Notes/Javascript/JavaScript.md",
     "6 - Main Notes/Next JS/What is Next JS.md",
     "6 - Main Notes/Next JS/Next JS.md",
     "6 - Main Notes/Next JS/Understanding Hydration in Next JS.md",
     "6 - Main Notes/React/React Reconciliation – Remember with R-D-C-U.md",
-    "6 - Main Notes/React/React.md",
     "2  - Source Materials/Images/react-reconciliation.png",
-    "6 - Main Notes/Problems/Algorithms/Algorithms.md",
     "6 - Main Notes/Problems/Algorithms",
-    "6 - Main Notes/Problems/3 Sum.md",
     "2  - Source Materials/Images/logic-gates.png",
     "Pasted image 20250710011546.png",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",
@@ -239,7 +240,6 @@
     "6 - Main Notes/Javascript",
     "6 - Main Notes/Next JS",
     "Untitled 1.canvas",
-    "6 - Main Notes/React",
     "Hello.canvas"
   ]
 }

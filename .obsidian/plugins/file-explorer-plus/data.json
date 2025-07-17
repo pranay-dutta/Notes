@@ -59,6 +59,13 @@
         "type": "FILES",
         "pattern": "6 - Main Notes/Problems/Algorithms/Algorithms.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "6 - Main Notes/Operating System/Operating System.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
