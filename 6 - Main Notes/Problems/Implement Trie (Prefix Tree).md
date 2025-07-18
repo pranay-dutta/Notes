@@ -9,7 +9,7 @@
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O() Space O()` 
+ `Time O(L * 26) Space O(L)`  [[Implemented basic Trie]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 

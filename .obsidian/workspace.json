@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Implement Trie (Prefix Tree).md",
+                "file": "6 - Main Notes/Problems/Implemented basic Trie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implement Trie (Prefix Tree)"
+              "title": "Implemented basic Trie"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Problems/Implement Trie (Prefix Tree).md",
+                "file": "6 - Main Notes/Problems/Implemented basic Trie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Implement Trie (Prefix Tree)"
+              "title": "Backlinks for Implemented basic Trie"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Problems/Implement Trie (Prefix Tree).md",
+                "file": "6 - Main Notes/Problems/Implemented basic Trie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Implement Trie (Prefix Tree)"
+              "title": "Outgoing links from Implemented basic Trie"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Problems/Implement Trie (Prefix Tree).md",
+                "file": "6 - Main Notes/Problems/Implemented basic Trie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Implement Trie (Prefix Tree)"
+              "title": "Outline of Implemented basic Trie"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "c82a4ddd8080b0ea",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Implement Trie (Prefix Tree).md",
+    "6 - Main Notes/Problems/Implemented basic Trie.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "4 - Index/Trie.md"
   ]
 }
