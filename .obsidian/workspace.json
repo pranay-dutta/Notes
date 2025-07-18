@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Implemented basic Trie.md",
+                "file": "6 - Main Notes/Solutions/Implemented trie 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implemented basic Trie"
+              "title": "Implemented trie 2"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Problems/Implemented basic Trie.md",
+                "file": "6 - Main Notes/Solutions/Implemented trie 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Implemented basic Trie"
+              "title": "Backlinks for Implemented trie 2"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Problems/Implemented basic Trie.md",
+                "file": "6 - Main Notes/Solutions/Implemented trie 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Implemented basic Trie"
+              "title": "Outgoing links from Implemented trie 2"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Problems/Implemented basic Trie.md",
+                "file": "6 - Main Notes/Solutions/Implemented trie 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Implemented basic Trie"
+              "title": "Outline of Implemented trie 2"
             }
           }
         ]
@@ -172,9 +172,11 @@
   },
   "active": "c82a4ddd8080b0ea",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Implement Trie (Prefix Tree).md",
-    "6 - Main Notes/Problems/Implemented basic Trie.md",
+    "6 - Main Notes/Problems/Implement Trie 2.md",
+    "6 - Main Notes/Solutions/Implemented trie 2.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Problems/Implement Trie (Prefix Tree).md",
+    "6 - Main Notes/Solutions/Implemented basic Trie.md",
     "4 - Index/Trie.md"
   ]
 }

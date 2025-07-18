@@ -40,6 +40,7 @@
 1. [[Finding Pairs With a Certain Sum]]
 2. [[Insert Delete GetRandom O(1)]]
 3. [[Implement Trie (Prefix Tree)]]
+4. [[Implement Trie 2]]
 
 ---
 ### 🌍 [[Dynamic programing]]
