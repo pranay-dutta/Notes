@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Solutions/Implemented trie 2.md",
+                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implemented trie 2"
+              "title": "Leetcode Problems"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Solutions/Implemented trie 2.md",
+                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Implemented trie 2"
+              "title": "Backlinks for Leetcode Problems"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Solutions/Implemented trie 2.md",
+                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Implemented trie 2"
+              "title": "Outgoing links from Leetcode Problems"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Solutions/Implemented trie 2.md",
+                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Implemented trie 2"
+              "title": "Outline of Leetcode Problems"
             }
           }
         ]
