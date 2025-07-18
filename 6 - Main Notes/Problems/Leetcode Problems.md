@@ -39,6 +39,7 @@
 
 1. [[Finding Pairs With a Certain Sum]]
 2. [[Insert Delete GetRandom O(1)]]
+3. [[Implement Trie (Prefix Tree)]]
 
 ---
 ### 🌍 [[Dynamic programing]]
@@ -74,7 +75,9 @@
 
 ---
 ### 🌍 [[Trie]]
+
 1. [[Longest Common Prefix]]
+2. [[Longest Common Prefix]]
 
 ---
 
