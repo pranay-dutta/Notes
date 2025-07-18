@@ -73,6 +73,11 @@
 1. [[Valid Parentheses]]
 
 ---
+### 🌍 [[Trie]]
+1. [[Longest Common Prefix]]
+
+---
+
 ### 🌍 [[Two Pointers]]
 
 1. [[3Sum Closest]]
