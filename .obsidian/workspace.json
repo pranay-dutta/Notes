@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "209a1044084fbb23",
+    "id": "7ceb0c3c8e49f25c",
     "type": "split",
     "children": [
       {
-        "id": "9dabc521b99c2815",
+        "id": "3baaf505b04489f2",
         "type": "tabs",
         "children": [
           {
-            "id": "652592d3178de9f6",
+            "id": "c82a4ddd8080b0ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Problems/Longest Common Prefix.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Longest Common Prefix"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9a4fb038ea72ec50",
+    "id": "895819acc9219bc9",
     "type": "split",
     "children": [
       {
-        "id": "bc21ab5df9a6aef5",
+        "id": "b903fba9b0422ee6",
         "type": "tabs",
         "children": [
           {
-            "id": "a4df01eb4e0dcdcc",
+            "id": "d8b1b78e15f1ff29",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,13 +44,13 @@
             }
           },
           {
-            "id": "1ca124ff606f34a8",
+            "id": "d349ef2b7f1409a5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "9caa335bcb87edc7",
+            "id": "eeca02674f844fea",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 300
   },
   "right": {
-    "id": "cbe5a317a0a9020b",
+    "id": "9a99774488067aa9",
     "type": "split",
     "children": [
       {
-        "id": "0672138abc942fcc",
+        "id": "711931e76af910d3",
         "type": "tabs",
         "children": [
           {
-            "id": "0dfccbd3d543155f",
+            "id": "752bc29506ee20a8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/System-Design/System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for System Design"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "daad0b58f5b1ecdc",
+            "id": "9316b706dbb4b2b0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/System-Design/System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from System Design"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "a93e2f202075edcb",
+            "id": "bc52afc8532c533b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "1a3c834e245224ff",
+            "id": "f8dd0fca47bf58e6",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -149,33 +143,12 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "d19e88243fea826d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "d77339c3f6aba82e",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {},
-              "icon": "command-glyph",
-              "title": "Execution Runtimes"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -190,56 +163,6 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "652592d3178de9f6",
-  "lastOpenFiles": [
-    "6 - Main Notes/Problems/Leetcode Problems.md",
-    "6 - Main Notes/Problems/Longest Common Prefix.md",
-    "4 - Index/Trie.md",
-    "6 - Main Notes/Solutions/Pairs of Songs With Total Durations Divisible by 60 solved using hash map.md",
-    "6 - Main Notes/Solutions/Random Set solved using array and hashMap.md",
-    "6 - Main Notes/Solutions/Recursive solution of Valid Palindrome.md",
-    "6 - Main Notes/Solutions/Store  past compliment sums frequencies.md",
-    "6 - Main Notes/Solutions/Sort and then do binary search.md",
-    "6 - Main Notes/Problems/3 Sum.md",
-    "6 - Main Notes/Solutions/String Game I iterative solution.md",
-    "6 - Main Notes/Problems/Total Characters in String After Transformations I.md",
-    "6 - Main Notes/Solutions/Count frequency ♾️ transform, repeat t times.md",
-    "6 - Main Notes/Computer Networks/Computer Networks.md",
-    "6 - Main Notes/Computer Networks/Computer Networks RoadMap.md",
-    "6 - Main Notes/Operating System/Operating System.md",
-    "6 - Main Notes/Javascript/JavaScript RoadMap.md",
-    "6 - Main Notes/Operating System/Operating System RoadMap.md",
-    "6 - Main Notes/Operating System",
-    "WhatsApp Image 2025-07-16 at 01.36.40_a2eceeb6.jpg",
-    "6 - Main Notes/Problems/Algorithms/Find the Duplicate Number.md",
-    "6 - Main Notes/Problems/Algorithms/Find the duplicate number solved using tortoise and hare algo.md",
-    "8 - Hand Written/floyed's-cycle-finding-algorithm.jpg",
-    "8 - Hand Written",
-    "7 - Excalidraw/Drawing.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-16 01.29.10.excalidraw.md",
-    "6 - Main Notes/Problems/4 Sum.md",
-    "4 - Index/Binary Search.md",
-    "6 - Main Notes/Problems/Pairs of Songs With Total Durations Divisible by 60.md",
-    "6 - Main Notes/Problems/Convert Binary Number in a Linked List to Integer.md",
-    "6 - Main Notes/Problems/Binary to decimal conversion using bit shift.md",
-    "2  - Source Materials/Images/bits-linked-list.png",
-    "2  - Source Materials/Images/react-reconciliation.png",
-    "6 - Main Notes/Problems/Algorithms",
-    "2  - Source Materials/Images/logic-gates.png",
-    "Pasted image 20250710011546.png",
-    "2  - Source Materials/Images/url-parts-with-domain-name.png",
-    "domain-name.png",
-    "2  - Source Materials/Images/celebrity-shard.png",
-    "2  - Source Materials/Images/db-shards.png",
-    "6 - Main Notes/SQL",
-    "7 - Excalidraw",
-    "Untitled.canvas",
-    "word-matrix",
-    "6 - Main Notes/Computer Networks",
-    "6 - Main Notes/System-Design",
-    "6 - Main Notes/Javascript",
-    "6 - Main Notes/Next JS",
-    "Untitled 1.canvas",
-    "Hello.canvas"
-  ]
+  "active": "c82a4ddd8080b0ea",
+  "lastOpenFiles": []
 }
