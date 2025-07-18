@@ -38,9 +38,9 @@
 ### 🌍 [[Design]]
 
 1. [[Finding Pairs With a Certain Sum]]
-2. [[Insert Delete GetRandom O(1)]]
-3. [[Implement Trie (Prefix Tree)]]
-4. [[Implement Trie 2]]
+2. [[Implement Trie (Prefix Tree)]]
+3. [[Implement Trie 2]]
+4. [[Insert Delete GetRandom O(1)]]
 
 ---
 ### 🌍 [[Dynamic programing]]
@@ -63,6 +63,7 @@
 
 1. [[Palindrome Number]]
 2. [[Plus One]]
+3. [[Reverse Integer]]
 ---
 ## 🌍 [[Recursion]]
 
@@ -78,7 +79,6 @@
 ### 🌍 [[Trie]]
 
 1. [[Longest Common Prefix]]
-2. [[Longest Common Prefix]]
 
 ---
 
