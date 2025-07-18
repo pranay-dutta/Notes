@@ -15,17 +15,14 @@
 13. [[Spiral Matrix]]
 14. [[Squares of a Sorted Array]]
 15. [[Two Sum]]
-
 --- 
 ### 🌍 [[Backtracking]]
 
 1.  [[Word Search]]
-
 --- 
 ### 🌍 [[Bit Manipulation]]
 
 1.  [[Convert Binary Number in a Linked List to Integer]]
-
 --- 
 ### 🌍 [[Cumulative Sum]]
 
@@ -33,7 +30,6 @@
 2. [[Product of Array Except Self]]
 3. [[Running Sum of 1d Array]]
 4. [[Subarray Sum Equals K]]
-
 ---
 ### 🌍 [[Design]]
 
@@ -41,7 +37,6 @@
 2. [[Implement Trie (Prefix Tree)]]
 3. [[Implement Trie 2]]
 4. [[Insert Delete GetRandom O(1)]]
-
 ---
 ### 🌍 [[Dynamic programing]]
 
@@ -70,16 +65,17 @@
 1. [[Find the K-th Character in String Game I]]
 2. [[Pow(x, n)]]
 ---
-
 ### 🌍 [[Stack]]
 
 1. [[Valid Parentheses]]
+---
+### 🌍 [[String]]
 
+1. [[Add Strings]]
 ---
 ### 🌍 [[Trie]]
 
 1. [[Longest Common Prefix]]
-
 ---
 
 ### 🌍 [[Two Pointers]]
@@ -88,5 +84,4 @@
 2. [[Next Permutation]]
 3. [[Valid Palindrome]]
 4. [[Find the Duplicate Number]]
-
 ---

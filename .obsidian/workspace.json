@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Solutions/Reverse Integer solved using string.md",
+                "file": "6 - Main Notes/Solutions/Add strings optimal solution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Integer solved using string"
+              "title": "Add strings optimal solution"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Solutions/Reverse Integer solved using string.md",
+                "file": "6 - Main Notes/Solutions/Add strings optimal solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reverse Integer solved using string"
+              "title": "Backlinks for Add strings optimal solution"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Solutions/Reverse Integer solved using string.md",
+                "file": "6 - Main Notes/Solutions/Add strings optimal solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reverse Integer solved using string"
+              "title": "Outgoing links from Add strings optimal solution"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Solutions/Reverse Integer solved using string.md",
+                "file": "6 - Main Notes/Solutions/Add strings optimal solution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reverse Integer solved using string"
+              "title": "Outline of Add strings optimal solution"
             }
           }
         ]
@@ -172,9 +172,12 @@
   },
   "active": "c82a4ddd8080b0ea",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Add Strings.md",
+    "6 - Main Notes/Solutions/Add strings optimal solution.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Problems/String.md",
     "6 - Main Notes/Problems/Reverse Integer.md",
     "6 - Main Notes/Solutions/Reverse Integer solved using string.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Implement Trie 2.md",
     "6 - Main Notes/Solutions/Implemented trie 2.md",
     "6 - Main Notes/Problems/Implement Trie (Prefix Tree).md",
