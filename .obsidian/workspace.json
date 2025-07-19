@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Divisor Game.md",
+                "file": "6 - Main Notes/Solutions/Divisor Game solved.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Divisor Game"
+              "title": "Divisor Game solved"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "e6616465e3c9ec9c",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Divisor Game.md",
+    "6 - Main Notes/Solutions/Divisor Game solved.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Algorithms/Algorithms.md",
     "6 - Main Notes/Problems/Algorithms/Floyd's Cycle Detection Algorithm (Tortoise and Hare).md",
     "6 - Main Notes/Problems/Algorithms/Kadane's Algorithm.md",
