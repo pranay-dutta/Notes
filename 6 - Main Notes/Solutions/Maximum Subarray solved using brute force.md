@@ -2,12 +2,11 @@
 **Problem:**  [[Maximum Subarray]]
 **Last Modified:**  `2025-07-19 14:03`
 
- $TC: O(n)$
+ $TC: O(n^2)$
  $SC: O(1)$
 
 ---
 ##### **Intuition**: on the problem page, 
-#### In short: `why carry negativity if it doesn't benefit you`
 
 ```cpp
 int maxSubArray(vector<int>& nums) {
@@ -26,4 +25,3 @@ int maxSubArray(vector<int>& nums) {
 	return maxSum;
 }
 ```
-
