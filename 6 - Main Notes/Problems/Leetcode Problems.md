@@ -43,8 +43,9 @@
 1. [[Best Time to Buy and Sell Stock II]]
 2. [[Best Time to Buy and Sell Stocks]]
 3. [[Climbing Stairs]]
-4. [[Fibonacci Number]]
-5. [[Maximum Subarray]]
+4. [[Divisor Game]]
+5. [[Fibonacci Number]]
+6. [[Maximum Subarray]]
 --- 
 ### 🌍 [[Hash Table]]
 
