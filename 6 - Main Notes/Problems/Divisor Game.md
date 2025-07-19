@@ -14,6 +14,7 @@ Also, if a player cannot make a move, they lose the game.
 Return `true` _if and only if Alice wins the game, assuming both players play optimally_.
 
 ---
+<img src="divisor-game-note.jpg" width="100%" style="border-radius: 10px; max-width: 400px" />
 ### Solutions -- 
 
 ###### 🟢 Best
@@ -25,4 +26,3 @@ Return `true` _if and only if Alice wins the game, assuming both players play 
 ###### 🔴 Worst
  `Time O() Space O()` 
 ----------------------------------------------------------------------------------------------
-

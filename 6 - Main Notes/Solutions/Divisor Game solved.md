@@ -6,11 +6,10 @@
  $SC: O(1)$
 
 ---
-##### **Intuition**: 
-
-
+##### **Intuition**: look at problem page
  
 ```cpp
-
+bool divisorGame(int n) {
+	return n % 2 == 0;
+}
 ```
-
