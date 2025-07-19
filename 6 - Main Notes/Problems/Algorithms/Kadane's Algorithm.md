@@ -1,23 +1,24 @@
-Goal:
------
-Find the maximum sum of a contiguous subarray in O(n) time.
+## 🎯 Goal
 
-Logic:
-------
+Find the **maximum sum of a contiguous subarray** in `O(n)` time.
+
+---
+## 💡 Logic
 - Use `sum` to track the current subarray sum.
-- If `sum < 0`, reset it to 0.
-- Keep track of the maximum sum seen so far (`maxSum`).
+- If `sum < 0`, reset it to `0`.
+- Track the overall maximum using `maxSum`.
+---
+## 🧠 Formula
 
-Formula:
---------
+ ```cpp
 sum += x;
 maxSum = max(maxSum, sum);
 sum = max(sum, 0);
+```
+---
+## 💻 Code (C++)
 
-Code (C++):
---------
-
-```cpp
+ ```cpp
 int maxSubArray(vector<int>& nums) {
     int maxSum = nums[0], sum = 0;
     for (int x : nums) {
@@ -28,14 +29,22 @@ int maxSubArray(vector<int>& nums) {
     return maxSum;
 }
 ```
------------
+---
+## 📌 Example
 
-Example:
-Input:  [-2, 1, -3, 4, -1, 2, 1, -5, 4]
-Output: 6 → from subarray [4, -1, 2, 1]
+**Input**:
+ ```cpp
+[-2, 1, -3, 4, -1, 2, 1, -5, 4]
+```
 
-Notes:
-------
-- Works even if all numbers are negative.
-- Always initialize maxSum = nums[0] to handle negative-only arrays.
-- Can be extended to return the subarray or handle circular arrays.
+**Output**:  
+`6` → from subarray `[4, -1, 2, 1]`
+
+---
+## 📝 Notes
+
+- Handles all-negative arrays (initialize `maxSum = nums[0]`).
+- Can be extended to:
+  - Return the actual subarray.
+  - Handle circular arrays.
+  - 2D version for matrices.
