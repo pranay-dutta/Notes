@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Algorithms/Algorithms.md",
+                "file": "6 - Main Notes/Solutions/Maximum Subarray solved using Kadane's Algo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithms"
+              "title": "Maximum Subarray solved using Kadane's Algo"
             }
           }
         ]
@@ -172,11 +172,13 @@
   },
   "active": "e6616465e3c9ec9c",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Algorithms/Kadane's Algorithm.md",
+    "6 - Main Notes/Problems/Maximum Subarray.md",
+    "6 - Main Notes/Solutions/Maximum Subarray solved using Kadane's Algo.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Algorithms/Algorithms.md",
+    "6 - Main Notes/Problems/Algorithms/Kadane's Algorithm.md",
     "6 - Main Notes/Solutions/Add strings optimal solution.md",
     "6 - Main Notes/Problems/Add Strings.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/String.md",
     "6 - Main Notes/Problems/Reverse Integer.md",
     "6 - Main Notes/Solutions/Reverse Integer solved using string.md",
