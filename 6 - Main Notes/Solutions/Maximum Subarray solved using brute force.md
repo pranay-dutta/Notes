@@ -6,22 +6,21 @@
  $SC: O(1)$
 
 ---
-##### **Intuition**: on the problem page, 
+##### **Intuition**: use two loops and generate all subarray sums
 
 ```cpp
 int maxSubArray(vector<int>& nums) {
 	int n = nums.size();
 	int maxSum = nums[0];
-	int sum = 0;
 
-	for(int& x: nums) {
-		sum += x; //add current
-		maxSum = max(maxSum, sum);
-
-		if(sum < 0) sum = 0; //reset sum [don't carry negetive sum for next number]
-		//or sum = max(sum, 0)
+	for (int i = 0; i < n; i++) {
+		int sum = 0;
+		
+		for (int j = i; j < n; j++) {
+			sum += nums[j];
+			maxSum = max(sum, maxSum);
+		}
 	}
-
 	return maxSum;
 }
 ```
