@@ -10,7 +10,7 @@
  `Time O(n * l) Space O(n)`  [[Remove Duplicates from Sorted Array solved using unordered set]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
- `Time O() Space O()` [[Remove Duplicates from Sorted Array solved using Trie]]
+ `Time O(n * l) Space O(n)` [[Remove Duplicates from Sorted Array solved using Trie]]
 ----------------------------------------------------------------------------------------------
 ###### 🔴 Worst
  `Time O() Space O()` 
