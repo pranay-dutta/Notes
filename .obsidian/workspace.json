@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Solutions/Divisor Game solved.md",
+                "file": "6 - Main Notes/Problems/Remove Sub-Folders from the Filesystem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Divisor Game solved"
+              "title": "Remove Sub-Folders from the Filesystem"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "e6616465e3c9ec9c",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Problems/Remove Sub-Folders from the Filesystem.md",
+    "6 - Main Notes/Problems/Maximum Subarray.md",
     "6 - Main Notes/Problems/Divisor Game.md",
     "6 - Main Notes/Solutions/Divisor Game solved.md",
     "8 - Hand Written/divisor-game-note.jpg",
@@ -184,7 +187,6 @@
     "2  - Source Materials/Images/types-of-scaling.png",
     "2  - Source Materials/Images/three-pointers-linked-list.png",
     "2  - Source Materials/Images/system-after-using-shared-storage.png",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Algorithms/Algorithms.md",
     "6 - Main Notes/Problems/Algorithms/Floyd's Cycle Detection Algorithm (Tortoise and Hare).md",
     "6 - Main Notes/Problems/Algorithms/Kadane's Algorithm.md",
@@ -193,7 +195,6 @@
     "6 - Main Notes/Solutions/Climbing Stairs using recursion.md",
     "6 - Main Notes/Solutions/Climbing Stairs using recursion and memo.md",
     "6 - Main Notes/Solutions/Climbing Stairs using bottom up DP.md",
-    "6 - Main Notes/Problems/Maximum Subarray.md",
     "6 - Main Notes/Solutions/Maximum Subarray solved using brute force.md",
     "6 - Main Notes/Solutions/Maximum Subarray solved using Kadane's Algo.md",
     "6 - Main Notes/Solutions/Add strings optimal solution.md",
