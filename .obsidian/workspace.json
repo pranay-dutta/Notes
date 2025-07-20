@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using Trie.md",
+                "file": "6 - Main Notes/Solutions/Sort and then do binary search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remove Duplicates from Sorted Array solved using Trie"
+              "title": "Sort and then do binary search"
             }
           }
         ]
@@ -172,10 +172,14 @@
   },
   "active": "e6616465e3c9ec9c",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Remove Sub-Folders from the Filesystem.md",
-    "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using unordered set.md",
-    "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using Trie.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Problems/3 Sum.md",
+    "6 - Main Notes/Solutions/Increment of two sum.md",
+    "6 - Main Notes/Problems/Two Sum.md",
+    "6 - Main Notes/Solutions/Find complement's index if not found push it into map.md",
+    "6 - Main Notes/Problems/Remove Sub-Folders from the Filesystem.md",
+    "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using Trie.md",
+    "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using unordered set.md",
     "6 - Main Notes/Problems/Bit Manipulation.md",
     "6 - Main Notes/Problems/Maximum Subarray.md",
     "6 - Main Notes/Problems/Divisor Game.md",
@@ -203,10 +207,6 @@
     "6 - Main Notes/Solutions/Add strings optimal solution.md",
     "6 - Main Notes/Problems/Add Strings.md",
     "6 - Main Notes/Problems/String.md",
-    "6 - Main Notes/Problems/Reverse Integer.md",
-    "6 - Main Notes/Solutions/Reverse Integer solved using string.md",
-    "6 - Main Notes/Problems/Implement Trie 2.md",
-    "6 - Main Notes/Solutions/Implemented trie 2.md",
-    "6 - Main Notes/Problems/Implement Trie (Prefix Tree).md"
+    "6 - Main Notes/Problems/Reverse Integer.md"
   ]
 }

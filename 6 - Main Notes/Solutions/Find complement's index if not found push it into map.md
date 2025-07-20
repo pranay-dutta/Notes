@@ -16,4 +16,3 @@ for (i = 0; i < n) {
     mp[nums[i]] = i //storing idex
 }
 ```
-```
