@@ -1,5 +1,6 @@
 **Topic:**  [[Sliding Window]] [[Array]]
 **Last Modified**:  `2025-07-20 22:41`
+#editpending  #addbruteforce
 
 `Problem: `
 
@@ -22,7 +23,7 @@ Try to maximize the statisfied customers
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O() Space O()` [[Grumpy Bookstore Owner]] 
+ `Time O() Space O()` [[Grumpy Bookstore Owner solved using sliding window]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 

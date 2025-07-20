@@ -172,8 +172,9 @@
   },
   "active": "e6616465e3c9ec9c",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Solutions/Grumpy Bookstore Owner solved using sliding window.md",
     "6 - Main Notes/Problems/Grumpy Bookstore Owner.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Sliding Window.md",
     "6 - Main Notes/Problems/Game of Life.md",
     "6 - Main Notes/Problems/Count Number of Teams.md",
@@ -206,7 +207,6 @@
     "2  - Source Materials/Images/system-after-using-shared-storage.png",
     "6 - Main Notes/Problems/Algorithms/Algorithms.md",
     "6 - Main Notes/Problems/Algorithms/Floyd's Cycle Detection Algorithm (Tortoise and Hare).md",
-    "6 - Main Notes/Problems/Algorithms/Kadane's Algorithm.md",
-    "6 - Main Notes/Problems/Algorithms/Boyer Moore Voting Algorithm.md"
+    "6 - Main Notes/Problems/Algorithms/Kadane's Algorithm.md"
   ]
 }
