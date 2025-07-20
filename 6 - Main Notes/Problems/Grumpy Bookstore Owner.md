@@ -4,6 +4,7 @@
 
 `Problem: `
 
+
 ```
 parameters:
 vector<int>& grumpy, vector<int>& customers, int minutes
@@ -21,6 +22,8 @@ Try to maximize the statisfied customers
 ```
 
 ### Solutions -- 
+
+<img src="grumpy-bookstore-owner-solution.jpg" width="100%" style="border-radius: 10px; max-width: 500px" />
 
 ###### 🟢 Best
  `Time O() Space O()` [[Grumpy Bookstore Owner solved using sliding window]]
