@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Remove Sub-Folders from the Filesystem.md",
+                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remove Sub-Folders from the Filesystem"
+              "title": "Leetcode Problems"
             }
           }
         ]
@@ -172,8 +172,11 @@
   },
   "active": "e6616465e3c9ec9c",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Bit Manipulation.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Remove Sub-Folders from the Filesystem.md",
+    "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using unordered set.md",
+    "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using Trie.md",
     "6 - Main Notes/Problems/Maximum Subarray.md",
     "6 - Main Notes/Problems/Divisor Game.md",
     "6 - Main Notes/Solutions/Divisor Game solved.md",
@@ -204,8 +207,6 @@
     "6 - Main Notes/Solutions/Reverse Integer solved using string.md",
     "6 - Main Notes/Problems/Implement Trie 2.md",
     "6 - Main Notes/Solutions/Implemented trie 2.md",
-    "6 - Main Notes/Problems/Implement Trie (Prefix Tree).md",
-    "6 - Main Notes/Solutions/Implemented basic Trie.md",
-    "4 - Index/Trie.md"
+    "6 - Main Notes/Problems/Implement Trie (Prefix Tree).md"
   ]
 }
