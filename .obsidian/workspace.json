@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
+                "file": "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using Trie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Problems"
+              "title": "Remove Duplicates from Sorted Array solved using Trie"
             }
           }
         ]
@@ -172,11 +172,11 @@
   },
   "active": "e6616465e3c9ec9c",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Bit Manipulation.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Remove Sub-Folders from the Filesystem.md",
     "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using unordered set.md",
     "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using Trie.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Problems/Bit Manipulation.md",
     "6 - Main Notes/Problems/Maximum Subarray.md",
     "6 - Main Notes/Problems/Divisor Game.md",
     "6 - Main Notes/Solutions/Divisor Game solved.md",
