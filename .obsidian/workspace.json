@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Grumpy Bookstore Owner.md",
+                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grumpy Bookstore Owner"
+              "title": "Leetcode Problems"
             }
           }
         ]
@@ -172,9 +172,9 @@
   },
   "active": "e6616465e3c9ec9c",
   "lastOpenFiles": [
-    "6 - Main Notes/Solutions/Grumpy Bookstore Owner solved using sliding window.md",
     "6 - Main Notes/Problems/Grumpy Bookstore Owner.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Solutions/Grumpy Bookstore Owner solved using sliding window.md",
     "6 - Main Notes/Problems/Sliding Window.md",
     "6 - Main Notes/Problems/Game of Life.md",
     "6 - Main Notes/Problems/Count Number of Teams.md",

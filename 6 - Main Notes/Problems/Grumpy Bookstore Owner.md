@@ -29,6 +29,6 @@ Try to maximize the statisfied customers
  `Time O() Space O()` 
 ----------------------------------------------------------------------------------------------
 ###### 🔴 Worst
- `Time O(n^2) Space O(1)`  [[]]
+ `Time O(n^2) Space O(1)`  [[Grumpy Bookstore Owner solved using brute force]]
 ----------------------------------------------------------------------------------------------
 
