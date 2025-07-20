@@ -13,7 +13,7 @@
 int maxArea(vector<int>& height) {
 	int n = height.size();
 
-	//i't container water =  j-i * min(h[i], h[j]) 
+	//i'th container water =  j-i * min(h[i], h[j]) 
 
 	int maxWater = 0;
 	for (int i = 0; i < n; i++) {

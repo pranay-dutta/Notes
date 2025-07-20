@@ -1,7 +1,7 @@
 **Topic:** [[Array]] [[Binary Search]]
 **Problem:**  [[4 Sum]]
 **Last Modified:**  `2025-07-16 01:19`
-
+	
  $TC: O(n^3)$
  $SC: O(1)$
 
@@ -40,7 +40,7 @@ vector<vector<int>> fourSum(vector<int>& nums, int target) {
 		for (int b = a+1; b <= n - 3; b++) {
 			if(b > a + 1 && nums[b]==nums[b-1]) continue; //if duplicate b move on
 
-			long long complement = (long long)target - nums[a] - nums[b];
+			long long complement = (long long)target - (nums[a] + nums[b]);
 			twoSum(nums, b+1, complement, a, b);
 		}
 	}
