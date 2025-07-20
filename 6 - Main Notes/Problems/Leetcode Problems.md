@@ -68,6 +68,10 @@
 1. [[Find the K-th Character in String Game I]]
 2. [[Pow(x, n)]]
 ---
+### 🌍 [[Sliding Window]]
+
+1. [[Grumpy Bookstore Owner]]
+---
 ### 🌍 [[Stack]]
 
 1. [[Valid Parentheses]]
