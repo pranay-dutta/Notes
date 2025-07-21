@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Counting Bits.md",
+                "file": "6 - Main Notes/Problems/Counting Bits solved using recursion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Counting Bits"
+              "title": "Counting Bits solved using recursion"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "76e402d2bc3e9013",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Counting Bits.md",
+    "6 - Main Notes/Problems/Counting Bits solved using bit counting.md",
+    "6 - Main Notes/Problems/Counting Bits solved using recursion.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Palindrome Number.md",
     "6 - Main Notes/Solutions/Creating a reverse number and comparing with actual number.md",
     "6 - Main Notes/Problems/Storing each number into a stack and comparing.md",
@@ -199,8 +201,6 @@
     "6 - Main Notes/Problems/Sliding Window.md",
     "6 - Main Notes/Problems/Game of Life.md",
     "6 - Main Notes/Problems/Count Number of Teams.md",
-    "6 - Main Notes/Solutions/Count small and large from both side of j'th index.md",
-    "6 - Main Notes/Solutions/Form every possible team and check condition.md",
     "8 - Hand Written/divisor-game-note.jpg",
     "2  - Source Materials/Images/word-matrix.jpg",
     "2  - Source Materials/Images/webserver-user-A-user-B.png",
