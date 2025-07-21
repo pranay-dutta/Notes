@@ -11,14 +11,12 @@
             "id": "e6616465e3c9ec9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
-                "mode": "source",
-                "source": false
+                "file": "2  - Source Materials/Images/logic-gates.png"
               },
-              "icon": "lucide-file",
-              "title": "Leetcode Problems"
+              "icon": "lucide-image",
+              "title": "logic-gates"
             }
           }
         ]
@@ -172,8 +170,9 @@
   },
   "active": "e6616465e3c9ec9c",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Grumpy Bookstore Owner.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Problems/Bit Manipulation.md",
+    "6 - Main Notes/Problems/Grumpy Bookstore Owner.md",
     "8 - Hand Written/grumpy-bookstore-owner-solution.jpg",
     "6 - Main Notes/Solutions/Grumpy Bookstore Owner solved using sliding window.md",
     "6 - Main Notes/Problems/Sliding Window.md",
@@ -192,7 +191,6 @@
     "6 - Main Notes/Problems/Remove Sub-Folders from the Filesystem.md",
     "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using Trie.md",
     "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using unordered set.md",
-    "6 - Main Notes/Problems/Bit Manipulation.md",
     "6 - Main Notes/Problems/Maximum Subarray.md",
     "6 - Main Notes/Problems/Divisor Game.md",
     "6 - Main Notes/Solutions/Divisor Game solved.md",
