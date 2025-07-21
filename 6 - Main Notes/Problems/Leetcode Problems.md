@@ -17,7 +17,7 @@
 15. [[Squares of a Sorted Array]]
 16. [[Two Sum]]
 --- 
-### 🌍 [[Backtracking]]
+	### 🌍 [[Backtracking]]
 
 1.  [[Word Search]]
 --- 
