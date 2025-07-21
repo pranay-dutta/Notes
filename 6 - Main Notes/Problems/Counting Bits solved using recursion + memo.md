@@ -2,11 +2,12 @@
 **Problem:**  [[Counting Bits]]
 **Last Modified:**  `2025-07-22 02:15`
 
- $TC: O(n \log n)$
-$SC: O(n)$ *total (res vector)*, *or $O(\log n)$ auxiliary (recursion stack)*
+ $TC: O(n)$
+$SC$ : *Total: $O(n)$        `for res[] and memo table t[]`*
+*Aux stack: $O(log n)$  `for recursion depth`*
 
 ---
-##### **Intuition**: each time divide by half
+##### **Intuition**: count the bits and return it
  
 ```cpp
 // TC: O(n log n)

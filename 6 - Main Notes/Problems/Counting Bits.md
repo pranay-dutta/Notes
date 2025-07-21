@@ -21,9 +21,9 @@ Explanation:
  `Time O(n) Space O(1): auxilary space`  [[Counting Bits solved using bit counting]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
- `Time O() Space O()` 
+ `Time O(n) Space O(n)`  [[Counting Bits solved using recursion + memo]]
 ----------------------------------------------------------------------------------------------
 ###### 🔴 Worst
- `Time O(n log n) Space O(n): better defined in the solution`  [[Counting Bits solved using recursion]]
+ `Time O(n log n) Space O(n)`  [[Counting Bits solved using recursion]]
 ----------------------------------------------------------------------------------------------
 
