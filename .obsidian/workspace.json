@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Subsets.md",
+                "file": "6 - Main Notes/Solutions/Subsets include exclude solution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subsets"
+              "title": "Subsets include exclude solution"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "76e402d2bc3e9013",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Subsets.md",
+    "6 - Main Notes/Solutions/Subsets include exclude solution.md",
+    "4 - Index/Include-Exclude.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Longest Common Prefix.md",
     "6 - Main Notes/Problems/Linked List Cycle.md",
     "6 - Main Notes/Problems/Insert Delete GetRandom O(1).md",
@@ -196,8 +198,6 @@
     "6 - Main Notes/Problems/Convert Binary Number in a Linked List to Integer.md",
     "6 - Main Notes/Problems/Container With Most Water.md",
     "6 - Main Notes/Problems/Climbing Stairs.md",
-    "4 - Index/Bit Manipulation.md",
-    "6 - Main Notes/Solutions/Binary to decimal conversion using bit shift.md",
     "max-area-of-island.jpg",
     "2  - Source Materials/Images/logic-gates.png",
     "8 - Hand Written/grumpy-bookstore-owner-solution.jpg",
