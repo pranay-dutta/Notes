@@ -6,14 +6,23 @@
  $SC: O(1)$
 
 ---
-##### **Intuition**: Taking a **temp** & **rev** using *temp* to get the *rev* of **x** if they are same means palindrome.
+##### **Intuition**: Taking a **tempX** & **revX** using *temp* to get the *rev* of **x** if they are same means palindrome.
 
  
 ```cpp
-temp = x;
-while(temp)
-	rev = rev * 10 + (temp % 10); // rev * placevalue * lastdigit
-	temp /= 10;
-return rev == x;
+bool isPalindrome(int x) {
+	if (x < 0) return false;
+
+	int tempX = x;
+	long long revX = 0;
+
+	while (tempX > 0) {
+		int rem = tempX % 10;
+		
+		revX = (revX * 10) + rem;
+		tempX /= 10;
+	}
+	return revX == x;
+}
 ```
 
