@@ -19,6 +19,7 @@ Explanation:
 
 ###### 🟢 Best
  `Time O(n) Space O(1): auxilary space`  [[Counting Bits solved using bit counting]]
+ `Time O(n) Space O(n: dp-array)`  [[Counting Bits solved using DP]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O(n) Space O(n)`  [[Counting Bits solved using recursion + memo]]

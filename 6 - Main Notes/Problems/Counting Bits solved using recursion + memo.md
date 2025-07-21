@@ -7,19 +7,27 @@ $SC$ : *Total: $O(n)$        `for res[] and memo table t[]`*
 *Aux stack: $O(log n)$  `for recursion depth`*
 
 ---
-##### **Intuition**: count the bits and return it
+##### **Intuition**: each time divide by half but memoize it
  
 ```cpp
-// TC: O(n log n)
-// SC: O(n) total (res), or O(log n) auxiliary (recursion stack)
+// TC: O(n)
+// SC: total(n) (res vector)
+//     O(log n) worst-case (for first call to bitCount(n))
+//     O(1) average-case per call (after memoization fills)
+
+int t[100001];
 int bitCount(int n) {
 	if(n == 0) return 0;
 	if(n == 1) return 1;
 
-	return (n&1) + bitCount(n/2);
+	if(t[n] != -1) return t[n];
+
+	return t[n] = (n&1) + bitCount(n/2);
 }
 vector<int> countBits(int n) {
 	vector<int> res(n+1, 0);
+	memset(t, -1, sizeof(t));
+	
 	for(int i=0; i <= n; i++) {
 		res[i] = bitCount(i);
 	}
