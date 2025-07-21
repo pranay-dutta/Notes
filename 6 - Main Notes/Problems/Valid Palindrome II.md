@@ -6,7 +6,7 @@
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O(n) Space O(1)`  [[Valid Palindrome II iterative solution]]
+ `Time O(n) Space O(1)`  [[Valid Palindrome II iterative solution skip and revalidate]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
