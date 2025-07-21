@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
+                "file": "6 - Main Notes/React/Unit testing in React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Problems"
+              "title": "Unit testing in React"
             }
           }
         ]
@@ -172,10 +172,14 @@
   },
   "active": "ec1c3d31886daab0",
   "lastOpenFiles": [
+    "6 - Main Notes/React/React.md",
+    "6 - Main Notes/React/Unit testing in React.md",
+    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+    "6 - Main Notes/Unit Testing/Boundary Testing.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Add Binary.md",
     "6 - Main Notes/Solutions/Add Binary solved iteratively.md",
     "6 - Main Notes/Problems/Add Binary solved iteratively but better.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Max Area of Island.md",
     "6 - Main Notes/Problems/Max Area of Island solved using DFS.md",
     "6 - Main Notes/Solutions/Max Area of Island solved using BFS.md",
@@ -197,10 +201,6 @@
     "6 - Main Notes/Solutions/Brute force Container With Most Water.md",
     "6 - Main Notes/Solutions/Sort and then do binary search.md",
     "6 - Main Notes/Problems/3 Sum.md",
-    "6 - Main Notes/Solutions/Increment of two sum.md",
-    "6 - Main Notes/Problems/Two Sum.md",
-    "6 - Main Notes/Solutions/Find complement's index if not found push it into map.md",
-    "6 - Main Notes/Problems/Remove Sub-Folders from the Filesystem.md",
     "8 - Hand Written/divisor-game-note.jpg",
     "2  - Source Materials/Images/word-matrix.jpg",
     "2  - Source Materials/Images/webserver-user-A-user-B.png",
