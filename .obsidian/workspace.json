@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
+                "file": "6 - Main Notes/Solutions/Valid Palindrome II iterative solution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Problems"
+              "title": "Valid Palindrome II iterative solution"
             }
           }
         ]
@@ -172,10 +172,12 @@
   },
   "active": "76e402d2bc3e9013",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Valid Palindrome II.md",
+    "6 - Main Notes/Solutions/Valid Palindrome II iterative solution.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Find the Index of the First Occurrence in a String.md",
     "6 - Main Notes/Solutions/Find the Index of the First Occurrence in a String solved iteratively.md",
     "6 - Main Notes/Problems/Storing each number into a stack and comparing.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Counting Bits.md",
     "6 - Main Notes/Problems/Counting Bits solved using dp.md",
     "6 - Main Notes/Problems/Counting Bits solved using recursion + memo.md",
@@ -198,8 +200,6 @@
     "4 - Index/Depth-First Search.md",
     "4 - Index/Breadth-First Search.md",
     "2  - Source Materials/Images/logic-gates.png",
-    "6 - Main Notes/Problems/Bit Manipulation.md",
-    "6 - Main Notes/Problems/Grumpy Bookstore Owner.md",
     "8 - Hand Written/grumpy-bookstore-owner-solution.jpg",
     "8 - Hand Written/divisor-game-note.jpg",
     "2  - Source Materials/Images/word-matrix.jpg",
