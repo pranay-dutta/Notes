@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0765892beb38a638",
+        "id": "5d9bef09ee112ade",
         "type": "tabs",
         "children": [
           {
-            "id": "e6616465e3c9ec9c",
+            "id": "ec1c3d31886daab0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2  - Source Materials/Images/logic-gates.png"
+                "file": "6 - Main Notes/Problems/Max Area of Island solved using BFS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "logic-gates"
+              "icon": "lucide-file",
+              "title": "Max Area of Island solved using BFS"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9a99774488067aa9",
@@ -168,9 +171,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e6616465e3c9ec9c",
+  "active": "ec1c3d31886daab0",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Max Area of Island.md",
+    "6 - Main Notes/Problems/Max Area of Island solved using BFS.md",
+    "max-area-of-island.jpg",
+    "4 - Index/Depth-First Search.md",
+    "4 - Index/Breadth-First Search.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
+    "2  - Source Materials/Images/logic-gates.png",
     "6 - Main Notes/Problems/Bit Manipulation.md",
     "6 - Main Notes/Problems/Grumpy Bookstore Owner.md",
     "8 - Hand Written/grumpy-bookstore-owner-solution.jpg",
@@ -193,17 +202,12 @@
     "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using unordered set.md",
     "6 - Main Notes/Problems/Maximum Subarray.md",
     "6 - Main Notes/Problems/Divisor Game.md",
-    "6 - Main Notes/Solutions/Divisor Game solved.md",
     "8 - Hand Written/divisor-game-note.jpg",
     "2  - Source Materials/Images/word-matrix.jpg",
     "2  - Source Materials/Images/webserver-user-A-user-B.png",
     "2  - Source Materials/Images/vertical-vs-horizontal-scaling.png",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",
     "2  - Source Materials/Images/unit-test-pyramid.png",
-    "2  - Source Materials/Images/types-of-triangle.png",
-    "2  - Source Materials/Images/types-of-scaling.png",
-    "2  - Source Materials/Images/three-pointers-linked-list.png",
-    "6 - Main Notes/Problems/Algorithms/Algorithms.md",
-    "6 - Main Notes/Problems/Algorithms/Floyd's Cycle Detection Algorithm (Tortoise and Hare).md"
+    "2  - Source Materials/Images/types-of-triangle.png"
   ]
 }
