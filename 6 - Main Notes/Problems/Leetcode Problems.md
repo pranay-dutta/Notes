@@ -82,6 +82,7 @@
 ### 🌍 [[String]]
 
 1. [[Add Strings]]
+2. [[Find the Index of the First Occurrence in a String]]
 ---
 ### 🌍 [[Trie]]
 
