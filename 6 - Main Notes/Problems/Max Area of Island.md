@@ -14,6 +14,7 @@
 
 ###### 🟢 Best
  `Time O(m * n) Space O(m * n)` [[Max Area of Island solved using BFS]] 
+ `Time O(m * n) Space O(m * n)` [[Max Area of Island solved using DFS]] 
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
