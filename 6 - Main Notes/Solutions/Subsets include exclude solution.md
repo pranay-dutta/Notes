@@ -4,7 +4,11 @@
 
  $TC: O(2^n)$
  $SC:$ *total subsets* $O(2^n * n)$  *n is the number of elements*  , $O(n)$ *max depth of stack*
-
+ 
+- You store `2^n` subsets.
+- Each subset takes up to `O(n)` space.
+- Therefore, total space for `res` is:
+	 $O(2^n \cdot n)$
 ---
 ##### **Intuition**: Take or Not take at every index
  
