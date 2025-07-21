@@ -23,7 +23,7 @@
 --- 
 ### 🌍 [[Bit Manipulation]]
 
-1.  [[Convert Binary Number in a Linked List to Integer]]
+1. [[Convert Binary Number in a Linked List to Integer]]
 2. [[Add Binary]]
 --- 
 ### 🌍 [[Cumulative Sum]]
