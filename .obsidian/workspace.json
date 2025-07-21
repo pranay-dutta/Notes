@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Max Area of Island.md",
+                "file": "6 - Main Notes/Solutions/Add Binary solved iteratively.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Max Area of Island"
+              "title": "Add Binary solved iteratively"
             }
           }
         ]
@@ -172,10 +172,12 @@
   },
   "active": "ec1c3d31886daab0",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Max Area of Island solved using DFS.md",
-    "6 - Main Notes/Problems/Max Area of Island.md",
-    "6 - Main Notes/Solutions/Max Area of Island solved using BFS.md",
+    "6 - Main Notes/Problems/Add Binary.md",
+    "6 - Main Notes/Solutions/Add Binary solved iteratively.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Problems/Max Area of Island.md",
+    "6 - Main Notes/Problems/Max Area of Island solved using DFS.md",
+    "6 - Main Notes/Solutions/Max Area of Island solved using BFS.md",
     "max-area-of-island.jpg",
     "4 - Index/Depth-First Search.md",
     "4 - Index/Breadth-First Search.md",
@@ -199,8 +201,6 @@
     "6 - Main Notes/Solutions/Find complement's index if not found push it into map.md",
     "6 - Main Notes/Problems/Remove Sub-Folders from the Filesystem.md",
     "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using Trie.md",
-    "6 - Main Notes/Solutions/Remove Duplicates from Sorted Array solved using unordered set.md",
-    "6 - Main Notes/Problems/Maximum Subarray.md",
     "8 - Hand Written/divisor-game-note.jpg",
     "2  - Source Materials/Images/word-matrix.jpg",
     "2  - Source Materials/Images/webserver-user-A-user-B.png",
