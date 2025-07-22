@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 412.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a99774488067aa9",
@@ -172,8 +173,10 @@
   },
   "active": "76e402d2bc3e9013",
   "lastOpenFiles": [
-    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "2  - Source Materials/Images/max-area-of-cake-example2.png",
     "6 - Main Notes/Problems/Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.md",
+    "max-area-of-cake-example1.png",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Word Search.md",
     "6 - Main Notes/Problems/Valid Parentheses.md",
     "6 - Main Notes/Problems/Valid Palindrome II.md",
@@ -197,7 +200,6 @@
     "6 - Main Notes/Problems/Plus One.md",
     "6 - Main Notes/Problems/Palindrome Number.md",
     "6 - Main Notes/Problems/Pairs of Songs With Total Durations Divisible by 60.md",
-    "6 - Main Notes/Problems/Next Permutation.md",
     "max-area-of-island.jpg",
     "2  - Source Materials/Images/logic-gates.png",
     "8 - Hand Written/grumpy-bookstore-owner-solution.jpg",
@@ -205,8 +207,6 @@
     "2  - Source Materials/Images/word-matrix.jpg",
     "2  - Source Materials/Images/webserver-user-A-user-B.png",
     "2  - Source Materials/Images/vertical-vs-horizontal-scaling.png",
-    "2  - Source Materials/Images/url-parts-with-domain-name.png",
-    "2  - Source Materials/Images/unit-test-pyramid.png",
-    "2  - Source Materials/Images/types-of-triangle.png"
+    "2  - Source Materials/Images/url-parts-with-domain-name.png"
   ]
 }
