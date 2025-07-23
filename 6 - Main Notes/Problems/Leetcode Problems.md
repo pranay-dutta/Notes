@@ -1,4 +1,4 @@
-### 🌍 [[Array]]
+q## 🌍 [[Array]]
 https://leetcode.com/problems/maximum-erasure-value/description/?envType=daily-question&envId=2025-07-22
 
 1. [[3 Sum]]
