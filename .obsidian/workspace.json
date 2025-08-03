@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7cbb3ca17392d80b",
+        "id": "7429b7a3cd1960b3",
         "type": "tabs",
         "children": [
           {
-            "id": "beb281691b5befa5",
+            "id": "d61ef8254443b493",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Josephus Problem.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Josephus Problem"
             }
           }
         ]
@@ -166,15 +170,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "beb281691b5befa5",
+  "active": "d61ef8254443b493",
   "lastOpenFiles": [
+    "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
+    "6 - Main Notes/React/Unit testing in React.md",
+    "6 - Main Notes/Unit Testing/React Router in Tests — Avoiding `useNavigate()` Errors.md",
     "2  - Source Materials/Images/max-area-of-island.jpg",
     "2  - Source Materials/Images/max-area-of-cake-example1.png",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",
     "6 - Main Notes/System-Design/Domain name.md",
     "6 - Main Notes/Logic Gates.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
-    "6 - Main Notes/Problems/🧪 React Router in Tests — Avoiding `useNavigate()` Errors.md",
     "6 - Main Notes/Problems/Minimum Size Subarray Sum.md",
     "6 - Main Notes/Problems/Maximum Points You Can Obtain from Cards.md",
     "6 - Main Notes/Solutions/Maximum Points You Can Obtain from Cards iterative solution.md",
@@ -196,7 +202,6 @@
     "4 - Index/Sliding Window.md",
     "6 - Main Notes/Problems/Running Sum of 1d Array.md",
     "6 - Main Notes/Problems/Rotate Image.md",
-    "6 - Main Notes/Problems/Reverse Linked List.md",
     "2  - Source Materials/Images/logic-gates.png",
     "8 - Hand Written/grumpy-bookstore-owner-solution.jpg",
     "8 - Hand Written/divisor-game-note.jpg",
