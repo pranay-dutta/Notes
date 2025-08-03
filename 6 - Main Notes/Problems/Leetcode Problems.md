@@ -29,6 +29,11 @@ https://leetcode.com/problems/maximum-erasure-value/description/?envType=daily-q
 
 1. [[Convert Binary Number in a Linked List to Integer]]
 2. [[Add Binary]]
+
+--- 
+### 🌍 [[Binary Search]]
+
+1. [[Minimum Number of Days to Make m Bouquets]]
 --- 
 ### 🌍 [[Cumulative Sum]]
 
