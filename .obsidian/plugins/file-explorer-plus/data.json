@@ -57,7 +57,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "6 - Main Notes/Problems/Algorithms/Algorithms.md",
+        "pattern": "6 - Main Notes/Algorithms/Unique DSA Algorithms/Unique Algorithms.md",
         "patternType": "STRICT"
       },
       {

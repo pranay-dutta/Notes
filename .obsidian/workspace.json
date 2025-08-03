@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7429b7a3cd1960b3",
+        "id": "02bb1d1f496e6d51",
         "type": "tabs",
         "children": [
           {
-            "id": "d61ef8254443b493",
+            "id": "ed87c2ac444541ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Josephus Problem.md",
+                "file": "6 - Main Notes/Algorithms/Normal Algorithms/Binary Search on Answer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Josephus Problem"
+              "title": "Binary Search on Answer"
             }
           }
         ]
@@ -170,8 +170,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d61ef8254443b493",
+  "active": "ed87c2ac444541ba",
   "lastOpenFiles": [
+    "6 - Main Notes/Algorithms/Normal Algorithms/Binary Search on Answer.md",
+    "6 - Main Notes/Algorithms/Normal Algorithms",
+    "6 - Main Notes/Algorithms",
+    "6 - Main Notes/Algorithms/Unique DSA Algorithms/Josephus Algorithm.md",
+    "6 - Main Notes/Algorithms/Unique DSA Algorithms/Unique Algorithms.md",
+    "6 - Main Notes/Problems/Find the Duplicate Number.md",
+    "6 - Main Notes/Algorithms/Unique DSA Algorithms/Boyer Moore Voting Algorithm.md",
+    "6 - Main Notes/Solutions/Find the duplicate number solved using tortoise and hare algo.md",
+    "6 - Main Notes/Algorithms/Unique DSA Algorithms/Floyd's Cycle Detection Algorithm (Tortoise and Hare).md",
+    "6 - Main Notes/Algorithms/Unique DSA Algorithms/Kadane's Algorithm.md",
+    "6 - Main Notes/Solutions/Counting Bits solved using recursion.md",
+    "6 - Main Notes/Solutions/Add Binary solved iteratively.md",
+    "6 - Main Notes/Solutions/Add Binary solved iteratively but better.md",
+    "6 - Main Notes/Solutions/Add elements in place of zero.md",
+    "6 - Main Notes/Solutions/Add strings optimal solution.md",
+    "6 - Main Notes/Solutions/Binary to decimal conversion using bit shift.md",
+    "6 - Main Notes/Solutions/Boyer Moore voting algo majority element II.md",
+    "6 - Main Notes/Solutions/Brute force Container With Most Water.md",
+    "6 - Main Notes/Solutions/Built-in next_permutation function.md",
+    "6 - Main Notes/Solutions/Buy today sell next day using recursion.md",
     "6 - Main Notes/Unit Testing/Unit testing in JavaScript.md",
     "6 - Main Notes/React/Unit testing in React.md",
     "6 - Main Notes/Unit Testing/React Router in Tests — Avoiding `useNavigate()` Errors.md",
@@ -183,25 +203,7 @@
     "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Minimum Size Subarray Sum.md",
     "6 - Main Notes/Problems/Maximum Points You Can Obtain from Cards.md",
-    "6 - Main Notes/Solutions/Maximum Points You Can Obtain from Cards iterative solution.md",
-    "6 - Main Notes/Problems/Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.md",
-    "6 - Main Notes/Problems/Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts solved.md",
     "2  - Source Materials/Images/max-area-of-cake-example2.png",
-    "6 - Main Notes/Problems/Word Search.md",
-    "6 - Main Notes/Problems/Valid Parentheses.md",
-    "6 - Main Notes/Problems/Valid Palindrome II.md",
-    "6 - Main Notes/Problems/Valid Palindrome.md",
-    "6 - Main Notes/Problems/Two Sum.md",
-    "6 - Main Notes/Problems/Total Characters in String After Transformations I.md",
-    "6 - Main Notes/Problems/Subsets.md",
-    "6 - Main Notes/Problems/Subarray Sum Equals K.md",
-    "6 - Main Notes/Problems/Squares of a Sorted Array.md",
-    "6 - Main Notes/Solutions/Storing each number into a stack and comparing.md",
-    "4 - Index/String.md",
-    "6 - Main Notes/Problems/Spiral Matrix.md",
-    "4 - Index/Sliding Window.md",
-    "6 - Main Notes/Problems/Running Sum of 1d Array.md",
-    "6 - Main Notes/Problems/Rotate Image.md",
     "2  - Source Materials/Images/logic-gates.png",
     "8 - Hand Written/grumpy-bookstore-owner-solution.jpg",
     "8 - Hand Written/divisor-game-note.jpg",
