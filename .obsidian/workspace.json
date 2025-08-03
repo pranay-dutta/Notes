@@ -11,14 +11,12 @@
             "id": "76e402d2bc3e9013",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "6 - Main Notes/Logic Gates.md",
-                "mode": "source",
-                "source": false
+                "file": "2  - Source Materials/Images/url-parts-with-domain-name.png"
               },
-              "icon": "lucide-file",
-              "title": "Logic Gates"
+              "icon": "lucide-image",
+              "title": "url-parts-with-domain-name"
             }
           }
         ]
@@ -172,6 +170,8 @@
   },
   "active": "76e402d2bc3e9013",
   "lastOpenFiles": [
+    "6 - Main Notes/System-Design/Domain name.md",
+    "6 - Main Notes/Logic Gates.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/🧪 React Router in Tests — Avoiding `useNavigate()` Errors.md",
     "6 - Main Notes/Problems/Minimum Size Subarray Sum.md",
@@ -198,8 +198,6 @@
     "6 - Main Notes/Problems/Rotate Image.md",
     "6 - Main Notes/Problems/Reverse Linked List.md",
     "6 - Main Notes/Problems/Reverse Integer.md",
-    "6 - Main Notes/Problems/Remove Sub-Folders from the Filesystem.md",
-    "6 - Main Notes/Problems/Remove Duplicates from Sorted Array.md",
     "max-area-of-island.jpg",
     "2  - Source Materials/Images/logic-gates.png",
     "8 - Hand Written/grumpy-bookstore-owner-solution.jpg",
