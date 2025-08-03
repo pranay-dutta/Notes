@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d9bef09ee112ade",
+        "id": "7cbb3ca17392d80b",
         "type": "tabs",
         "children": [
           {
-            "id": "76e402d2bc3e9013",
+            "id": "beb281691b5befa5",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "2  - Source Materials/Images/url-parts-with-domain-name.png"
-              },
-              "icon": "lucide-image",
-              "title": "url-parts-with-domain-name"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -168,8 +166,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "76e402d2bc3e9013",
+  "active": "beb281691b5befa5",
   "lastOpenFiles": [
+    "2  - Source Materials/Images/max-area-of-island.jpg",
+    "2  - Source Materials/Images/max-area-of-cake-example1.png",
+    "2  - Source Materials/Images/url-parts-with-domain-name.png",
     "6 - Main Notes/System-Design/Domain name.md",
     "6 - Main Notes/Logic Gates.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
@@ -180,7 +181,6 @@
     "6 - Main Notes/Problems/Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.md",
     "6 - Main Notes/Problems/Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts solved.md",
     "2  - Source Materials/Images/max-area-of-cake-example2.png",
-    "max-area-of-cake-example1.png",
     "6 - Main Notes/Problems/Word Search.md",
     "6 - Main Notes/Problems/Valid Parentheses.md",
     "6 - Main Notes/Problems/Valid Palindrome II.md",
@@ -197,14 +197,11 @@
     "6 - Main Notes/Problems/Running Sum of 1d Array.md",
     "6 - Main Notes/Problems/Rotate Image.md",
     "6 - Main Notes/Problems/Reverse Linked List.md",
-    "6 - Main Notes/Problems/Reverse Integer.md",
-    "max-area-of-island.jpg",
     "2  - Source Materials/Images/logic-gates.png",
     "8 - Hand Written/grumpy-bookstore-owner-solution.jpg",
     "8 - Hand Written/divisor-game-note.jpg",
     "2  - Source Materials/Images/word-matrix.jpg",
     "2  - Source Materials/Images/webserver-user-A-user-B.png",
-    "2  - Source Materials/Images/vertical-vs-horizontal-scaling.png",
-    "2  - Source Materials/Images/url-parts-with-domain-name.png"
+    "2  - Source Materials/Images/vertical-vs-horizontal-scaling.png"
   ]
 }
