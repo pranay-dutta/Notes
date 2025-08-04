@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Solutions/Minimized Maximum of Products Distributed to Any Store.md",
+                "file": "6 - Main Notes/Algorithms/Normal Algorithms/Binary Search on Answer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minimized Maximum of Products Distributed to Any Store"
+              "title": "Binary Search on Answer"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "ed87c2ac444541ba",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Koko Eating Bananas.md",
     "6 - Main Notes/Algorithms/Normal Algorithms/Binary Search on Answer.md",
     "6 - Main Notes/Solutions/Minimized Maximum of Products Distributed to Any Store.md",
     "6 - Main Notes/Problems/Minimum Number of Days to Make m Bouquets.md",
@@ -199,7 +200,6 @@
     "6 - Main Notes/Solutions/Boyer Moore voting algo majority element II.md",
     "6 - Main Notes/Solutions/Brute force Container With Most Water.md",
     "6 - Main Notes/Solutions/Built-in next_permutation function.md",
-    "6 - Main Notes/Solutions/Buy today sell next day using recursion.md",
     "2  - Source Materials/Images/max-area-of-island.jpg",
     "2  - Source Materials/Images/max-area-of-cake-example1.png",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",
