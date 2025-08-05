@@ -1,4 +1,4 @@
-**Topic:**  
+**Topic:**  [[Array]] [[Binary Search]]
 **Last Modified**:  `2025-08-05 23:53`
 
 `Problem:` 
@@ -12,10 +12,10 @@ You must write an algorithm with `O(log n)` runtime complexity.
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O() Space O()` 
+ `Time O(log n) Space O(1)` [[Find First and Last Position of Element in Sorted Array solved using binary search]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
- `Time O(n) Space O(1)` [[find]] 
+ `Time O(n) Space O(1)` [[Find First and Last Position of Element in Sorted Array iterative solution]] 
 ----------------------------------------------------------------------------------------------
 ###### 🔴 Worst
  `Time O() Space O()` 
