@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
+                "file": "6 - Main Notes/Problems/Find First and Last Position of Element in Sorted Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Problems"
+              "title": "Find First and Last Position of Element in Sorted Array"
             }
           }
         ]
@@ -172,13 +172,14 @@
   },
   "active": "ed87c2ac444541ba",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Problems/Find First and Last Position of Element in Sorted Array.md",
+    "6 - Main Notes/Problems/Split Array Largest Sum.md",
     "6 - Main Notes/Algorithms/Normal Algorithms/Binary Search on Answer.md",
     "6 - Main Notes/Solutions/Minimized Maximum of Products Distributed to Any Store.md",
     "6 - Main Notes/Problems/Koko Eating Bananas.md",
     "6 - Main Notes/Solutions/Split Array Largest Sum solved using binary search.md",
-    "6 - Main Notes/Problems/Split Array Largest Sum.md",
     "4 - Index/Binary Search.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Solutions/Minimized Maximum of Products Distributed to Any Store solved using binary search.md",
     "6 - Main Notes/Solutions/Koko Eating Bananas solved using binary search.md",
     "6 - Main Notes/Problems/Capacity To Ship Packages Within D Days.md",
@@ -199,7 +200,6 @@
     "6 - Main Notes/Solutions/Add Binary solved iteratively.md",
     "6 - Main Notes/Solutions/Add Binary solved iteratively but better.md",
     "6 - Main Notes/Solutions/Add elements in place of zero.md",
-    "6 - Main Notes/Solutions/Add strings optimal solution.md",
     "2  - Source Materials/Images/max-area-of-island.jpg",
     "2  - Source Materials/Images/max-area-of-cake-example1.png",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",
