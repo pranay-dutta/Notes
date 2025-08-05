@@ -6,7 +6,7 @@
  $SC: O(1)$
 
 ---
-##### **Intuition**: 
+	##### **Intuition**: r
 
  
 ```cpp
