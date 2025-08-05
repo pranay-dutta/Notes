@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Maximum Erasure Value.md",
+                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximum Erasure Value"
+              "title": "Leetcode Problems"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 332.5
   },
   "right": {
     "id": "9a99774488067aa9",
@@ -172,11 +172,16 @@
   },
   "active": "ed87c2ac444541ba",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Maximum Points You Can Obtain from Cards.md",
     "6 - Main Notes/Problems/Leetcode Problems.md",
-    "6 - Main Notes/Problems/Maximum Erasure Value.md",
-    "6 - Main Notes/Problems/[Maximum Erasure Value.md",
+    "6 - Main Notes/Problems/Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.md",
+    "6 - Main Notes/Problems/Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts solved.md",
     "6 - Main Notes/Problems/Convert Binary Number in a Linked List to Integer.md",
+    "6 - Main Notes/Solutions/Binary to decimal conversion using bit shift.md",
     "6 - Main Notes/Problems/Find First and Last Position of Element in Sorted Array.md",
+    "6 - Main Notes/Problems/Maximum Erasure Value.md",
+    "6 - Main Notes/Solutions/Maximum Erasure Value solved using sliding window.md",
+    "6 - Main Notes/Problems/[Maximum Erasure Value.md",
     "6 - Main Notes/Problems/Find First and Last Position of Element in Sorted Array solved using binary search.md",
     "6 - Main Notes/Solutions/Find First and Last Position of Element in Sorted Array iterative solution.md",
     "6 - Main Notes/Problems/Split Array Largest Sum.md",
@@ -195,11 +200,6 @@
     "6 - Main Notes/Algorithms",
     "6 - Main Notes/Algorithms/Unique DSA Algorithms/Josephus Algorithm.md",
     "6 - Main Notes/Algorithms/Unique DSA Algorithms/Unique Algorithms.md",
-    "6 - Main Notes/Problems/Find the Duplicate Number.md",
-    "6 - Main Notes/Algorithms/Unique DSA Algorithms/Boyer Moore Voting Algorithm.md",
-    "6 - Main Notes/Solutions/Find the duplicate number solved using tortoise and hare algo.md",
-    "6 - Main Notes/Algorithms/Unique DSA Algorithms/Floyd's Cycle Detection Algorithm (Tortoise and Hare).md",
-    "6 - Main Notes/Algorithms/Unique DSA Algorithms/Kadane's Algorithm.md",
     "2  - Source Materials/Images/max-area-of-island.jpg",
     "2  - Source Materials/Images/max-area-of-cake-example1.png",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",
