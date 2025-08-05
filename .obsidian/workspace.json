@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
+                "file": "6 - Main Notes/Algorithms/Normal Algorithms/Binary Search on Answer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Problems"
+              "title": "Binary Search on Answer"
             }
           }
         ]
@@ -172,9 +172,12 @@
   },
   "active": "ed87c2ac444541ba",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Find the Smallest Divisor Given a Threshold.md",
+    "6 - Main Notes/Solutions/Find the Smallest Divisor Given a Threshold solved using binary search.md",
+    "6 - Main Notes/Algorithms/Normal Algorithms/Binary Search on Answer.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Maximum Erasure Value.md",
     "6 - Main Notes/Solutions/Maximum Erasure Value solved using sliding window.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Maximum Points You Can Obtain from Cards.md",
     "6 - Main Notes/Problems/Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.md",
     "6 - Main Notes/Problems/Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts solved.md",
@@ -185,7 +188,6 @@
     "6 - Main Notes/Problems/Find First and Last Position of Element in Sorted Array solved using binary search.md",
     "6 - Main Notes/Solutions/Find First and Last Position of Element in Sorted Array iterative solution.md",
     "6 - Main Notes/Problems/Split Array Largest Sum.md",
-    "6 - Main Notes/Algorithms/Normal Algorithms/Binary Search on Answer.md",
     "6 - Main Notes/Solutions/Minimized Maximum of Products Distributed to Any Store.md",
     "6 - Main Notes/Problems/Koko Eating Bananas.md",
     "6 - Main Notes/Solutions/Split Array Largest Sum solved using binary search.md",
@@ -198,8 +200,6 @@
     "6 - Main Notes/Solutions/Capacity To Ship Packages Within D Days solved using binary search.md",
     "6 - Main Notes/Algorithms/Normal Algorithms",
     "6 - Main Notes/Algorithms",
-    "6 - Main Notes/Algorithms/Unique DSA Algorithms/Josephus Algorithm.md",
-    "6 - Main Notes/Algorithms/Unique DSA Algorithms/Unique Algorithms.md",
     "2  - Source Materials/Images/max-area-of-island.jpg",
     "2  - Source Materials/Images/max-area-of-cake-example1.png",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",
