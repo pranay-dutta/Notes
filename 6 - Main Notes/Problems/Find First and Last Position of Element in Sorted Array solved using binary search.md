@@ -41,9 +41,9 @@ int findRight(vector<int>& nums, int target, int l, int r) {
 			r = mid - 1;
 		}
 	}
-
 	return e;
 }
+
 vector<int> searchRange(vector<int>& nums, int target) {
 	int n = nums.size();
 
