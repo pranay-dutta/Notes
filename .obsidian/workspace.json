@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
+                "file": "6 - Main Notes/Problems/Maximum Erasure Value.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Problems"
+              "title": "Maximum Erasure Value"
             }
           }
         ]
@@ -172,10 +172,13 @@
   },
   "active": "ed87c2ac444541ba",
   "lastOpenFiles": [
+    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "6 - Main Notes/Problems/Maximum Erasure Value.md",
+    "6 - Main Notes/Problems/[Maximum Erasure Value.md",
+    "6 - Main Notes/Problems/Convert Binary Number in a Linked List to Integer.md",
     "6 - Main Notes/Problems/Find First and Last Position of Element in Sorted Array.md",
     "6 - Main Notes/Problems/Find First and Last Position of Element in Sorted Array solved using binary search.md",
     "6 - Main Notes/Solutions/Find First and Last Position of Element in Sorted Array iterative solution.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/Problems/Split Array Largest Sum.md",
     "6 - Main Notes/Algorithms/Normal Algorithms/Binary Search on Answer.md",
     "6 - Main Notes/Solutions/Minimized Maximum of Products Distributed to Any Store.md",
@@ -188,7 +191,6 @@
     "6 - Main Notes/Problems/Minimum Number of Days to Make m Bouquets.md",
     "6 - Main Notes/Solutions/Minimum Number of Days to Make m Bouquets solved using binary search.md",
     "6 - Main Notes/Solutions/Capacity To Ship Packages Within D Days solved using binary search.md",
-    "6 - Main Notes/Problems/Convert Binary Number in a Linked List to Integer.md",
     "6 - Main Notes/Algorithms/Normal Algorithms",
     "6 - Main Notes/Algorithms",
     "6 - Main Notes/Algorithms/Unique DSA Algorithms/Josephus Algorithm.md",
@@ -198,8 +200,6 @@
     "6 - Main Notes/Solutions/Find the duplicate number solved using tortoise and hare algo.md",
     "6 - Main Notes/Algorithms/Unique DSA Algorithms/Floyd's Cycle Detection Algorithm (Tortoise and Hare).md",
     "6 - Main Notes/Algorithms/Unique DSA Algorithms/Kadane's Algorithm.md",
-    "6 - Main Notes/Solutions/Counting Bits solved using recursion.md",
-    "6 - Main Notes/Solutions/Add Binary solved iteratively.md",
     "2  - Source Materials/Images/max-area-of-island.jpg",
     "2  - Source Materials/Images/max-area-of-cake-example1.png",
     "2  - Source Materials/Images/url-parts-with-domain-name.png",

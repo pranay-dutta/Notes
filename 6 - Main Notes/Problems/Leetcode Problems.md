@@ -1,6 +1,4 @@
-q## 🌍 [[Array]]
-https://leetcode.com/problems/maximum-erasure-value/description/?envType=daily-question&envId=2025-07-22
-
+ 🌍 [[Array]]
 1. [[3 Sum]]
 2. [[4 Sum]]
 3. [[Container With Most Water]]
@@ -85,6 +83,7 @@ https://leetcode.com/problems/maximum-erasure-value/description/?envType=daily-q
 ### 🌍 [[Sliding Window]]
 
 1. [[Grumpy Bookstore Owner]]
+2. [[Maximum Erasure Value]]
 ---
 ### 🌍 [[Stack]]
 
