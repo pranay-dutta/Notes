@@ -32,7 +32,7 @@ https://leetcode.com/problems/maximum-erasure-value/description/?envType=daily-q
 
 --- 
 ### 🌍 [[Binary Search]]
-
+[[Binary Search on Answer]]
 1. [[Capacity To Ship Packages Within D Days]]
 2. [[Koko Eating Bananas]]
 3. [[Minimum Number of Days to Make m Bouquets]]
