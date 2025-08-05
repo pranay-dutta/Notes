@@ -17,7 +17,7 @@ Return _the minimum integer_ `k` _such that she can eat all the bananas withi
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O() Space O()` 
+ `Time O(n log(n)) Space O(1)` [[Koko Eating Bananas solved using binary search]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
