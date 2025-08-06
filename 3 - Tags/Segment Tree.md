@@ -3,4 +3,9 @@
 - **Efficient querying** of *intervals\range*😲
 - **Efficient Updating** of *intervals\range*
 
-**Examples:**
+**Examples:** range queries to find
+- Sum
+- Minimum
+- Maximum
+- Product etc.
+
