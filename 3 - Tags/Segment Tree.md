@@ -32,6 +32,4 @@ In Geometric Progression sum of infinite terms
 - **a** = first term
 - **r** = common ratio (must satisfy $| \ r \ | < 1$)
 *how to get the ratio **r** = second term / first term*
-
-$Sum∞ = a / 1 - r$
-
+# Sum ∞ = $\frac{a}{1-r}$
