@@ -76,6 +76,8 @@
 ---
 ### 🌍 [[Segment Tree]]
 
+- [[Build  Segment Tree]]
+
 ---
 ## 🌍 [[Recursion]]
 
