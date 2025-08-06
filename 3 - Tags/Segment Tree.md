@@ -23,4 +23,10 @@
 ---
  *Number of nodes in segment tree*
 - $N + N/2\ + N/4 \  + \ . . . . 1$   **=>  2 * N** ===> *[[Geometric Progression]]*
+- If ***N*** is odd then number of nodes is => ***2 * N - 1***
+
+- **Leaf** = N 
+- **Internal** = N-1 
+so, *N + N-1* => **(2N - 1)** => ≈ **2N**
 ---
+
