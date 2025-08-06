@@ -74,6 +74,9 @@
 2. [[Plus One]]
 3. [[Reverse Integer]]
 ---
+### 🌍 [[Segment Tree]]
+
+---
 ## 🌍 [[Recursion]]
 
 1. [[Find the K-th Character in String Game I]]
