@@ -24,6 +24,13 @@
  *Number of nodes in segment tree*
 - $N + N/2\ + N/4 \  + \ . . . . 1$ *(Geometric Progression)*
 ---
- Suppose **N** is near **∞** infinity. 
-### In Geometric Progression sum of infinite terms is
-- ∑**∞** = 
+Suppose **N** is near **∞** infinity. 
+In Geometric Progression sum of infinite terms
+
+*Where* -
+- **S** = sum of the infinite GP
+- **a** = first term
+- **r** = common ratio (must satisfy $| \ r \ | < 1$)
+
+*how to get the ratio **r** = second term / first term*
+
