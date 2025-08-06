@@ -9,6 +9,7 @@
 - Maximum
 - Product etc.
 
+---
 ## Important Observations
 
 1. Binary Tree 
@@ -18,3 +19,11 @@
 5. **Other Nodes** - Represents array segments
 6. **Height** - $⌈log\ (N)⌉$ - **N** is the size of the array
 7. **Height difference of left & right subtree** <= 1 *i.e.  [[Balanced Binary Tree]]*
+
+---
+ *Number of nodes in segment tree*
+- $N + N/2\ + N/4 \  + \ . . . . 1$ *(Geometric Progression)*
+---
+ Suppose **N** is near **∞** infinity. 
+### In Geometric Progression sum of infinite terms is
+- ∑**∞** = 
