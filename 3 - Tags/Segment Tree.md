@@ -22,15 +22,5 @@
 
 ---
  *Number of nodes in segment tree*
-- $N + N/2\ + N/4 \  + \ . . . . 1$ *[[Geometric Progression]]*
+- $N + N/2\ + N/4 \  + \ . . . . 1$   **=>  2 * N** ===> *[[Geometric Progression]]*
 ---
-Suppose **N** is near **∞** infinity. 
-In Geometric Progression sum of infinite terms
-
-*Where* -
-- **S** = sum of the infinite GP
-- **a** = first term
-- **r** = common ratio (must satisfy $| \ r \ | < 1$)
-
-***r** = second term / first term*
-# Sum ∞ = $\frac{a}{1-r}$ = $\frac{N}{1-1/2}$ =$\frac{N}{0.5}$ = 2 * N
