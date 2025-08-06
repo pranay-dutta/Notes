@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Longest",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -88,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 1.1502355811418654,
-  "close": false
+  "scale": 0.09895430218637165,
+  "close": true
 }
