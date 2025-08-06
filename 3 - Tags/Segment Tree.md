@@ -31,6 +31,7 @@ In Geometric Progression sum of infinite terms
 - **S** = sum of the infinite GP
 - **a** = first term
 - **r** = common ratio (must satisfy $| \ r \ | < 1$)
-
 *how to get the ratio **r** = second term / first term*
+
+$Sum∞ = a / 1 - r$
 
