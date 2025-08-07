@@ -1,4 +1,4 @@
-📌 Update any value in certain index and update segment tree
+📌 Created class Segment Tree with **Get query** method
 
 ```cpp
 class SegmentTree {
@@ -29,5 +29,3 @@ public:
 	}
 }
 ```
-
-***Next →***  [[Get Query Segment Tree]]
