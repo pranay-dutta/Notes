@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Array",
@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "DSA Topics",
+      "color": {
+        "a": 1,
+        "rgb": 11719649
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 0.19450022690616037,
+  "scale": 0.19450022690616076,
   "close": true
 }

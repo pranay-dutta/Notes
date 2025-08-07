@@ -80,6 +80,27 @@
         "type": "FILES",
         "pattern": "6 - Main Notes/DSA Topics/Binary Search on Answer/Binary Search on Answer.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "6 - Main Notes/DSA Topics/Binary Search on Answer/What is Binary Search on Answer.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "6 - Main Notes/DSA Topics/Segment Tree/What is Segment Tree.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
