@@ -29,4 +29,4 @@ public:
 }
 ```
 
-***Next →***  [[Query Segment Tree]]
+***Next →***  [[Update Query Segment Tree]]
