@@ -27,8 +27,7 @@ public:
 		}
 		
 		//Backtrack and update internal nodes since leaf is changed
-		segment[i] = mid(segment[lc], segment[rc]); //used max here but [min, prod, sum, avg] is also valid for other 
+		segment[i] = mid(segment[lc], segment[rc]); //used max here but [min, prod, sum, avg] is also valid for other usecases
 	}
-	
 }
 ```
