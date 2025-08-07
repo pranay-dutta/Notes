@@ -1,4 +1,5 @@
 📌 [[What is Segment Tree]]
-- [[Build  Segment Tree]]
+-  [[Segment Tree class with all methods]]
+
 
 🌍 Some Problems 

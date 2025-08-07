@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/DSA Topics/Segment Tree/Get Query Segment Tree.md",
+                "file": "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree class with all methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Get Query Segment Tree"
+              "title": "Segment Tree class with all methods"
             }
           }
         ]
@@ -172,10 +172,11 @@
   },
   "active": "01c6825d09130a5e",
   "lastOpenFiles": [
+    "6 - Main Notes/DSA Topics/Segment Tree/Build method Segment Tree.md",
+    "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree class with all methods.md",
+    "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Update Query Segment Tree.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Get Query Segment Tree.md",
-    "6 - Main Notes/DSA Topics/Segment Tree/Build  Segment Tree.md",
-    "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree.md",
     "6 - Main Notes/DSA Topics/Segment Tree/What is Segment Tree.md",
     "6 - Main Notes/DSA Topics/Binary Search on Answer/What is Binary Search on Answer.md",
     "6 - Main Notes/DSA Topics/Binary Search on Answer/Binary Search on Answer.md",
@@ -201,7 +202,6 @@
     "6 - Main Notes/Problems/Maximum Points You Can Obtain from Cards.md",
     "6 - Main Notes/Problems/Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.md",
     "6 - Main Notes/Problems/Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts solved.md",
-    "6 - Main Notes/Problems/Convert Binary Number in a Linked List to Integer.md",
     "6 - Main Notes/Algorithms/Normal Algorithms",
     "6 - Main Notes/Algorithms",
     "2  - Source Materials/Images/max-area-of-island.jpg",
