@@ -1,6 +1,4 @@
 
-🌍 Some problems
-
 1. [[Capacity To Ship Packages Within D Days]]
 2. [[Koko Eating Bananas]]
 3. [[Minimum Number of Days to Make m Bouquets]]

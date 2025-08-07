@@ -66,6 +66,20 @@
         "type": "FILES",
         "pattern": "6 - Main Notes/Operating System/Operating System.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "6 - Main Notes/DSA Topics/DSA Topics.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "6 - Main Notes/DSA Topics/Binary Search on Answer/Binary Search on Answer.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
