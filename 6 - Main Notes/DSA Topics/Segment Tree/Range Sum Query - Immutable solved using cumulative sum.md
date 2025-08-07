@@ -10,8 +10,6 @@
 ---
 ##### **Intuition**: build the **Cumulative sum** array if *L ... R* range is been asked return `Sum[R] - Sum[L-1]`
 
-
- 
 ```cpp
 
 ```
