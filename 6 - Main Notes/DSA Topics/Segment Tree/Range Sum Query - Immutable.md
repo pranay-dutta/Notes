@@ -18,7 +18,7 @@ Implement the `NumArray` class:
  `Time O() Space O()` 
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
- `Time O(n) Space O(n)` [[]] 
+ `Time O(n) Space O(n)` [[Range Sum Query - Immutable solved using cumulative sum]] 
 ----------------------------------------------------------------------------------------------
 ###### 🔴 Worst
  `Time O(q * n) Space O(n)` [[Range Sum Query - Immutable solved using brute force]]

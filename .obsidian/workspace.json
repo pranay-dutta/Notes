@@ -11,14 +11,12 @@
             "id": "2d31af2f217d6b25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "6 - Main Notes/Solutions/Range Sum Query - Immutable solved using brute force.md",
-                "mode": "source",
-                "source": false
+                "file": "7 - Excalidraw/Drawing.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Range Sum Query - Immutable solved using brute force"
+              "icon": "excalidraw-icon",
+              "title": "Drawing.excalidraw"
             }
           }
         ]
@@ -172,11 +170,12 @@
   },
   "active": "2d31af2f217d6b25",
   "lastOpenFiles": [
-    "4 - Index/Brute Force.md",
-    "6 - Main Notes/Solutions/Range Sum Query - Immutable solved using brute force.md",
+    "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - Immutable solved using cumulative sum.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - Immutable.md",
-    "5 - Templates/Template, Problem.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree class with all methods.md",
+    "6 - Main Notes/Solutions/Range Sum Query - Immutable solved using brute force.md",
+    "4 - Index/Brute Force.md",
+    "5 - Templates/Template, Problem.md",
     "6 - Main Notes/DSA Topics/Segment Tree/What is Segment Tree.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Build method Segment Tree.md",
@@ -201,7 +200,6 @@
     "4 - Index/Two Pointers.md",
     "4 - Index/Binary Search.md",
     "6 - Main Notes/Solutions/Find the Smallest Divisor Given a Threshold solved using binary search.md",
-    "6 - Main Notes/Problems/Maximum Erasure Value.md",
     "6 - Main Notes/Algorithms/Normal Algorithms",
     "6 - Main Notes/Algorithms",
     "2  - Source Materials/Images/max-area-of-island.jpg",
