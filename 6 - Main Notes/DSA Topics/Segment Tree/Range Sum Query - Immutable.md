@@ -15,7 +15,7 @@ Implement the `NumArray` class:
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O() Space O(4*n => n)` 
+ `Time O(n) Space O(4*n => n)` [[Range Sum Query - Immutable solved using segment tree]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O(n) Space O(n)` [[Range Sum Query - Immutable solved using cumulative sum]] 

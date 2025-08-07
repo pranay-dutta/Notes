@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - Immutable.md",
+                "file": "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Range Sum Query - Immutable"
+              "title": "Segment Tree"
             }
           }
         ]
@@ -172,16 +172,17 @@
   },
   "active": "2d31af2f217d6b25",
   "lastOpenFiles": [
+    "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - Immutable.md",
+    "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree class with all methods.md",
+    "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - Immutable solved using segment tree.md",
+    "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - Immutable solved using cumulative sum.md",
     "2  - Source Materials/Images/cumulative-range-sum-query.png",
     "7 - Excalidraw/Drawing.excalidraw.md",
-    "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - Immutable.md",
-    "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree class with all methods.md",
     "6 - Main Notes/Solutions/Range Sum Query - Immutable solved using brute force.md",
     "4 - Index/Brute Force.md",
     "5 - Templates/Template, Problem.md",
     "6 - Main Notes/DSA Topics/Segment Tree/What is Segment Tree.md",
-    "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Build method Segment Tree.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Get Query Segment Tree.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Update Query Segment Tree.md",

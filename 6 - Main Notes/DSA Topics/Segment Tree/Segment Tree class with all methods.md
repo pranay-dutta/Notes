@@ -11,7 +11,7 @@ public:
 	}
 
 	//1. Build method used to fill the values in segment tree
-	void build(vector<int>& nums, int i,  int l, int r) {
+	void build(vector<int>& nums, int i,  int l, int r) { //TC: O(nums.size())
 		if(l==r) {
 			segment[i] = nums[l]; //l & r both are same
 			return 
@@ -29,7 +29,7 @@ public:
 	}
 	
 	//2. getQuery method used to get the [sum, max, etc] within a range
-	int getQuery(int i, int l, int r, int qL, int qR) { //ql .... qR range, return sum, prod etc
+	int getQuery(int i, int l, int r, int qL, int qR) { //TC: O(log (n)) //ql .... qR range, return sum, prod etc
 		//1. No overlap
 		if(l > qR || r < qL) return 0;
 
@@ -48,7 +48,7 @@ public:
 
 	//3. updateQuery methods is used to update a value at a specific index and 
 	//then bactrack to update the segment tree inner nodes
-	void updateQuery(int i, int l, int r, int index, int val) {
+	void updateQuery(int i, int l, int r, int index, int val) { //TC: O(log (n))
 		if(index < l || index > r) return; //invalid index
 		
 		if(l==r) {
