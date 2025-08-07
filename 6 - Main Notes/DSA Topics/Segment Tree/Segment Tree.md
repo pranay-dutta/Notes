@@ -3,4 +3,6 @@
 
 🌍 Some Problems 
 
-1.  [[Range Sum Query - Immutable]]
+1. [[Range Sum Query - Immutable]]
+2. [[Range Sum Query - mutable]]
+
