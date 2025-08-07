@@ -1,3 +1,5 @@
+📌 Created class Segment Tree with **build** method
+
 ```cpp
 class SegmentTree {
 private:
@@ -13,6 +15,7 @@ public:
 			segment[i] = nums[l]; //l & r both are same
 			return 
 		}
+		
 		int mid = (l+r) / 2;
 		int leftChild = 2*i+1, rightChild = 2*i+2;
 		
@@ -21,7 +24,9 @@ public:
 		build(nums, leftChild, l, mid);
 
 		//Backtrack and fill the internal nodes
-		segment[i] = max(segment[leftChild], segment[rightChild]); //[max, prod, ]
+		segment[i] = max(segment[leftChild], segment[rightChild]); //[max, prod, sum, min, avg, etc]
 	}
 }
 ```
+
+***Next →***  [[Query Segment Tree]]
