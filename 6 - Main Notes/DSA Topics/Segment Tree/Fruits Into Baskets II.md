@@ -19,7 +19,7 @@ Return the number of fruit types that remain unplaced after all possible allocat
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O(n logn(m)) Space O()` 
+ `Time O(n logn(m)) Space O(4n)`  
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
