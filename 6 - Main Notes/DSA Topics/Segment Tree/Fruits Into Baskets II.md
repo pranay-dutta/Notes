@@ -1,4 +1,4 @@
-**Topic:**  
+**Topic:**  [[Segment Tree]] [[Binary Search]]
 **Last Modified**:  `2025-08-08 13:46`
 
 ---
@@ -19,11 +19,11 @@ Return the number of fruit types that remain unplaced after all possible allocat
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O() Space O()` 
+ `Time O(n logn(m)) Space O()` 
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
 ----------------------------------------------------------------------------------------------
 ###### 🔴 Worst
- `Time O(n^2) Space O(1)` [[Fruits Into Baskets II solved using brute force]] 
+ `Time O(n*m) Space O(1)` [[Fruits Into Baskets II solved using brute force]] 
 ----------------------------------------------------------------------------------------------

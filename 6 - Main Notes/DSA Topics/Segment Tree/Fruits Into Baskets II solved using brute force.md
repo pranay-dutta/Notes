@@ -2,7 +2,7 @@
 **Problem:**  [[Fruits Into Baskets II]]
 **Last Modified:**  `2025-08-08 13:47`
 
- $TC: O(n^2)$
+ $TC: O(n*m)$ *n=fruits.size()* & *m = baskets.size()*
  $SC: O(1)$
 
 ---
