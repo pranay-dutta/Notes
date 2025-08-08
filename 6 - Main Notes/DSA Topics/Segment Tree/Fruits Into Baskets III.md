@@ -1,5 +1,5 @@
-**Topic:**  [[Segment Tree]] [[Binary Search]]
-**Last Modified**:  `2025-08-08 13:46`
+**Topic:**  [[Segment Tree]]
+**Last Modified**:  `2025-08-08 14:17`
 
 ---
 `Problem:`
@@ -16,14 +16,16 @@ From left to right, place the fruits according to these rules:
 Return the number of fruit types that remain unplaced after all possible allocations are made.
 
 ---
+
 ### Solutions -- 
 
 ###### 🟢 Best
- `Time O(n logn(m)) Space O(4m)` [[Fruits Into Baskets II solved using segment tree]]
+ `Time O(n log(m)) Space O(4m)` [[Fruits Into Baskets III solved using segment tree]]
 ----------------------------------------------------------------------------------------------
 ###### 🟡 Average
  `Time O() Space O()` 
 ----------------------------------------------------------------------------------------------
 ###### 🔴 Worst
- `Time O(n*m) Space O(1)` [[Fruits Into Baskets II solved using brute force]] 
+ `Time O() Space O()` *brute force won't get accepeted since constraint is so high*
 ----------------------------------------------------------------------------------------------
+
