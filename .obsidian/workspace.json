@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree.md",
+                "file": "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - mutable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Segment Tree"
+              "title": "Range Sum Query - mutable"
             }
           }
         ]
@@ -172,11 +172,11 @@
   },
   "active": "2d31af2f217d6b25",
   "lastOpenFiles": [
+    "6 - Main Notes/Solutions/Range Sum Query - mutable solved using segment tree.md",
+    "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - mutable.md",
+    "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - Immutable.md",
     "6 - Main Notes/Solutions/Range Sum Query - Immutable solved using segment tree.md",
-    "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree.md",
-    "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - mutable.md",
-    "6 - Main Notes/Solutions/Range Sum Query - mutable solved using segment tree.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Fruits Into Baskets II.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Fruits Into Baskets III.md",
     "4 - Index/Binary Search.md",
