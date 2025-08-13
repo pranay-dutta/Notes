@@ -73,10 +73,6 @@
 1. [[Palindrome Number]]
 2. [[Plus One]]
 3. [[Reverse Integer]]
----
-### 🌍 [[Segment Tree]]
-
-- [[Build method Segment Tree]]
 
 ---
 ## 🌍 [[Recursion]]

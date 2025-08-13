@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - mutable.md",
+                "file": "6 - Main Notes/Problems/Leetcode Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Range Sum Query - mutable"
+              "title": "Leetcode Problems"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 332.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a99774488067aa9",
@@ -172,22 +173,25 @@
   },
   "active": "2d31af2f217d6b25",
   "lastOpenFiles": [
-    "6 - Main Notes/Solutions/Range Sum Query - mutable solved using segment tree.md",
-    "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - mutable.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree.md",
+    "2  - Source Materials/Images/segment-tree.png",
+    "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree class with all methods.md",
+    "6 - Main Notes/DSA Topics/Segment Tree/What is Segment Tree.md",
+    "6 - Main Notes/Problems/Leetcode Problems.md",
+    "7 - Excalidraw/Drawing.excalidraw.md",
+    "6 - Main Notes/DSA Topics/Segment Tree/Fruits Into Baskets II.md",
+    "6 - Main Notes/DSA Topics/DSA Topics.md",
+    "6 - Main Notes/DSA Topics/Segment Tree/Fruits Into Baskets III.md",
+    "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - mutable.md",
+    "6 - Main Notes/Solutions/Range Sum Query - mutable solved using segment tree.md",
     "6 - Main Notes/DSA Topics/Segment Tree/Range Sum Query - Immutable.md",
     "6 - Main Notes/Solutions/Range Sum Query - Immutable solved using segment tree.md",
-    "6 - Main Notes/DSA Topics/Segment Tree/Fruits Into Baskets II.md",
-    "6 - Main Notes/DSA Topics/Segment Tree/Fruits Into Baskets III.md",
     "4 - Index/Binary Search.md",
     "6 - Main Notes/Solutions/Fruits Into Baskets III solved using segment tree.md",
     "6 - Main Notes/Solutions/Fruits Into Baskets II solved using segment tree.md",
-    "6 - Main Notes/DSA Topics/Segment Tree/What is Segment Tree.md",
-    "6 - Main Notes/DSA Topics/Segment Tree/Segment Tree class with all methods.md",
     "6 - Main Notes/Solutions/Range Sum Query - Immutable solved using cumulative sum.md",
     "6 - Main Notes/Solutions/Fruits Into Baskets II solved using brute force.md",
     "2  - Source Materials/Images/cumulative-range-sum-query.png",
-    "7 - Excalidraw/Drawing.excalidraw.md",
     "6 - Main Notes/Solutions/Range Sum Query - Immutable solved using brute force.md",
     "4 - Index/Brute Force.md",
     "5 - Templates/Template, Problem.md",
@@ -196,9 +200,6 @@
     "6 - Main Notes/DSA Topics/Segment Tree/Update Query Segment Tree.md",
     "6 - Main Notes/DSA Topics/Binary Search on Answer/What is Binary Search on Answer.md",
     "6 - Main Notes/DSA Topics/Binary Search on Answer/Binary Search on Answer.md",
-    "6 - Main Notes/DSA Topics/Binary Search on Answer/Find the Smallest Divisor Given a Threshold.md",
-    "6 - Main Notes/DSA Topics/Binary Search on Answer/Capacity To Ship Packages Within D Days.md",
-    "6 - Main Notes/Problems/Leetcode Problems.md",
     "6 - Main Notes/DSA Topics/Segment Tree",
     "6 - Main Notes/DSA Topics/Binary Search on Answer",
     "6 - Main Notes/DSA Topics",
@@ -212,7 +213,6 @@
     "2  - Source Materials/Images/logic-gates.png",
     "8 - Hand Written/grumpy-bookstore-owner-solution.jpg",
     "8 - Hand Written/divisor-game-note.jpg",
-    "2  - Source Materials/Images/word-matrix.jpg",
-    "2  - Source Materials/Images/webserver-user-A-user-B.png"
+    "2  - Source Materials/Images/word-matrix.jpg"
   ]
 }
